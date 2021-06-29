@@ -1,0 +1,13 @@
+# Rule 508 Identity of informer (a) General rule of privilege. The Commonwealth of Kentucky and its sister states and
+the United States have a privilege to refuse to disclose the identity of a person who has furnished information relating to or assisting in an investigation of a possible violation of a law to a law enforcement officer or member of a legislative committee or its staff conducting an investigation.
+(b) Who may claim. The privilege may be claimed by an appropriate representative of the public entity to which the information was furnished.
+(c) Exceptions:
+(1) Voluntary disclosure; informer as a witness. No privilege exists under this rule if the identity of the informer or his interest in the subject matter of his communication has been disclosed by the holder of the privilege or by the informer's own action, or if the informer appears as a witness for the state. Disclosure within a law enforcement agency or legislative committee for a proper purpose does not waive the privilege.
+(2) Testimony on relevant issue. If it appears that an informer may be able to give relevant testimony and the public entity invokes the privilege, the court shall give the public entity an opportunity to make an in camera showing in support of the claim of privilege. The showing will ordinarily be in the form of affidavits, but the court may direct that testimony be taken if it finds that the matter cannot be resolved satisfactorily upon affidavits. If the court finds that there is a reasonable probability that the informer can give relevant testimony, and the public entity elects not to disclose this identity, in criminal cases the court on motion of the defendant or on its own motion shall grant appropriate relief, which may include one (1) or more of the following:
+(A) Requiring the prosecuting attorney to comply;
+(B) Granting the defendant additional time or a continuance;
+(C) Relieving the defendant from making disclosures otherwise required of him;
+(D) Prohibiting the prosecuting attorney from introducing specified evidence; and (E) Dismissing charges.
+(d) In civil cases, the court may make any order the interests of justice require if the informer has pertinent information. Evidence presented to the court shall be sealed and preserved to be made available to the appellate court in the event of an appeal, and the contents shall not otherwise be revealed without consent of the informed public entity.
+Effective: July 1, 1992
+History: Enacted 1990 Ky. Acts ch. 88, sec. 30; amended 1992 Ky. Acts ch. 324, sec. 13; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34.

@@ -1,0 +1,5 @@
+# Rule 408 Compromise and offers to compromise Evidence of:
+(1) Furnishing or offering or promising to furnish; or
+(2) Accepting or offering or promising to accept a valuable consideration in compromising or attempting to compromise a claim which was disputed as to either validity or amount, is not admissible to prove liability for or invalidity of the claim or its amount. Evidence of conduct or statements made in compromise negotiations is likewise not admissible. This rule does not require the exclusion of any evidence otherwise discoverable merely because it is presented in the course of compromise negotiations. This rule also does not require exclusion when the evidence is offered for another purpose, such as proving bias or prejudice of a witness, negativing a contention of undue delay, or proving an effort to obstruct a criminal investigation or prosecution.
+Effective: July 1, 1992
+History: Enacted 1990 Ky. Acts ch. 88, sec. 18; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34.

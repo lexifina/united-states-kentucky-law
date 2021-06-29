@@ -1,0 +1,22 @@
+# Rule 506 Counselor-client privilege. (a) Definitions. As used in this rule:
+(1) A "counselor" includes:
+(A) A certified school counselor who meets the requirements of the Kentucky Board of Education and who is duly appointed and regularly employed for the purpose of counseling in a public or private school of this state;
+(B) A sexual assault counselor, who is a person engaged in a rape crisis center, as defined in KRS Chapter 421, who has undergone forty (40) hours of training and is under the control of a direct services supervisor of a rape crisis center, whose primary purpose is the rendering of advice, counseling, or assistance to victims of sexual assault;
+(C) A certified professional art therapist who is engaged to conduct art therapy under KRS 309.130 to 309.1399;
+(D) A licensed marriage and family therapist as defined in KRS 335.300 who is engaged to conduct marriage and family therapy pursuant to KRS 335.300 to 335.399;
+(E) A licensed professional clinical counselor or a licensed professional counselor associate as defined in KRS 335.500;
+(F) An individual who provides crisis response services as a member of the community crisis response team or local community crisis response team under KRS 36.250 to 36.270;
+(G) A victim advocate as defined in KRS 421.570 except a victim advocate who is employed by a Commonwealth's attorney under KRS 15.760 or a county attorney pursuant to KRS 69.350; and (H) A Kentucky licensed pastoral counselor as defined in KRS 335.605 who is engaged to conduct pastoral counseling under KRS 335.600 to 335.699.
+(2) A "client" is a person who consults or is interviewed or assisted by a counselor for the purpose of obtaining professional or crisis response services from the counselor.
+(3) A communication is "confidential" if it is not intended to be disclosed to third persons, except persons present to further the interest of the client in the consultation or interview, persons reasonably necessary for the transmission of the communication, or persons present during the communication at the direction of the counselor, including members of the client's family.
+(b) General rule of privilege. A client has a privilege to refuse to disclose and to prevent any other person from disclosing confidential communications made for the purpose of counseling the client, between himself, his counselor, and persons present at the direction of the counselor, including members of the client's family.
+(c) Who may claim the privilege. The privilege may be claimed by the client, his guardian or conservator, or the personal representative of a deceased client. The
+person who was the counselor (or that person's employer) may claim the privilege in the absence of the client, but only on behalf of the client.
+(d) Exceptions. There is no privilege under this rule for any relevant communication:
+(1) If the client is asserting his physical, mental, or emotional condition as an element of a claim or defense; or, after the client's death, in any proceeding in which any party relies upon the condition as an element of a claim or defense.
+(2) If the judge finds:
+(A) That the substance of the communication is relevant to an essential issue in the case;
+(B) That there are no available alternate means to obtain the substantial equivalent of the communication; and (C) That the need for the information outweighs the interest protected by the privilege. The court may receive evidence in camera to make findings under this rule.
+Effective: July 15, 2014
+History: Amended 2014 Ky. Acts ch. 64, sec. 15, effective July 15, 2014. -- Amended 2002 Ky. Acts ch. 79, sec. 11, effective July 15, 2002; and ch. 99, sec. 7, effective March 28, 2002. -- Amended 1998 Ky. Acts ch. 86, sec. 6, effective July 15, 1998; and ch. 525, sec. 13, effective July 15, 1998. -- Amended 1996 Ky. Acts ch. 189, sec. 3, effective July 15, 1996; ch. 316, sec. 6, effective July 15, 1996; and ch. 364, sec. 13, effective July 15, 1996. -- Amended 1994 Ky. Acts ch. 337, sec. 11, effective July 15, 1994; and ch. 352, sec. 13, effective July 15, 1994. -- Amended 1992 Ky. Acts ch. 324, sec. 11; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34. -- Enacted 1990 Ky. Acts ch. 88, sec. 28.
+Legislative Research Commission Note (10/31/96). The original codification of the changes to this statute from the 1996 Regular Session inadvertently omitted from subdivision (a)(2) the words "or assisted by" after the word "interviewed" and the words "or crisis response" after the word "professional."

@@ -1,0 +1,16 @@
+# Rule 507 Psychotherapist-patient privilege. (a) Definitions. As used in this rule:
+(1) A "patient" is a person who, for the purpose of securing diagnosis or treatment of his or her mental condition, consults a psychotherapist.
+(2) A "psychotherapist" is:
+(A) A person licensed by the state of Kentucky, or by the laws of another state, to practice medicine, or reasonably believed by the patient to be licensed to practice medicine, while engaged in the diagnosis or treatment of a mental condition;
+(B) A person licensed or certified by the state of Kentucky, or by the laws of another state, as a psychologist, or a person reasonably believed by the patient to be a licensed or certified psychologist;
+(C) A licensed clinical social worker, licensed by the Kentucky Board of Social Work; or (D) A person licensed as a registered nurse or advanced registered nurse practitioner by the board of nursing and who practices psychiatric or mental health nursing.
+(3) A communication is "confidential" if not intended to be disclosed to third persons other than those present to further the interest of the patient in the consultation, examination, or interview, or persons reasonably necessary for the transmission of the communication, or persons who are present during the communication at the direction of the psychotherapist, including members of the patient's family.
+(4) "Authorized representative" means a person empowered by the patient to assert the privilege granted by this rule and, until given permission by the patient to make disclosure, any person whose communications are made privileged by this rule.
+(b) General rule of privilege. A patient, or the patient's authorized representative, has a privilege to refuse to disclose and to prevent any other person from disclosing confidential communications, made for the purpose of diagnosis or treatment of the patient's mental condition, between the patient, the patient's psychotherapist, or persons who are participating in the diagnosis or treatment under the direction of the psychotherapist, including members of the patient's family.
+(c) Exceptions. There is no privilege under this rule for any relevant communications under this rule:
+(1) In proceedings to hospitalize the patient for mental illness, if the psychotherapist in the course of diagnosis or treatment has determined that the patient is in need of hospitalization;
+(2) If a judge finds that a patient, after having been informed that the communications would not be privileged, has made communications to a psychotherapist in the course of an examination ordered by the court, provided that such communications shall be admissible only on issues involving the
+patient's mental condition; or
+(3) If the patient is asserting that patient's mental condition as an element of a claim or defense, or, after the patient's death, in any proceeding in which any party relies upon the condition as an element of a claim or defense.
+Effective: July 15, 1996
+History: Amended 1996 Ky. Acts ch. 369, sec. 18, effective July 15, 1996. -- Amended 1994 Ky. Acts ch. 367, sec. 13, effective July 15, 1994; amended 1992 Ky. Acts ch. 324, sec. 12; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34 - Enacted 1990 Ky. Acts ch. 88, sec. 29.

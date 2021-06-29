@@ -1,0 +1,4 @@
+# Rule 806 Attacking and supporting credibility of declarant When a hearsay statement has been admitted in evidence, the credibility of the declarant
+may be attacked, and if attacked may be supported, by any evidence which would be admissible for those purposes if declarant had testified as a witness. Evidence of a statement or conduct by the declarant at any time, inconsistent with the declarant's hearsay statement, is not subject to any requirement that the declarant may have been afforded an opportunity to deny or explain. If the party against whom a hearsay statement has been admitted calls the declarant as a witness, the party is entitled to examine the declarant on the statement as if under cross-examination.
+Effective: July 1, 1992
+History: Enacted 1990 Ky. Acts ch. 88, sec. 61; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34.

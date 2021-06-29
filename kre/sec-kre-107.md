@@ -1,0 +1,5 @@
+# Rule 107 Miscellaneous provisions (a) Parol evidence. The provisions of the Kentucky Rules of Evidence shall not operate
+to repeal, modify, or affect the parol evidence rule.
+(b) Effective date. The Kentucky Rules of Evidence shall take effect on the first day of July, 1992. They shall apply to all civil and criminal actions and proceedings originally brought on for trial upon or after that date and to pretrial motions or matters originally presented to the trial court for decision upon or after that date if a determination of such motions or matters requires an application of evidence principles; provided, however, that no evidence shall be admitted against a criminal defendant in proof of a crime committed prior to July 1, 1992, unless that evidence would have been admissible under evidence principles in existence prior to the adoption of these rules.
+Effective: July 1, 1992
+History: Enacted 1990 Ky. Acts ch. 88, sec. 7; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34.

@@ -1,0 +1,4 @@
+# Rule 407 Subsequent remedial measures When, after an event, measures are taken which, if taken previously, would have made an
+injury or harm allegedly caused by the event less likely to occur, evidence of the subsequent measures is not admissible to prove negligence, culpable conduct, a defect in a product, a defect in a product's design, or a need for a warning or instruction. This rule does not require the exclusion of evidence of subsequent measures when offered for another purpose, such as proving ownership, control, or feasibility of precautionary measures, if controverted, or impeachment.
+Effective: May 31, 2006
+History: Enacted 1990 Ky. Acts ch. 88, sec. 17; amended 1992 Ky. Acts ch. 324, sec. 6; renumbered (7/1/92) pursuant to 1992 Ky. Acts ch. 324, sec. 34; amended May 31, 2006, Supreme Court of Kentucky Order 2006-06.
