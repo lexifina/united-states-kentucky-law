@@ -1,0 +1,4 @@
+# Section 156A General Assembly authorized to provide for creation, governmental structure, and classification of cities.
+The General Assembly may provide for the creation, alteration of boundaries, consolidation, merger, dissolution, government, functions, and officers of cities. The General Assembly shall create such classifications of cities as it deems necessary based on population, tax base, form of government, geography, or any other reasonable basis and enact legislation relating to the classifications. All legislation relating to cities of a certain classification shall apply equally to all cities within the same classification. The classification of all cities and the law pertaining to the classifications in effect at the time of adoption of this section shall remain in effect until otherwise provided by law.
+Text as Ratified on: November 8, 1994
+History: Creation proposed by 1994 Ky. Acts ch. 168, sec. 1.
