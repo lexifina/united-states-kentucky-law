@@ -1,0 +1,6 @@
+# Section 172A Assessment for ad valorem tax purposes of agricultural and horticultural land.
+Notwithstanding contrary provisions of Sections 171, 172, or 174 of this Constitution --
+The General Assembly shall provide by general law for the assessment for ad valorem tax purposes of agricultural and horticultural land according to the land's value for agricultural or horticultural use. The General Assembly may provide that any change in land use from agricultural or horticultural to another use shall require the levy of an additional tax not to exceed the additional amount that would have been owing had the land been assessed under Section 172 of this Constitution for the current year and the two next preceding years.
+The General Assembly may provide for reasonable differences in the rate of ad valorem taxation within different areas of the same taxing districts on that class of property which includes the surface of the land. Those differences shall relate directly to differences between nonrevenue-producing governmental services and benefits giving land urban character which are furnished in one or several areas in contrast to other areas of the taxing district.
+Text as Ratified on: November 4, 1969.
+History: Creation proposed by 1968 Ky. Acts. ch. 103, sec. 1.
