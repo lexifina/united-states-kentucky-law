@@ -1,0 +1,8 @@
+{
+  "path": "us/ky",
+  "code": "US-KY",
+  "name": "United States (Kentucky)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-kentucky-law",
+  "build": "built"
+}

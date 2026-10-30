@@ -1,0 +1,845 @@
+{
+ "country": "US-KY",
+ "acts": [
+  {
+   "slug": "constitution-01-preamble",
+   "short": "Ky. Const. Preamble",
+   "title": "Constitution of Kentucky, Preamble",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "ca2d443f5af9cdbcf973d746161c9a5a3913b2f070a287b0c1aed174a8101f1c"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-02-bill-of-rights",
+   "short": "Ky. Const. Section  1 to 26",
+   "title": "Constitution of Kentucky, Bill of Rights (Section  1 to 26)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 27,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "cc23b0e379f62f0efa6c50b7c74b1c2a7a90a2ab20b3aabb79810e02c35a2dc6"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-03-rights-of-victims-of-crime",
+   "short": "Ky. Const. Section  26A",
+   "title": "Constitution of Kentucky, Rights of Victims of Crime (Section  26A)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "eb7b9a09e77ce60c07b910c2ab54ea64b2cf4679ed9ae2550a7360e75c6a7efd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-04-distribution-of-the-powers-of-government",
+   "short": "Ky. Const. Section  27 to 28",
+   "title": "Constitution of Kentucky, Distribution of The Powers of Government (Section  27 to 28)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "cb2b6bfe0db1d3caabb76adbe62cc98facf72ebd601cf9f5411091fd7687e193"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-05-the-legislative-department",
+   "short": "Ky. Const. Section  29 to 62",
+   "title": "Constitution of Kentucky, The Legislative Department (Section  29 to 62)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "1d7a6284f19ba44aa3318657640b9146f152461adf8b3f3c092ac096541eb6ff"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-06-counties-and-county-seats",
+   "short": "Ky. Const. Section  63 to 65",
+   "title": "Constitution of Kentucky, Counties and County Seats (Section  63 to 65)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "fbfa030444fc31e2bac97f493bac5bfd10f062693843813192bfa50790716136"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-07-impeachments",
+   "short": "Ky. Const. Section  66 to 68",
+   "title": "Constitution of Kentucky, Impeachments (Section  66 to 68)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "abf9f4cefa68a0f5c707fdb1dac96a56ebdedba284e2266cfbbeccc06e6cadef"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-08-the-executive-department",
+   "short": "Ky. Const. Section  69 to 108",
+   "title": "Constitution of Kentucky, The Executive Department (Section  69 to 108)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 40,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "d77c78d40dc881f8db7dea2802161135ba2bb7140673e0ef1fd07b5ba113b360"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-09-the-judicial-department",
+   "short": "Ky. Const. Section  109 to 139",
+   "title": "Constitution of Kentucky, The Judicial Department (Section  109 to 139)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 31,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "b07631d748cd84f8e895c8470568321c068e33e5ec63c9283bd6f1a94fc56082"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-10-county-courts",
+   "short": "Ky. Const. Section  140 to 141",
+   "title": "Constitution of Kentucky, County Courts (Section  140 to 141)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "59211cd75535025a20043f6da4c9c6e858bc82b5cf2d98c78f55d00dfb83cd14"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-11-justices-of-the-peace",
+   "short": "Ky. Const. Section  142 to 143",
+   "title": "Constitution of Kentucky, Justices of The Peace (Section  142 to 143)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 2,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "42b9d9a94fb0d8bee615b1e24be2eaaa2953d8a066c7cc0a42b6a0cca05790a8"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-12-fiscal-courts",
+   "short": "Ky. Const. Section  144",
+   "title": "Constitution of Kentucky, Fiscal Courts (Section  144)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "cd79f922aa7c17c1782c1bba82ab88f0418dd3f920c0e5263e333d93833f7b63"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-13-suffrage-and-elections",
+   "short": "Ky. Const. Section  145 to 155",
+   "title": "Constitution of Kentucky, Suffrage and Elections (Section  145 to 155)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "79a63883ee854f323114549a0f75d7edfd6a03d42600c445eb965301200aae87"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-14-municipalities",
+   "short": "Ky. Const. Section  156 to 168",
+   "title": "Constitution of Kentucky, Municipalities (Section  156 to 168)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "769f00d6a39f2a18b826aa203e02c5d140ed7b2123db513e21581d102298caa8"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-15-revenue-and-taxation",
+   "short": "Ky. Const. Section  169 to 182",
+   "title": "Constitution of Kentucky, Revenue and Taxation (Section  169 to 182)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "a5835ea23ccb69f273667a9283908bc868feb3de810f7c2fd371e0dde3e8c522"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-16-education",
+   "short": "Ky. Const. Section  183 to 189",
+   "title": "Constitution of Kentucky, Education (Section  183 to 189)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "3adbaf9b57fd47c81e21bc079ed756954a10cb9d31fc83a02720424507b4e816"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-17-corporations",
+   "short": "Ky. Const. Section  190 to 208",
+   "title": "Constitution of Kentucky, Corporations (Section  190 to 208)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 19,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "fe4624317c15f012ca9ae940311230645a46cab684c47c043881283159605415"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-18-railroads-and-commerce",
+   "short": "Ky. Const. Section  209 to 218",
+   "title": "Constitution of Kentucky, Railroads and Commerce (Section  209 to 218)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 10,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "a515c40b9016c65959614f5e750ffce4908dc2048bfe1d68717b2d2c0e7db4a7"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-19-the-militia",
+   "short": "Ky. Const. Section  219 to 223",
+   "title": "Constitution of Kentucky, The Militia (Section  219 to 223)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "96f5f32cbe791bbe5c9f113ae6551a2079f0adda9ca876823b55c128fee5d02e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-20-general-provisions",
+   "short": "Ky. Const. Section  224 to 255A",
+   "title": "Constitution of Kentucky, General Provisions (Section  224 to 255A)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 36,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "52baf549474629eb3f528cf4c5fd4ab8fe96aee7fd1208428556d0f3bc8812cb"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-21-mode-of-revision",
+   "short": "Ky. Const. Section  256 to 263",
+   "title": "Constitution of Kentucky, Mode of Revision (Section  256 to 263)",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "bf92be4e66b88b91c8c38a1c2dda45551734aff1c7e88644e37a80ccd92b3041"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-22-schedule",
+   "short": "Ky. Const. Schedule",
+   "title": "Constitution of Kentucky, Schedule",
+   "url": "https://apps.legislature.ky.gov/law/constitution",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://apps.legislature.ky.gov/law/constitution",
+     "sha256": "0f2d1be44340897023f25668b89ebd852efff1d6f02c4f0ff9e55d28e2e56763"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-275",
+   "short": "KRS ch. 275",
+   "title": "Kentucky Revised Statutes, Chapter 275: Limited Liability Companies",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38578",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 110,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38578",
+     "sha256": "bb8de3906014440de1c474c0ea838d8b3a7253a395c0e7a5e4dd864f2934d620"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-381",
+   "short": "KRS ch. 381",
+   "title": "Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39147",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 207,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39147",
+     "sha256": "ed6edbf10229b4f54428e4f2fedcf68d93510779adeb824a9fd6b2cf722a04f1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-382",
+   "short": "KRS ch. 382",
+   "title": "Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39156",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 99,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39156",
+     "sha256": "114f5d8443dc6cae0b87eaabb7ad65360e424feef1a2949f6b09dd6b1a8baef9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-500",
+   "short": "KRS ch. 500",
+   "title": "Kentucky Revised Statutes, Chapter 500: General Provisions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39364",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39364",
+     "sha256": "ad927e88427ea181bac55c0ccd3f9b9978af028b2c7b077daa1848caa4bbeda2"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-501",
+   "short": "KRS ch. 501",
+   "title": "Kentucky Revised Statutes, Chapter 501: General Principles Of Liability",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39365",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39365",
+     "sha256": "13475c8d4899838d280965df441c4606345685f62465c56f35bbace7b8b081cf"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-502",
+   "short": "KRS ch. 502",
+   "title": "Kentucky Revised Statutes, Chapter 502: Parties To Offenses: Accountability",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39366",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39366",
+     "sha256": "af5ca4560872b708367ad825680e3bfe4c874eb083b7eac5ae2d02f8109d6c9d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-503",
+   "short": "KRS ch. 503",
+   "title": "Kentucky Revised Statutes, Chapter 503: General Principles Of Justification",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39367",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39367",
+     "sha256": "2839c0ae6bbec0da3f3b9a540f66c79a092d16cc4c56a5a308391eaec0c010ce"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-504",
+   "short": "KRS ch. 504",
+   "title": "Kentucky Revised Statutes, Chapter 504: Responsibility",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39368",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39368",
+     "sha256": "5bc569c18ca5a5210995e88012451e2c3f569505354f2236c48d46c960520028"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-505",
+   "short": "KRS ch. 505",
+   "title": "Kentucky Revised Statutes, Chapter 505: Protection Against Unfair Or Oppressive Prosecution",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39369",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39369",
+     "sha256": "9945a29c9d9a9ed1491fd8aad83918444e10c6edadb6054b76854eb758b6e06f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-506",
+   "short": "KRS ch. 506",
+   "title": "Kentucky Revised Statutes, Chapter 506: Inchoate Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39370",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39370",
+     "sha256": "8f7d56db4a04873cce85b71deef65913cef839979a705976233b8e579f30d7ef"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-507",
+   "short": "KRS ch. 507",
+   "title": "Kentucky Revised Statutes, Chapter 507: Criminal Homicide",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39372",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39372",
+     "sha256": "11c80206d954dc4c86fc10b601d2ebd0dac276ff1e6be43dc7544e260b2106c4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-508",
+   "short": "KRS ch. 508",
+   "title": "Kentucky Revised Statutes, Chapter 508: Assault And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39374",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39374",
+     "sha256": "4074872b61f377715c49a0114edcd827cfaeb33610f079a8bc3d3c8236021587"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-509",
+   "short": "KRS ch. 509",
+   "title": "Kentucky Revised Statutes, Chapter 509: Kidnapping And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39375",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39375",
+     "sha256": "cd5d15e99bd4a36a90518d6bb6cf4bf0fdd6833c24dd8ccde86d8b7678a077bf"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-510",
+   "short": "KRS ch. 510",
+   "title": "Kentucky Revised Statutes, Chapter 510: Sexual Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39376",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39376",
+     "sha256": "63a81f173e78020cf507745ac08c00a72e49a6f2d39c6fbba10c3018d349b091"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-511",
+   "short": "KRS ch. 511",
+   "title": "Kentucky Revised Statutes, Chapter 511: Burglary And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39377",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39377",
+     "sha256": "bb8b70fce93bef8a4e2e1fe46609cc3a3ce92520c8c06e03ce05c221cd006f53"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-512",
+   "short": "KRS ch. 512",
+   "title": "Kentucky Revised Statutes, Chapter 512: Criminal Damage To Property",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39378",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39378",
+     "sha256": "c9f0724cd3a697d68fcca76cb63dd2af6d9a5ca4e463a814cf4d8e7f29559c7c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-513",
+   "short": "KRS ch. 513",
+   "title": "Kentucky Revised Statutes, Chapter 513: Arson And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39379",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39379",
+     "sha256": "e7fc837eb470305f42da1ef4b3535b0743d2d9409ca24763b8a7139ccfd8161d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-514",
+   "short": "KRS ch. 514",
+   "title": "Kentucky Revised Statutes, Chapter 514: Theft And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39380",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 18,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39380",
+     "sha256": "17203e92f369688a802be84dacf606f34476f340ccf8a15df95a0d995ea34296"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-515",
+   "short": "KRS ch. 515",
+   "title": "Kentucky Revised Statutes, Chapter 515: Robbery",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39381",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 4,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39381",
+     "sha256": "97b144cc52661d725815bd214659982ba69a790dd5639ada61c7f3fa2e3cd2ba"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-516",
+   "short": "KRS ch. 516",
+   "title": "Kentucky Revised Statutes, Chapter 516: Forgery And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39382",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39382",
+     "sha256": "c8b6f9817b4572e86824d46f9917e64312882905decd0f78843a8315f7a0eb7d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-517",
+   "short": "KRS ch. 517",
+   "title": "Kentucky Revised Statutes, Chapter 517: Business And Commercial Frauds",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39383",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 13,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39383",
+     "sha256": "24acb5888f7d5f402cfe6604e1be55c9f1b45e96820ba15f9e03e734682ac534"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-518",
+   "short": "KRS ch. 518",
+   "title": "Kentucky Revised Statutes, Chapter 518: Miscellaneous Crimes Affecting Businesses, Occupations, And Professions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39384",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39384",
+     "sha256": "55c7efa3fc25133bb1e42660715c9c1fbeeb450e7f85cb606d75dbb25f7dde30"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-519",
+   "short": "KRS ch. 519",
+   "title": "Kentucky Revised Statutes, Chapter 519: Obstruction Of Public Administration",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39385",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 12,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39385",
+     "sha256": "45f9560c170c648493972026d06f9d89205c9b2776a3f132f7a54609819fd348"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-520",
+   "short": "KRS ch. 520",
+   "title": "Kentucky Revised Statutes, Chapter 520: Escape And Other Offenses Relating To Custody",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39386",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39386",
+     "sha256": "2cbf1905105b9be58937df92df2b82e9c9243cb19f729370205a908c4774b1b9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-521",
+   "short": "KRS ch. 521",
+   "title": "Kentucky Revised Statutes, Chapter 521: Bribery And Corrupt Influences",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39387",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39387",
+     "sha256": "d81e3b79e1485c957bb419c6b07c1dab8efd854e068d50f0c9ebe4d5bb49b615"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-522",
+   "short": "KRS ch. 522",
+   "title": "Kentucky Revised Statutes, Chapter 522: Abuse Of Public Office",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39388",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39388",
+     "sha256": "2b2458afd9258a40bcae15fed9d934349db52c1dd530a6f2dcdc9b64f4a8975b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-523",
+   "short": "KRS ch. 523",
+   "title": "Kentucky Revised Statutes, Chapter 523: Perjury And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39389",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39389",
+     "sha256": "587302b4f78b959daa39d55a592d7cc155186f88a26769f40600c468fd5c0dd2"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-524",
+   "short": "KRS ch. 524",
+   "title": "Kentucky Revised Statutes, Chapter 524: Interference With Judicial Administration",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39390",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39390",
+     "sha256": "4705bf013358a5887c1060f3b79eed4e576e18eb8f83587c7534019e2d40d8e6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-525",
+   "short": "KRS ch. 525",
+   "title": "Kentucky Revised Statutes, Chapter 525: Riot, Disorderly Conduct, And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39391",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 33,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39391",
+     "sha256": "879e49d948f4064835d8ef6ef7e475ff2db8c020644d751a3cf2dd101b729671"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-526",
+   "short": "KRS ch. 526",
+   "title": "Kentucky Revised Statutes, Chapter 526: Eavesdropping And Related Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39393",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39393",
+     "sha256": "9b2f574c21a09fe990b8eb9bd7c90ef61bbe43bc5008da52b1a361acd0493554"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-527",
+   "short": "KRS ch. 527",
+   "title": "Kentucky Revised Statutes, Chapter 527: Offenses Relating To Firearms And Weapons",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39394",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39394",
+     "sha256": "3b59bf74b35589637a5c19230ef8eda4f5799747b06a53eea7513ffdf42866b4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-528",
+   "short": "KRS ch. 528",
+   "title": "Kentucky Revised Statutes, Chapter 528: Gambling",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39396",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 15,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39396",
+     "sha256": "2875bf49927b20166b15a7f01fb500abc38e6fea96e457f5a83e5411bb6306e6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-529",
+   "short": "KRS ch. 529",
+   "title": "Kentucky Revised Statutes, Chapter 529: Prostitution Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39397",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 18,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39397",
+     "sha256": "6c4da2b9680045356d56d06d1150659bc3a7a6ecb9a4f900caa52c32ead641c1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-530",
+   "short": "KRS ch. 530",
+   "title": "Kentucky Revised Statutes, Chapter 530: Family Offenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39398",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 10,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39398",
+     "sha256": "f2bb6497734718cf43394214077dc6cd9c188ed3172e6269c3ba504230db0a32"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-531",
+   "short": "KRS ch. 531",
+   "title": "Kentucky Revised Statutes, Chapter 531: Pornography",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39399",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 29,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39399",
+     "sha256": "1042970493093e9e8e3eca15a196269885edb171cf5bce5048dece1059ebf845"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-532",
+   "short": "KRS ch. 532",
+   "title": "Kentucky Revised Statutes, Chapter 532: Classification And Designation Of Offenses -- Authorized Disposition",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39401",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 55,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39401",
+     "sha256": "5528d44e640ba7004104844daa80db07aaf7c55f94253ebbf24b3500dbe7c444"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-533",
+   "short": "KRS ch. 533",
+   "title": "Kentucky Revised Statutes, Chapter 533: Probation And Conditional Discharge",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39403",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 33,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39403",
+     "sha256": "a0d4b069d0e9d5187e72f17598718f36b5ec43f8976512d792286dd1fd5f6775"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-534",
+   "short": "KRS ch. 534",
+   "title": "Kentucky Revised Statutes, Chapter 534: Fines",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39406",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39406",
+     "sha256": "870eae5c265540e76183661c783ebc2870a5e462bfec5f9486a605778674dc29"
+    }
+   ]
+  }
+ ]
+}

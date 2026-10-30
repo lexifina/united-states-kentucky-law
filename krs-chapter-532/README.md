@@ -1,0 +1,61 @@
+# Kentucky Revised Statutes, Chapter 532: Classification And Designation Of Offenses -- Authorized Disposition
+
+KRS ch. 532 · 1 versions, from 2026-10-29 (latest in force: 2026-10-29) · <https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39401>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| KRS 532.005 | [sec-532-005.md](sec-532-005.md) | 0 |  |
+| KRS 532.007 | [sec-532-007.md](sec-532-007.md) | 0 |  |
+| KRS 532.010 | [sec-532-010.md](sec-532-010.md) | 0 |  |
+| KRS 532.020 | [sec-532-020.md](sec-532-020.md) | 0 |  |
+| KRS 532.025 | [sec-532-025.md](sec-532-025.md) | 0 |  |
+| KRS 532.029 | [sec-532-029.md](sec-532-029.md) | 0 |  |
+| KRS 532.030 | [sec-532-030.md](sec-532-030.md) | 0 |  |
+| KRS 532.031 | [sec-532-031.md](sec-532-031.md) | 0 |  |
+| KRS 532.032 | [sec-532-032.md](sec-532-032.md) | 0 |  |
+| KRS 532.033 | [sec-532-033.md](sec-532-033.md) | 0 |  |
+| KRS 532.034 | [sec-532-034.md](sec-532-034.md) | 0 |  |
+| KRS 532.035 | [sec-532-035.md](sec-532-035.md) | 0 |  |
+| KRS 532.036 | [sec-532-036.md](sec-532-036.md) | 0 |  |
+| KRS 532.040 | [sec-532-040.md](sec-532-040.md) | 0 |  |
+| KRS 532.043 | [sec-532-043.md](sec-532-043.md) | 0 |  |
+| KRS 532.045 | [sec-532-045.md](sec-532-045.md) | 0 |  |
+| KRS 532.046 | [sec-532-046.md](sec-532-046.md) | 0 |  |
+| KRS 532.047 | [sec-532-047.md](sec-532-047.md) | 0 |  |
+| KRS 532.050 | [sec-532-050.md](sec-532-050.md) | 0 |  |
+| KRS 532.055 | [sec-532-055.md](sec-532-055.md) | 0 |  |
+| KRS 532.060 | [sec-532-060.md](sec-532-060.md) | 0 |  |
+| KRS 532.070 | [sec-532-070.md](sec-532-070.md) | 0 |  |
+| KRS 532.075 | [sec-532-075.md](sec-532-075.md) | 0 |  |
+| KRS 532.080 | [sec-532-080.md](sec-532-080.md) | 0 |  |
+| KRS 532.090 | [sec-532-090.md](sec-532-090.md) | 0 |  |
+| KRS 532.100 | [sec-532-100.md](sec-532-100.md) | 0 |  |
+| KRS 532.110 | [sec-532-110.md](sec-532-110.md) | 0 |  |
+| KRS 532.115 | [sec-532-115.md](sec-532-115.md) | 0 |  |
+| KRS 532.120 | [sec-532-120.md](sec-532-120.md) | 0 |  |
+| KRS 532.130 | [sec-532-130.md](sec-532-130.md) | 0 |  |
+| KRS 532.135 | [sec-532-135.md](sec-532-135.md) | 0 |  |
+| KRS 532.140 | [sec-532-140.md](sec-532-140.md) | 0 |  |
+| KRS 532.160 | [sec-532-160.md](sec-532-160.md) | 0 |  |
+| KRS 532.162 | [sec-532-162.md](sec-532-162.md) | 0 |  |
+| KRS 532.164 | [sec-532-164.md](sec-532-164.md) | 0 |  |
+| KRS 532.166 | [sec-532-166.md](sec-532-166.md) | 0 |  |
+| KRS 532.168 | [sec-532-168.md](sec-532-168.md) | 0 |  |
+| KRS 532.200 | [sec-532-200.md](sec-532-200.md) | 0 |  |
+| KRS 532.210 | [sec-532-210.md](sec-532-210.md) | 0 |  |
+| KRS 532.220 | [sec-532-220.md](sec-532-220.md) | 0 |  |
+| KRS 532.230 | [sec-532-230.md](sec-532-230.md) | 0 |  |
+| KRS 532.240 | [sec-532-240.md](sec-532-240.md) | 0 |  |
+| KRS 532.245 | [sec-532-245.md](sec-532-245.md) | 0 |  |
+| KRS 532.250 | [sec-532-250.md](sec-532-250.md) | 0 |  |
+| KRS 532.260 | [sec-532-260.md](sec-532-260.md) | 0 |  |
+| KRS 532.262 | [sec-532-262.md](sec-532-262.md) | 0 |  |
+| KRS 532.300 | [sec-532-300.md](sec-532-300.md) | 0 |  |
+| KRS 532.305 | [sec-532-305.md](sec-532-305.md) | 0 |  |
+| KRS 532.309 | [sec-532-309.md](sec-532-309.md) | 0 |  |
+| KRS 532.350 | [sec-532-350.md](sec-532-350.md) | 0 |  |
+| KRS 532.352 | [sec-532-352.md](sec-532-352.md) | 0 |  |
+| KRS 532.354 | [sec-532-354.md](sec-532-354.md) | 0 |  |
+| KRS 532.356 | [sec-532-356.md](sec-532-356.md) | 0 |  |
+| KRS 532.358 | [sec-532-358.md](sec-532-358.md) | 0 |  |
+| KRS 532.400 | [sec-532-400.md](sec-532-400.md) | 0 |  |
