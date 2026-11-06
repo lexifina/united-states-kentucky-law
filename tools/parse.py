@@ -124,7 +124,7 @@ def main():
                'licence_note': 'Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). Source: Kentucky Legislative Research Commission.'}
     sources = [{'name': 'Kentucky Revised Statutes (Legislative Research Commission)', 'url': 'https://apps.legislature.ky.gov/law/statutes/',
                 'retrieved': RETRIEVED,
-                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes and has no robots.txt.',
+                'licence': 'Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes.',
                 'notes': 'KRS chapters 275, 381, 382 and 500-534, one PDF per section. The database stated "last updated on 10/29/2026".'},
                {'name': 'Constitution of Kentucky (Legislative Research Commission)', 'url': 'https://apps.legislature.ky.gov/law/constitution',
                 'retrieved': RETRIEVED, 'licence': 'As above.', 'notes': 'One PDF per section.'}]

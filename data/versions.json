@@ -840,6 +840,1070 @@
      "sha256": "870eae5c265540e76183661c783ebc2870a5e462bfec5f9486a605778674dc29"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-001",
+   "short": "KRS ch. 1",
+   "title": "Kentucky Revised Statutes, Chapter 1: Boundaries ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37024",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37024",
+     "sha256": "970a0764a74f2702fd7249f97ad6273ad73c52011dde99fc8bc76e33842a8fb5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-002",
+   "short": "KRS ch. 2",
+   "title": "Kentucky Revised Statutes, Chapter 2: Citizenship, Emblems, Holidays, And Time ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37025",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 97,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37025",
+     "sha256": "b66da1d3c2d2982597eadac6277c43a6820906851dcfb9f11060bc667df6b7b6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-003",
+   "short": "KRS ch. 3",
+   "title": "Kentucky Revised Statutes, Chapter 3: Grants To United States Of Lands And Rights To Acquire ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37026",
+   "versions": [
+    {
+     "from": "2002-03-01",
+     "units": 21,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37026",
+     "sha256": "8f010de6b37bc3d73dc7ccd97f3d9f81255836d6e2fabdc13902031d7537df9c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-005",
+   "short": "KRS ch. 5",
+   "title": "Kentucky Revised Statutes, Chapter 5: Legislative Districts ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37030",
+   "versions": [
+    {
+     "from": "2022-01-21",
+     "units": 145,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37030",
+     "sha256": "edd62baaeb5d0cbda204435c0fbf5b079082acb266502ebfd7469bb1623716b8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-007",
+   "short": "KRS ch. 7",
+   "title": "Kentucky Revised Statutes, Chapter 7: Legislative Research Commission ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37058",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 56,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37058",
+     "sha256": "b4de2ba00124191cc2073b72d179555bf71f7e807a144210947d20d875fd5173"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-007a",
+   "short": "KRS ch. 7A",
+   "title": "Kentucky Revised Statutes, Chapter 7A: Government Planning And Oversight Boards ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37063",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37063",
+     "sha256": "099b5ae304bc06cc9331a731ab5360ea68babb16f9424a151924168df60e420c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-007b",
+   "short": "KRS ch. 7B",
+   "title": "Kentucky Revised Statutes, Chapter 7B: Long-Term Policy Research ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37065",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37065",
+     "sha256": "dffd0fd15c81089cf633035eaaf31252c17a58ebfbf3d2729071976cf4909d1c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-008",
+   "short": "KRS ch. 8",
+   "title": "Kentucky Revised Statutes, Chapter 8: Intergovernmental Cooperation ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37066",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37066",
+     "sha256": "6920f11cb71ebea23612155ad932ffa09ab3f09dec8fe5623fb3dc67ac518575"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-011a",
+   "short": "KRS ch. 11A",
+   "title": "Kentucky Revised Statutes, Chapter 11A: Executive Branch Code Of Ethics ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37075",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 31,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37075",
+     "sha256": "ef2eeac388face4f371ff2f727ff70d96717d545ac5a525adeac01a06d70fb54"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-013a",
+   "short": "KRS ch. 13A",
+   "title": "Kentucky Revised Statutes, Chapter 13A: Administrative Regulations ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37084",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 88,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37084",
+     "sha256": "ff0d8b7f95e6cf96259987fbde06e755bb362f31a2dd7139f2ec34dc4b21cdee"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-013b",
+   "short": "KRS ch. 13B",
+   "title": "Kentucky Revised Statutes, Chapter 13B: Administrative Hearings ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37085",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 19,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37085",
+     "sha256": "13c0c8807168b211b99a58bde95adcba78e902c9482660cdaf7ecb763b25b2b7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-014",
+   "short": "KRS ch. 14",
+   "title": "Kentucky Revised Statutes, Chapter 14: Department Of State ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37086",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37086",
+     "sha256": "4504df3aeb7c8c0d2f2045178af936ec52a7949cbbbf2662877e2aa12ddbb151"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-018a",
+   "short": "KRS ch. 18A",
+   "title": "Kentucky Revised Statutes, Chapter 18A: State Personnel ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37134",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 117,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37134",
+     "sha256": "a3e1e42c0ef1b1ef8e609209c167efe3e1a422e6c6fd316927fbb4990c07ad77"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-022a",
+   "short": "KRS ch. 22A",
+   "title": "Kentucky Revised Statutes, Chapter 22A: Court Of Appeals ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37149",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37149",
+     "sha256": "d30e39fe3633d79d0e353fc5233dc2d5f35da9a6b7241c26a0348eb6b5f80ad3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-029a",
+   "short": "KRS ch. 29A",
+   "title": "Kentucky Revised Statutes, Chapter 29A: Juries ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37172",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 35,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37172",
+     "sha256": "5521c35ffa08a9fe8d943bc4d785b5b028c7fc127cef59d56199e5f1c2c15a8e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-030a",
+   "short": "KRS ch. 30A",
+   "title": "Kentucky Revised Statutes, Chapter 30A: Court Personnel ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37174",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 38,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37174",
+     "sha256": "429cb2df954863aee1b579ff0cb86b31a75663b5e59b3852dab12a9c770e4c55"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-031a",
+   "short": "KRS ch. 31A",
+   "title": "Kentucky Revised Statutes, Chapter 31A: Master Commissioners And Receivers ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37179",
+   "versions": [
+    {
+     "from": "2005-03-20",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37179",
+     "sha256": "853cb0022f32f5111b8e799b2504102590b3bc43b73fb266cd0253c958dc7ad0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-032",
+   "short": "KRS ch. 32",
+   "title": "Kentucky Revised Statutes, Chapter 32: Financing Of Unified State Court System ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37180",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37180",
+     "sha256": "17e3131cb6a8e9d4bdc8e074163962d05d199aa94703a353243104e10d08d4d5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039a",
+   "short": "KRS ch. 39A",
+   "title": "Kentucky Revised Statutes, Chapter 39A: Statewide Emergency Management Programs ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37202",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 52,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37202",
+     "sha256": "6e34ca49457b09892135df41cfaeb95c0875d9e92b9bd9623b632ed4d92be1a0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039b",
+   "short": "KRS ch. 39B",
+   "title": "Kentucky Revised Statutes, Chapter 39B: Local Emergency Management Programs ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37203",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 13,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37203",
+     "sha256": "45ba96e4363ead76f82b10ee224e220423a4dfb13bee36b08c85ed819081b491"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039c",
+   "short": "KRS ch. 39C",
+   "title": "Kentucky Revised Statutes, Chapter 39C: State Aid To Local Emergency Management Programs ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37204",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 12,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37204",
+     "sha256": "c6e9ce9354f4b00aea56f588478c6a65f7252a88e7ac0a498ed9d6a8291535d2"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039d",
+   "short": "KRS ch. 39D",
+   "title": "Kentucky Revised Statutes, Chapter 39D: Continuity Of Government ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37205",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37205",
+     "sha256": "74595a548ce0f84ded9b67ea5ffa0b49eaf81b6bc08e540c741f7945d1be3c37"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039e",
+   "short": "KRS ch. 39E",
+   "title": "Kentucky Revised Statutes, Chapter 39E: Implementation Of Federal Hazardous Materials Programs ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37206",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37206",
+     "sha256": "48bb5112968746416c05835b8b5c8e7dfe343b40d4023d94362aef3143e43c52"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039f",
+   "short": "KRS ch. 39F",
+   "title": "Kentucky Revised Statutes, Chapter 39F: Local Rescue Programs -- State And Local Search And Rescue Programs ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37207",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 24,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37207",
+     "sha256": "e7f6fbb3ad44f831536f7f17a222f64798ea5d21b3f75a576adcf2d289a305ae"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039g",
+   "short": "KRS ch. 39G",
+   "title": "Kentucky Revised Statutes, Chapter 39G: Kentucky Office Of Homeland Security ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37208",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 5,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37208",
+     "sha256": "c6fef728297750b7534520531f30656a698daebb3d6f4b19cedc31a88f52a935"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-043",
+   "short": "KRS ch. 43",
+   "title": "Kentucky Revised Statutes, Chapter 43: Auditor Of Public Accounts ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37237",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37237",
+     "sha256": "85271ec79df799c06b1f19656aafa18ca1970f5dbeb2022ff33db1e428b8693d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-045a",
+   "short": "KRS ch. 45A",
+   "title": "Kentucky Revised Statutes, Chapter 45A: Kentucky Model Procurement Code ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37250",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 197,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37250",
+     "sha256": "afbd142b869c47b6481a8307d40d3d869746025f6f53dbe2821998e640e55657"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-048",
+   "short": "KRS ch. 48",
+   "title": "Kentucky Revised Statutes, Chapter 48: Budget ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37263",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 54,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37263",
+     "sha256": "555520d060943a0d353370b57fa160ab4891c777cc1f8bdff037d8a3c7d03f8d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-049",
+   "short": "KRS ch. 49",
+   "title": "Kentucky Revised Statutes, Chapter 49: Office Of Claims And Appeals ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=45450",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 50,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=45450",
+     "sha256": "996a1b7cf1303028331e62c7601d0b8af2301d6aaf6f465adf3a0ed2f51debb9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-065a",
+   "short": "KRS ch. 65A",
+   "title": "Kentucky Revised Statutes, Chapter 65A: Special Purpose Governmental Entities ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42745",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42745",
+     "sha256": "7517d5d0cdded3adb9cb6f9f91ba1acdf25e60380d7d03797a4992290f45372e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-067c",
+   "short": "KRS ch. 67C",
+   "title": "Kentucky Revised Statutes, Chapter 67C: Restructure Of Local Government In County Containing City Of First Class ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37388",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 57,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37388",
+     "sha256": "e09398c7f203fdf3ffe47fdc55dc37b16ccceebbabc4c75487675af6d989b6d7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-071",
+   "short": "KRS ch. 71",
+   "title": "Kentucky Revised Statutes, Chapter 71: Jailer ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37411",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37411",
+     "sha256": "453c7653eafcb4d08190875cc6865d754c33d855a64edab1f2807b79ce7bfe40"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-073",
+   "short": "KRS ch. 73",
+   "title": "Kentucky Revised Statutes, Chapter 73: Surveyor And Processioners ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37416",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 26,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37416",
+     "sha256": "8130d8d0e24e842039e8b4d7f96eda917a3170c84fc5f1dac45b9d7c9e06cbc0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-075a",
+   "short": "KRS ch. 75A",
+   "title": "Kentucky Revised Statutes, Chapter 75A: Consolidated Emergency Services Districts ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=50599",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=50599",
+     "sha256": "62849e89d8c71ef96e8c9d610f2e4d95e6f06295b8d38c603e0a3b75171fcbbc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-083a",
+   "short": "KRS ch. 83A",
+   "title": "Kentucky Revised Statutes, Chapter 83A: Organization Of Government In Cities ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37461",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37461",
+     "sha256": "69f21b4eefe0ba1d28a948bd003f1ddc4f86ad598c8f9f1a35465244371f5749"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-092",
+   "short": "KRS ch. 92",
+   "title": "Kentucky Revised Statutes, Chapter 92: Finance And Revenue Of Cities Other Than The First Class ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37485",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 95,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37485",
+     "sha256": "1e5f12bb869c56de1b65def9ddfd31c3a184ea1b98bbf918043536f4dc57132f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-095a",
+   "short": "KRS ch. 95A",
+   "title": "Kentucky Revised Statutes, Chapter 95A: Fire Protection Personnel ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37508",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 42,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37508",
+     "sha256": "5f758381e88d234a3574e4bec523c918ec92404c6770b47d8c46aaba0805a6f7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-099a",
+   "short": "KRS ch. 99A",
+   "title": "Kentucky Revised Statutes, Chapter 99A: Neighborhood Redevelopment ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37541",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 10,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37541",
+     "sha256": "3f634075a894943dd658fbe63efde1d07bf24c440611f93c1cd4a2b627f65067"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-116",
+   "short": "KRS ch. 116",
+   "title": "Kentucky Revised Statutes, Chapter 116: Voter Registration ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37579",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 53,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37579",
+     "sha256": "fa8bee3441a6190f84bebd89b26745ec7043a54a11249f9fe029304ab799771e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-117a",
+   "short": "KRS ch. 117A",
+   "title": "Kentucky Revised Statutes, Chapter 117A: Uniform Military And Overseas Voters Act ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42744",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42744",
+     "sha256": "f64c4fc9e9ce7597fe8770eff5f0443456fa9d1d1979f17c0093ac583e8d3cf5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-118a",
+   "short": "KRS ch. 118A",
+   "title": "Kentucky Revised Statutes, Chapter 118A: Election Of Judges ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37595",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 23,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37595",
+     "sha256": "382de669bcb91a0d13539405c9377c2f44bdf9263f457d61c49482ec3e56e6db"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-118b",
+   "short": "KRS ch. 118B",
+   "title": "Kentucky Revised Statutes, Chapter 118B: Districts For United States House Of Representatives ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37598",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37598",
+     "sha256": "961dc875f4c43ab4e063a07556b933b74fd4db7b99341d08852766bd450aee7a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-137",
+   "short": "KRS ch. 137",
+   "title": "Kentucky Revised Statutes, Chapter 137: License Taxes ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37649",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 44,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37649",
+     "sha256": "381f41ca7dd6ccb44b6c832156c2bc392f7c4cfddb841f97aeafa9fb8bfb6ae1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-141",
+   "short": "KRS ch. 141",
+   "title": "Kentucky Revised Statutes, Chapter 141: Income Taxes ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37674",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 194,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37674",
+     "sha256": "b1c003e187f4973ca5e4964be7dca02b99c5340659c580ab122fb8060fbe6d01"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-143",
+   "short": "KRS ch. 143",
+   "title": "Kentucky Revised Statutes, Chapter 143: Coal Tax ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37685",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 19,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37685",
+     "sha256": "b38dd4bca7a804230f608e454ce3d9210e182b3c3ae30df0d8a791656a328cc1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-143a",
+   "short": "KRS ch. 143A",
+   "title": "Kentucky Revised Statutes, Chapter 143A: Natural Resources Severance And Processing Taxes ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37687",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 21,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37687",
+     "sha256": "9619d1f7a92bc4bd795f5afa592bbd4ccb0c4e7564511d8ad5d324a74d85db77"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-144",
+   "short": "KRS ch. 144",
+   "title": "Kentucky Revised Statutes, Chapter 144: Tax Incentives For Economic Development ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37689",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37689",
+     "sha256": "637679357bceb17e9caa3b8d05710283df3990f2466453a3735d3d8cf384c672"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-147b",
+   "short": "KRS ch. 147B",
+   "title": "Kentucky Revised Statutes, Chapter 147B: Financial Policy ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37709",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37709",
+     "sha256": "94f6dd07750861f1c540ae2233f13ab9ef2567f2da6e6fdd1593b8989161c07a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-154a",
+   "short": "KRS ch. 154A",
+   "title": "Kentucky Revised Statutes, Chapter 154A: State Lottery ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37817",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 27,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37817",
+     "sha256": "95c8e0f1996d40793d09bce6ff85afdf7c0e9a406573654f193be51dba104e8d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-159",
+   "short": "KRS ch. 159",
+   "title": "Kentucky Revised Statutes, Chapter 159: Compulsory Attendance ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37866",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 32,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37866",
+     "sha256": "3d93357a0478c1419e910b5d38c4513d5a87f9b8b6f4c2f543a6c6e06ef0a74d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-161",
+   "short": "KRS ch. 161",
+   "title": "Kentucky Revised Statutes, Chapter 161: School Employees -- Teachers' Retirement And Tenure ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37880",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 211,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37880",
+     "sha256": "b0581e3f7acc58cce6a0c877ebacf9fb2f0422209d2a8b8233af7160a05d2d70"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-162",
+   "short": "KRS ch. 162",
+   "title": "Kentucky Revised Statutes, Chapter 162: School Property And Buildings ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37888",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 78,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37888",
+     "sha256": "7158edd193bec4b6ef441fc79077a7a9fc2006feb96b7e8f11369eff172df3d7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-164a",
+   "short": "KRS ch. 164A",
+   "title": "Kentucky Revised Statutes, Chapter 164A: Higher Education Finance ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37930",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 81,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37930",
+     "sha256": "356b224cb48f7ebefc31ab984647ac64f98aba184447d58d958ecdfccb323099"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-165a",
+   "short": "KRS ch. 165A",
+   "title": "Kentucky Revised Statutes, Chapter 165A: Proprietary Education ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37936",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 31,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37936",
+     "sha256": "261af3c66b7c4e0065b4270f0dcb406010a1d3f9e760b828672f29dacb80c3a6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-167",
+   "short": "KRS ch. 167",
+   "title": "Kentucky Revised Statutes, Chapter 167: Education Of The Physically Handicapped ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37942",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37942",
+     "sha256": "bc0d1030259a13f96aee9901d1da7e30ac91d59dc03b77e7cf6eb643e66846d8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-168",
+   "short": "KRS ch. 168",
+   "title": "Kentucky Revised Statutes, Chapter 168: Educational Television ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37943",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37943",
+     "sha256": "0bb9475b790787356430da28a99fd8ea6305ee7a5c456e774cbe47bef14c41dc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-175b",
+   "short": "KRS ch. 175B",
+   "title": "Kentucky Revised Statutes, Chapter 175B: Kentucky Public Transportation Infrastructure Authority ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37982",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 24,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37982",
+     "sha256": "c8cca8a911967ae264afe0339dbcdd15b75f8fea0d05db606c5af00e8e215a84"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-190a",
+   "short": "KRS ch. 190A",
+   "title": "Kentucky Revised Statutes, Chapter 190A: Recreational Vehicle Sales ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42918",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42918",
+     "sha256": "e77c7e5d4a450987a5fb471e6efe62397e16c4e9fb55aea130c3b353423d139f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-194",
+   "short": "KRS ch. 194",
+   "title": "Kentucky Revised Statutes, Chapter 194: Human Resources ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38051",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 48,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38051",
+     "sha256": "1fd19498fa5f8d700ac67d52564790e6517cd0681f16326f277b323255ba6108"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-195",
+   "short": "KRS ch. 195",
+   "title": "Kentucky Revised Statutes, Chapter 195: Manpower Services ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38071",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 22,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38071",
+     "sha256": "8abf1299f6211c17bfacf8041b08292604f87709f9ee0f139e9da6aa833a12b4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-198b",
+   "short": "KRS ch. 198B",
+   "title": "Kentucky Revised Statutes, Chapter 198B: Housing, Buildings, And Construction -- Building Code ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38087",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 145,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38087",
+     "sha256": "2b8cd8e1f3b81b9d7d459c673f25b2a80769aa59d72fc5e2ed4ae102c3589f36"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-201",
+   "short": "KRS ch. 201",
+   "title": "Kentucky Revised Statutes, Chapter 201: Jefferson County Children'S Home ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38117",
+   "versions": [
+    {
+     "from": "1987-07-01",
+     "units": 22,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38117",
+     "sha256": "ae5bb9b8438b439a3f56ea008ed85313869a82d91c91fc891a32086922580354"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-202a",
+   "short": "KRS ch. 202A",
+   "title": "Kentucky Revised Statutes, Chapter 202A: Hospitalization Of Individuals With A Mental Illness ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38119",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 93,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38119",
+     "sha256": "33b97b140ba630c207bfd4185299254982b4d945ad4f8acf8ebf3da571685f2a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-202b",
+   "short": "KRS ch. 202B",
+   "title": "Kentucky Revised Statutes, Chapter 202B: Admission Of An Individual With An Intellectual Disability ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38121",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 36,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38121",
+     "sha256": "2a15e6ae4ebdeac88b8efb360aa442a54b633445c9063309d121c52b4ab878f7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-202c",
+   "short": "KRS ch. 202C",
+   "title": "Kentucky Revised Statutes, Chapter 202C: Involuntary Commitment Proceedings ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=50597",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=50597",
+     "sha256": "d5b900b2c6107991da3c22db206d14de68f8c7a98dbfe4b6571c358f8552bd2a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-209a",
+   "short": "KRS ch. 209A",
+   "title": "Kentucky Revised Statutes, Chapter 209A: Spousal Abuse Or Neglect ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38156",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38156",
+     "sha256": "a4558f8ce8bc862068e20458546da341ab7f06c2bae82710369802159b72cd34"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-213",
+   "short": "KRS ch. 213",
+   "title": "Kentucky Revised Statutes, Chapter 213: Vital Statistics ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38209",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 76,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38209",
+     "sha256": "25db1fff39c01acae10899d040160bebf5266250b079a0628ad4abe68d91caac"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-215",
+   "short": "KRS ch. 215",
+   "title": "Kentucky Revised Statutes, Chapter 215: Tuberculosis ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38219",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 88,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38219",
+     "sha256": "d11be276ed4f3b28d91d073432309b57b3da171b27bf076de53f3f4131837aa6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-216b",
+   "short": "KRS ch. 216B",
+   "title": "Kentucky Revised Statutes, Chapter 216B: Licensure And Regulation Of Health Facilities And Services ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38238",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 102,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38238",
+     "sha256": "e80774de0c24b989bd58ba0238b475b9d0848c6ddef02b59bb369ee64943fad4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-218b",
+   "short": "KRS ch. 218B",
+   "title": "Kentucky Revised Statutes, Chapter 218B: Medicinal Cannabis ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=53446",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=53446",
+     "sha256": "edef0c60e746640fab4ee1d39a0d1d3244e9c58651728821062eb38a99a89079"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-222",
+   "short": "KRS ch. 222",
+   "title": "Kentucky Revised Statutes, Chapter 222: Kentucky Alcohol And Substance Use Disorder Prevention, Intervention, And Treatment Law ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38279",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 88,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38279",
+     "sha256": "86ce4823f4439da705420987933459eea5cae712932045877e6f8c989c9aba4d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-223",
+   "short": "KRS ch. 223",
+   "title": "Kentucky Revised Statutes, Chapter 223: Sanitarians, Water Plant Operators, And Water Well Construction Practices ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38282",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 32,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38282",
+     "sha256": "e04b298c37bd7b048ac5c83ddcc26af744e993ed7fcc20fd5c95807ff18b7204"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-227a",
+   "short": "KRS ch. 227A",
+   "title": "Kentucky Revised Statutes, Chapter 227A: Electricians And Electrical Contractors ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38354",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 15,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38354",
+     "sha256": "c507d342e13007e2b7b9c2631094f61b87fefee2899cf2ff88814094cac9a0ef"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-229",
+   "short": "KRS ch. 229",
+   "title": "Kentucky Revised Statutes, Chapter 229: Boxing And Wrestling ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38356",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 52,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38356",
+     "sha256": "58c5025692129e2114fd1c03cf38ed968989eba5b2b7c679fdb7c933fef9c327"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-233",
+   "short": "KRS ch. 233",
+   "title": "Kentucky Revised Statutes, Chapter 233: Abatement Of Houses Of Prostitution ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38373",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38373",
+     "sha256": "e7ea47ac51263118c7d9200c7088a3f77b8200f91fe476233a3b404c8b03f698"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-235",
+   "short": "KRS ch. 235",
+   "title": "Kentucky Revised Statutes, Chapter 235: Boats And Boating ",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38379",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 55,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38379",
+     "sha256": "60dbf29bc5236eabc79a7bbe9d4f09f3346e7940a7593973fd35bc13b3adfc86"
+    }
+   ]
   }
  ]
 }

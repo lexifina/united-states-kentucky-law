@@ -22,7 +22,7 @@ write_docs(HERE, {
 
 Statute text is not copyrightable: under the government edicts doctrine, as the Supreme Court applied it in Georgia v.
 Public.Resource.Org, Inc., 590 U.S. 255 (2020), no one holds copyright in the laws that legislators make in their
-official capacity. The Commission states no restriction on reuse of the statutes, and apps.legislature.ky.gov has no
-robots.txt. The Commission notes that chapter titles, centered headings, section catchlines and explanatory notes are
+official capacity. The Commission states no restriction on reuse of the statutes.
+The Commission notes that chapter titles, centered headings, section catchlines and explanatory notes are
 informational and not part of the law; the catchline is kept as the heading line of each section.""",
 })

@@ -1,0 +1,63 @@
+# Kentucky Revised Statutes, Chapter 67C: Restructure Of Local Government In County Containing City Of First Class 
+
+KRS ch. 67C · 1 versions, from 2026-07-15 (latest in force: 2026-07-15) · <https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37388>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| KRS 67C.010 | [sec-067c-010.md](sec-067c-010.md) | 0 |  |
+| KRS 67C.020 | [sec-067c-020.md](sec-067c-020.md) | 0 |  |
+| KRS 67C.030 | [sec-067c-030.md](sec-067c-030.md) | 0 |  |
+| KRS 67C.040 | [sec-067c-040.md](sec-067c-040.md) | 0 |  |
+| KRS 67C.050 | [sec-067c-050.md](sec-067c-050.md) | 0 |  |
+| KRS 67C.101 | [sec-067c-101.md](sec-067c-101.md) | 0 |  |
+| KRS 67C.103 | [sec-067c-103.md](sec-067c-103.md) | 0 |  |
+| KRS 67C.104 | [sec-067c-104.md](sec-067c-104.md) | 0 |  |
+| KRS 67C.105 | [sec-067c-105.md](sec-067c-105.md) | 0 |  |
+| KRS 67C.107 | [sec-067c-107.md](sec-067c-107.md) | 0 |  |
+| KRS 67C.109 | [sec-067c-109.md](sec-067c-109.md) | 0 |  |
+| KRS 67C.111 | [sec-067c-111.md](sec-067c-111.md) | 0 |  |
+| KRS 67C.113 | [sec-067c-113.md](sec-067c-113.md) | 0 |  |
+| KRS 67C.115 | [sec-067c-115.md](sec-067c-115.md) | 0 |  |
+| KRS 67C.116 | [sec-067c-116.md](sec-067c-116.md) | 0 |  |
+| KRS 67C.117 | [sec-067c-117.md](sec-067c-117.md) | 0 |  |
+| KRS 67C.119 | [sec-067c-119.md](sec-067c-119.md) | 0 |  |
+| KRS 67C.121 | [sec-067c-121.md](sec-067c-121.md) | 0 |  |
+| KRS 67C.123 | [sec-067c-123.md](sec-067c-123.md) | 0 |  |
+| KRS 67C.125 | [sec-067c-125.md](sec-067c-125.md) | 0 |  |
+| KRS 67C.127 | [sec-067c-127.md](sec-067c-127.md) | 0 |  |
+| KRS 67C.129 | [sec-067c-129.md](sec-067c-129.md) | 0 |  |
+| KRS 67C.131 | [sec-067c-131.md](sec-067c-131.md) | 0 |  |
+| KRS 67C.133 | [sec-067c-133.md](sec-067c-133.md) | 0 |  |
+| KRS 67C.135 | [sec-067c-135.md](sec-067c-135.md) | 0 |  |
+| KRS 67C.137 | [sec-067c-137.md](sec-067c-137.md) | 0 |  |
+| KRS 67C.139 | [sec-067c-139.md](sec-067c-139.md) | 0 |  |
+| KRS 67C.141 | [sec-067c-141.md](sec-067c-141.md) | 0 |  |
+| KRS 67C.143 | [sec-067c-143.md](sec-067c-143.md) | 0 |  |
+| KRS 67C.145 | [sec-067c-145.md](sec-067c-145.md) | 0 |  |
+| KRS 67C.147 | [sec-067c-147.md](sec-067c-147.md) | 0 |  |
+| KRS 67C.301 | [sec-067c-301.md](sec-067c-301.md) | 0 |  |
+| KRS 67C.303 | [sec-067c-303.md](sec-067c-303.md) | 0 |  |
+| KRS 67C.305 | [sec-067c-305.md](sec-067c-305.md) | 0 |  |
+| KRS 67C.307 | [sec-067c-307.md](sec-067c-307.md) | 0 |  |
+| KRS 67C.309 | [sec-067c-309.md](sec-067c-309.md) | 0 |  |
+| KRS 67C.311 | [sec-067c-311.md](sec-067c-311.md) | 0 |  |
+| KRS 67C.313 | [sec-067c-313.md](sec-067c-313.md) | 0 |  |
+| KRS 67C.315 | [sec-067c-315.md](sec-067c-315.md) | 0 |  |
+| KRS 67C.317 | [sec-067c-317.md](sec-067c-317.md) | 0 |  |
+| KRS 67C.319 | [sec-067c-319.md](sec-067c-319.md) | 0 |  |
+| KRS 67C.321 | [sec-067c-321.md](sec-067c-321.md) | 0 |  |
+| KRS 67C.323 | [sec-067c-323.md](sec-067c-323.md) | 0 |  |
+| KRS 67C.325 | [sec-067c-325.md](sec-067c-325.md) | 0 |  |
+| KRS 67C.326 | [sec-067c-326.md](sec-067c-326.md) | 0 |  |
+| KRS 67C.327 | [sec-067c-327.md](sec-067c-327.md) | 0 |  |
+| KRS 67C.329 | [sec-067c-329.md](sec-067c-329.md) | 0 |  |
+| KRS 67C.400 | [sec-067c-400.md](sec-067c-400.md) | 0 |  |
+| KRS 67C.402 | [sec-067c-402.md](sec-067c-402.md) | 0 |  |
+| KRS 67C.404 | [sec-067c-404.md](sec-067c-404.md) | 0 |  |
+| KRS 67C.406 | [sec-067c-406.md](sec-067c-406.md) | 0 |  |
+| KRS 67C.408 | [sec-067c-408.md](sec-067c-408.md) | 0 |  |
+| KRS 67C.410 | [sec-067c-410.md](sec-067c-410.md) | 0 |  |
+| KRS 67C.412 | [sec-067c-412.md](sec-067c-412.md) | 0 |  |
+| KRS 67C.414 | [sec-067c-414.md](sec-067c-414.md) | 0 |  |
+| KRS 67C.416 | [sec-067c-416.md](sec-067c-416.md) | 0 |  |
+| KRS 67C.418 | [sec-067c-418.md](sec-067c-418.md) | 0 |  |

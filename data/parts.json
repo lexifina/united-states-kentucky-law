@@ -1,0 +1,106 @@
+{
+ "parts": {
+  "80-q105-depth.json": {
+   "acts": [
+    "krs-chapter-001",
+    "krs-chapter-002",
+    "krs-chapter-003",
+    "krs-chapter-005",
+    "krs-chapter-007",
+    "krs-chapter-007a",
+    "krs-chapter-007b",
+    "krs-chapter-008",
+    "krs-chapter-011a",
+    "krs-chapter-013a",
+    "krs-chapter-013b",
+    "krs-chapter-014",
+    "krs-chapter-018a",
+    "krs-chapter-022a",
+    "krs-chapter-029a",
+    "krs-chapter-030a",
+    "krs-chapter-031a",
+    "krs-chapter-032",
+    "krs-chapter-039a",
+    "krs-chapter-039b",
+    "krs-chapter-039c",
+    "krs-chapter-039d",
+    "krs-chapter-039e",
+    "krs-chapter-039f",
+    "krs-chapter-039g",
+    "krs-chapter-043",
+    "krs-chapter-045a",
+    "krs-chapter-048",
+    "krs-chapter-049",
+    "krs-chapter-065a",
+    "krs-chapter-067c",
+    "krs-chapter-071",
+    "krs-chapter-073",
+    "krs-chapter-075a",
+    "krs-chapter-083a",
+    "krs-chapter-092",
+    "krs-chapter-095a",
+    "krs-chapter-099a"
+   ],
+   "sha256": "70be70d5b5324525b6aa331e84e55fa6ef07d750b690b3bbc793431875844b65"
+  },
+  "81-q105-depth-more.json": {
+   "acts": [
+    "krs-chapter-116",
+    "krs-chapter-117a",
+    "krs-chapter-118a",
+    "krs-chapter-118b",
+    "krs-chapter-137",
+    "krs-chapter-141",
+    "krs-chapter-143",
+    "krs-chapter-143a",
+    "krs-chapter-144",
+    "krs-chapter-147b"
+   ],
+   "sha256": "9a6ce0f98d16e7bc3bf9d96d627699b400e331062d5b7b759e2c183cf9f75025"
+  },
+  "82-q105-depth-further.json": {
+   "acts": [
+    "krs-chapter-154a",
+    "krs-chapter-159",
+    "krs-chapter-161",
+    "krs-chapter-162",
+    "krs-chapter-164a",
+    "krs-chapter-165a",
+    "krs-chapter-167",
+    "krs-chapter-168",
+    "krs-chapter-175b",
+    "krs-chapter-190a",
+    "krs-chapter-194",
+    "krs-chapter-195",
+    "krs-chapter-198b",
+    "krs-chapter-201",
+    "krs-chapter-202a",
+    "krs-chapter-202b",
+    "krs-chapter-202c",
+    "krs-chapter-209a"
+   ],
+   "sha256": "05b82289ca3937d6a8f5aac1b280c2f8ac19a533c79c4beeee7ef2399118a02f"
+  },
+  "83-q105-depth-batch4.json": {
+   "acts": [
+    "krs-chapter-213",
+    "krs-chapter-215",
+    "krs-chapter-216b",
+    "krs-chapter-218b",
+    "krs-chapter-222",
+    "krs-chapter-223"
+   ],
+   "sha256": "59f60898a26ba3799fe7ee447a434d6f567c1e3069004ba1fd6e80c902ec8cee"
+  },
+  "84-q105-depth-batch5.json": {
+   "acts": [
+    "krs-chapter-227a",
+    "krs-chapter-229",
+    "krs-chapter-233",
+    "krs-chapter-235"
+   ],
+   "sha256": "c1bcf8780244900c0b7dd2807e03fdad1bf5f4111274120986e3b7935d72d564"
+  }
+ },
+ "schema": 1
+}
