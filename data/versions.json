@@ -6356,6 +6356,398 @@
      "sha256": "83fcbcead50ddcd1ce92071c35519648cb12aaf81e1e22696c2696d5823b7be6"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-434",
+   "short": "KRS ch. 434",
+   "title": "Kentucky Revised Statutes, Chapter 434: Offenses Against Property By Fraud",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39311",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 97,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39311",
+     "sha256": "fd404087bad946681fd21ee60a125de1b536ae44e9710036483df4a36a8a0d4a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-436",
+   "short": "KRS ch. 436",
+   "title": "Kentucky Revised Statutes, Chapter 436: Offenses Against Morality",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39316",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 82,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39316",
+     "sha256": "9e30bd33100399c7efac75a464003f759a5dca985c51c90f7407d8dda62671cb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-437",
+   "short": "KRS ch. 437",
+   "title": "Kentucky Revised Statutes, Chapter 437: Offenses Against Public Peace -- Conspiracies",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39317",
+   "versions": [
+    {
+     "from": "1990-07-13",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39317",
+     "sha256": "73eba0875cc376f5da9508d3ee6db2b5e7d428da01f67c6bc2967e36153cc4c8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-438",
+   "short": "KRS ch. 438",
+   "title": "Kentucky Revised Statutes, Chapter 438: Offenses Against Public Health And Safety",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39319",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 69,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39319",
+     "sha256": "013577931e1d8d1305b6f752446c856e8d6995376ff83a32c93ae90f9e974a1f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-439",
+   "short": "KRS ch. 439",
+   "title": "Kentucky Revised Statutes, Chapter 439: Probation And Parole",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39322",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 131,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39322",
+     "sha256": "5b1316ce8312ca78122bdf8c039db0a1cd146be4b4a2a76f73e817c8482969e0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-440",
+   "short": "KRS ch. 440",
+   "title": "Kentucky Revised Statutes, Chapter 440: Escapes, Fugitives From Justice, And Extradition",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39327",
+   "versions": [
+    {
+     "from": "2000-07-14",
+     "units": 51,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39327",
+     "sha256": "238d0729cfc4ebcfc83461f59a920ce1b4f9888721332d8d7d358845b533abe8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-441",
+   "short": "KRS ch. 441",
+   "title": "Kentucky Revised Statutes, Chapter 441: Jails And County Prisoners",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39333",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 120,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39333",
+     "sha256": "9cc763709b4f67aaf1bdcdb94ac02f1d2f41d82d5f3e7928d9290b8ec7747974"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-446",
+   "short": "KRS ch. 446",
+   "title": "Kentucky Revised Statutes, Chapter 446: Construction Of Statutes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39344",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 39,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39344",
+     "sha256": "59c222fdd04b9d10c4c33738999cf8e4f920f7556d6555d4078bd856cc39d2e3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-447",
+   "short": "KRS ch. 447",
+   "title": "Kentucky Revised Statutes, Chapter 447: Public Laws In Force -- Court Rules",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39347",
+   "versions": [
+    {
+     "from": "1976-06-19",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39347",
+     "sha256": "cc89c1769cbac65d8d91dd863638bd2c505fca64b4855e655a7cf498f1d51abc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-451",
+   "short": "KRS ch. 451",
+   "title": "Kentucky Revised Statutes, Chapter 451: Practice In Circuit Courts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39350",
+   "versions": [
+    {
+     "from": "1978-01-02",
+     "units": 23,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39350",
+     "sha256": "c7984f2012090641d7aa912b6630258623ad75323c2570cbf7cd789418078413"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-452",
+   "short": "KRS ch. 452",
+   "title": "Kentucky Revised Statutes, Chapter 452: Venue And Change Of Venue",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39351",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 70,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39351",
+     "sha256": "081ae7997536de04854f363486a974327f627e411a841398d750c87f12e0c194"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-453",
+   "short": "KRS ch. 453",
+   "title": "Kentucky Revised Statutes, Chapter 453: Costs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39357",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 31,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39357",
+     "sha256": "9b3381cae183f45c206710a9e07044e100b774e072668c7c9717cb867f19951d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-454",
+   "short": "KRS ch. 454",
+   "title": "Kentucky Revised Statutes, Chapter 454: Miscellaneous Civil Practice Provisions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39358",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 57,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39358",
+     "sha256": "6d4d461559564aef13a094eecc6fbcd5506d49363af6e4456a153cb54927569b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-455",
+   "short": "KRS ch. 455",
+   "title": "Kentucky Revised Statutes, Chapter 455: Miscellaneous Criminal Practice Provisions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39361",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39361",
+     "sha256": "32454575d445b98b4fbb4e30b2cf562dd0ceeead007cd34ffba51c148539bcf1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-456",
+   "short": "KRS ch. 456",
+   "title": "Kentucky Revised Statutes, Chapter 456: Civil Orders Of Protection",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=43990",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 19,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=43990",
+     "sha256": "ba000f3781fe301c3d97a9c9366faefba14b3a3173d0ca02e4a0907ea0010d44"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-457",
+   "short": "KRS ch. 457",
+   "title": "Kentucky Revised Statutes, Chapter 457: Uniform Power Of Attorney Act (2006)",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=47170",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 49,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=47170",
+     "sha256": "875cd166da9685f689ff218c7e1c2eb53477042c1f330b1e4c84189b8d1b309f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-507a",
+   "short": "KRS ch. 507A",
+   "title": "Kentucky Revised Statutes, Chapter 507A: Fetal Homicide",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39373",
+   "versions": [
+    {
+     "from": "2004-02-20",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39373",
+     "sha256": "1d714de0c5b82d7846816e86baae6fa30b5d2011341acec01dfd555cb5fc8ec0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-600",
+   "short": "KRS ch. 600",
+   "title": "Kentucky Revised Statutes, Chapter 600: Introductory Matters",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39409",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39409",
+     "sha256": "15d2df2d488c1dd02c706cbebf556cfe505196ce44bb22b5016556718845d37e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-605",
+   "short": "KRS ch. 605",
+   "title": "Kentucky Revised Statutes, Chapter 605: Administrative Matters",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39411",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39411",
+     "sha256": "2f6c9897d3cbfc7e02d89324c3984d12f4ea0380307ed1111db838ce1f2f1a3e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-610",
+   "short": "KRS ch. 610",
+   "title": "Kentucky Revised Statutes, Chapter 610: Procedural Matters",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39413",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 54,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39413",
+     "sha256": "32d5786c57c98141bca4859508c2f5503913d66fa5aaf4700dc537f8fbec2571"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-615",
+   "short": "KRS ch. 615",
+   "title": "Kentucky Revised Statutes, Chapter 615: Interstate Compacts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39415",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39415",
+     "sha256": "29fbbe95718acdf3cd611a0578cfe4653e43d77bc24b75af7d25d8b05ce208a8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-620",
+   "short": "KRS ch. 620",
+   "title": "Kentucky Revised Statutes, Chapter 620: Dependency, Neglect, And Abuse",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39420",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 72,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39420",
+     "sha256": "e6e07efbba0112301e68302e36017c004d344f9ec3de888c9f0b6163201336e2"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-625",
+   "short": "KRS ch. 625",
+   "title": "Kentucky Revised Statutes, Chapter 625: Termination Of Parental Rights",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39424",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 26,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39424",
+     "sha256": "0d6ee92b10fb8668ae7a11ae950f9d003b76630ecfd45c746c4a51a3e913c99d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-630",
+   "short": "KRS ch. 630",
+   "title": "Kentucky Revised Statutes, Chapter 630: Status Offenders",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39428",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 19,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39428",
+     "sha256": "bc7db9e2d5882970451e29cbe67c632197e7c70b5761eb54a5bc9021156e761d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-635",
+   "short": "KRS ch. 635",
+   "title": "Kentucky Revised Statutes, Chapter 635: Public Offenders",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39430",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39430",
+     "sha256": "b6d0216ebe8ec7650be87f80726365ec2698c4d9fcf3ca3df836e49073e7f971"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-640",
+   "short": "KRS ch. 640",
+   "title": "Kentucky Revised Statutes, Chapter 640: Youthful Offenders",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39433",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 13,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39433",
+     "sha256": "5c97300616cb5859427bf184c20656df8787101560e5145b28ab6ac2389fd4db"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-645",
+   "short": "KRS ch. 645",
+   "title": "Kentucky Revised Statutes, Chapter 645: Mental Health Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39435",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 31,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39435",
+     "sha256": "00a6fe51ed3c78fae0f9e537a9612d0651e1e49d2c6a6f478d43fc9f401dbe34"
+    }
+   ]
+  },
+  {
+   "slug": "kre",
+   "short": "KRE",
+   "title": "Kentucky Rules of Evidence",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39436",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 79,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39436",
+     "sha256": "1078a0335255d5c4b3d31a1778810b54067636722464343be30e7d35076fcc7e"
+    }
+   ]
   }
  ]
 }

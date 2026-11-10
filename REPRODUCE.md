@@ -34,6 +34,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -495,12 +496,40 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-431` | Kentucky Revised Statutes, Chapter 431: General Provisions Concerning Crimes And Punishments | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-432` | Kentucky Revised Statutes, Chapter 432: Offenses Against The State And Public Justice | 1 | 2000-07-14 to 2000-07-14 |
 | `krs-chapter-433` | Kentucky Revised Statutes, Chapter 433: Offenses Against Property By Force | 1 | 2026-04-14 to 2026-04-14 |
+| `krs-chapter-434` | Kentucky Revised Statutes, Chapter 434: Offenses Against Property By Fraud | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-436` | Kentucky Revised Statutes, Chapter 436: Offenses Against Morality | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-437` | Kentucky Revised Statutes, Chapter 437: Offenses Against Public Peace -- Conspiracies | 1 | 1990-07-13 to 1990-07-13 |
+| `krs-chapter-438` | Kentucky Revised Statutes, Chapter 438: Offenses Against Public Health And Safety | 1 | 2026-04-10 to 2026-04-10 |
+| `krs-chapter-439` | Kentucky Revised Statutes, Chapter 439: Probation And Parole | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-440` | Kentucky Revised Statutes, Chapter 440: Escapes, Fugitives From Justice, And Extradition | 1 | 2000-07-14 to 2000-07-14 |
+| `krs-chapter-441` | Kentucky Revised Statutes, Chapter 441: Jails And County Prisoners | 1 | 2026-04-14 to 2026-04-14 |
+| `krs-chapter-446` | Kentucky Revised Statutes, Chapter 446: Construction Of Statutes | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-447` | Kentucky Revised Statutes, Chapter 447: Public Laws In Force -- Court Rules | 1 | 1976-06-19 to 1976-06-19 |
+| `krs-chapter-451` | Kentucky Revised Statutes, Chapter 451: Practice In Circuit Courts | 1 | 1978-01-02 to 1978-01-02 |
+| `krs-chapter-452` | Kentucky Revised Statutes, Chapter 452: Venue And Change Of Venue | 1 | 2024-04-12 to 2024-04-12 |
+| `krs-chapter-453` | Kentucky Revised Statutes, Chapter 453: Costs | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-454` | Kentucky Revised Statutes, Chapter 454: Miscellaneous Civil Practice Provisions | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-455` | Kentucky Revised Statutes, Chapter 455: Miscellaneous Criminal Practice Provisions | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-456` | Kentucky Revised Statutes, Chapter 456: Civil Orders Of Protection | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-457` | Kentucky Revised Statutes, Chapter 457: Uniform Power Of Attorney Act (2006) | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-507a` | Kentucky Revised Statutes, Chapter 507A: Fetal Homicide | 1 | 2004-02-20 to 2004-02-20 |
+| `krs-chapter-600` | Kentucky Revised Statutes, Chapter 600: Introductory Matters | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-605` | Kentucky Revised Statutes, Chapter 605: Administrative Matters | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-610` | Kentucky Revised Statutes, Chapter 610: Procedural Matters | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-615` | Kentucky Revised Statutes, Chapter 615: Interstate Compacts | 1 | 2012-07-12 to 2012-07-12 |
+| `krs-chapter-620` | Kentucky Revised Statutes, Chapter 620: Dependency, Neglect, And Abuse | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-625` | Kentucky Revised Statutes, Chapter 625: Termination Of Parental Rights | 1 | 2026-10-01 to 2026-10-01 |
+| `krs-chapter-630` | Kentucky Revised Statutes, Chapter 630: Status Offenders | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-635` | Kentucky Revised Statutes, Chapter 635: Public Offenders | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-640` | Kentucky Revised Statutes, Chapter 640: Youthful Offenders | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-645` | Kentucky Revised Statutes, Chapter 645: Mental Health Act | 1 | 2021-06-29 to 2021-06-29 |
+| `kre` | Kentucky Rules of Evidence | 1 | 2021-06-29 to 2021-06-29 |
 
-The build made 454 commits:
+The build made 482 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 454 | first version of an act |
+| 482 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -508,7 +537,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 454 tags.
+- 482 tags.
 
 ## Dates
 
@@ -520,7 +549,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `134030c2d7a0aa44fddc42132a728906e917b1a47048753f3c3f52eacb25c283` (59372165 bytes).
+- Corpus: sha256 `a461bdd96b80b34797bfd5fa7f2492dae8113439f3f18c8e2da322a405c2d8b5` (61333513 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

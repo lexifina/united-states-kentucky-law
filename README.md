@@ -7,7 +7,8 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 432 chapters (`krs-chapter-*/`), 35423 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 459 chapters (`krs-chapter-*/`), 36624 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Rules of Evidence: `kre/`, 79 rules.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -410,6 +411,22 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-431/` | Kentucky Revised Statutes, Chapter 431: General Provisions Concerning Crimes And Punishments | 98 | 2026-07-15 |
 | `krs-chapter-432/` | Kentucky Revised Statutes, Chapter 432: Offenses Against The State And Public Justice | 65 | 2000-07-14 |
 | `krs-chapter-433/` | Kentucky Revised Statutes, Chapter 433: Offenses Against Property By Force | 127 | 2026-04-14 |
+| `krs-chapter-434/` | Kentucky Revised Statutes, Chapter 434: Offenses Against Property By Fraud | 97 | 2025-06-27 |
+| `krs-chapter-436/` | Kentucky Revised Statutes, Chapter 436: Offenses Against Morality | 82 | 2026-07-15 |
+| `krs-chapter-437/` | Kentucky Revised Statutes, Chapter 437: Offenses Against Public Peace -- Conspiracies | 28 | 1990-07-13 |
+| `krs-chapter-438/` | Kentucky Revised Statutes, Chapter 438: Offenses Against Public Health And Safety | 69 | 2026-04-10 |
+| `krs-chapter-439/` | Kentucky Revised Statutes, Chapter 439: Probation And Parole | 131 | 2026-07-15 |
+| `krs-chapter-440/` | Kentucky Revised Statutes, Chapter 440: Escapes, Fugitives From Justice, And Extradition | 51 | 2000-07-14 |
+| `krs-chapter-441/` | Kentucky Revised Statutes, Chapter 441: Jails And County Prisoners | 120 | 2026-04-14 |
+| `krs-chapter-446/` | Kentucky Revised Statutes, Chapter 446: Construction Of Statutes | 39 | 2025-06-27 |
+| `krs-chapter-447/` | Kentucky Revised Statutes, Chapter 447: Public Laws In Force -- Court Rules | 28 | 1976-06-19 |
+| `krs-chapter-451/` | Kentucky Revised Statutes, Chapter 451: Practice In Circuit Courts | 23 | 1978-01-02 |
+| `krs-chapter-452/` | Kentucky Revised Statutes, Chapter 452: Venue And Change Of Venue | 70 | 2024-04-12 |
+| `krs-chapter-453/` | Kentucky Revised Statutes, Chapter 453: Costs | 31 | 2017-06-29 |
+| `krs-chapter-454/` | Kentucky Revised Statutes, Chapter 454: Miscellaneous Civil Practice Provisions | 57 | 2024-07-15 |
+| `krs-chapter-455/` | Kentucky Revised Statutes, Chapter 455: Miscellaneous Criminal Practice Provisions | 20 | 2021-06-29 |
+| `krs-chapter-456/` | Kentucky Revised Statutes, Chapter 456: Civil Orders Of Protection | 19 | 2026-07-15 |
+| `krs-chapter-457/` | Kentucky Revised Statutes, Chapter 457: Uniform Power Of Attorney Act (2006) | 49 | 2026-07-15 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |
 | `krs-chapter-501/` | Kentucky Revised Statutes, Chapter 501: General Principles Of Liability | 11 | 2026-10-29 |
 | `krs-chapter-502/` | Kentucky Revised Statutes, Chapter 502: Parties To Offenses: Accountability | 6 | 2026-10-29 |
@@ -418,6 +435,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-505/` | Kentucky Revised Statutes, Chapter 505: Protection Against Unfair Or Oppressive Prosecution | 6 | 2026-10-29 |
 | `krs-chapter-506/` | Kentucky Revised Statutes, Chapter 506: Inchoate Offenses | 20 | 2026-10-29 |
 | `krs-chapter-507/` | Kentucky Revised Statutes, Chapter 507: Criminal Homicide | 7 | 2026-10-29 |
+| `krs-chapter-507a/` | Kentucky Revised Statutes, Chapter 507A: Fetal Homicide | 6 | 2004-02-20 |
 | `krs-chapter-508/` | Kentucky Revised Statutes, Chapter 508: Assault And Related Offenses | 30 | 2026-10-29 |
 | `krs-chapter-509/` | Kentucky Revised Statutes, Chapter 509: Kidnapping And Related Offenses | 8 | 2026-10-29 |
 | `krs-chapter-510/` | Kentucky Revised Statutes, Chapter 510: Sexual Offenses | 25 | 2026-10-29 |
@@ -445,6 +463,17 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-532/` | Kentucky Revised Statutes, Chapter 532: Classification And Designation Of Offenses -- Authorized Disposition | 55 | 2026-10-29 |
 | `krs-chapter-533/` | Kentucky Revised Statutes, Chapter 533: Probation And Conditional Discharge | 33 | 2026-10-29 |
 | `krs-chapter-534/` | Kentucky Revised Statutes, Chapter 534: Fines | 8 | 2026-10-29 |
+| `krs-chapter-600/` | Kentucky Revised Statutes, Chapter 600: Introductory Matters | 7 | 2026-07-15 |
+| `krs-chapter-605/` | Kentucky Revised Statutes, Chapter 605: Administrative Matters | 25 | 2026-07-15 |
+| `krs-chapter-610/` | Kentucky Revised Statutes, Chapter 610: Procedural Matters | 54 | 2026-07-15 |
+| `krs-chapter-615/` | Kentucky Revised Statutes, Chapter 615: Interstate Compacts | 6 | 2012-07-12 |
+| `krs-chapter-620/` | Kentucky Revised Statutes, Chapter 620: Dependency, Neglect, And Abuse | 72 | 2026-07-15 |
+| `krs-chapter-625/` | Kentucky Revised Statutes, Chapter 625: Termination Of Parental Rights | 26 | 2026-10-01 |
+| `krs-chapter-630/` | Kentucky Revised Statutes, Chapter 630: Status Offenders | 19 | 2026-07-15 |
+| `krs-chapter-635/` | Kentucky Revised Statutes, Chapter 635: Public Offenders | 28 | 2024-07-15 |
+| `krs-chapter-640/` | Kentucky Revised Statutes, Chapter 640: Youthful Offenders | 13 | 2021-06-29 |
+| `krs-chapter-645/` | Kentucky Revised Statutes, Chapter 645: Mental Health Act | 31 | 2021-06-29 |
+| `kre/` | Kentucky Rules of Evidence | 79 | 2021-06-29 |
 
 ## Dates
 
