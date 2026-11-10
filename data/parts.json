@@ -230,6 +230,22 @@
     "krs-chapter-153"
    ],
    "sha256": "24e392efe6f8150611be0b1c1c04f0f08eb6dd8e8b72706e6f9d8c9f9de7fdb4"
+  },
+  "85-ky-rest-08.json": {
+   "acts": [
+    "krs-chapter-091",
+    "krs-chapter-142",
+    "krs-chapter-152",
+    "krs-chapter-154",
+    "krs-chapter-155",
+    "krs-chapter-156",
+    "krs-chapter-157",
+    "krs-chapter-158",
+    "krs-chapter-160",
+    "krs-chapter-163",
+    "krs-chapter-165"
+   ],
+   "sha256": "814fda3f8d8534ec2f4fb32204fb2f89084a1c9efab63e54a7d6c7fcfba2c9fd"
   }
  },
  "schema": 1

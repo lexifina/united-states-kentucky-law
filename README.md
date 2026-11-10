@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 209 chapters (`krs-chapter-*/`), 13095 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 220 chapters (`krs-chapter-*/`), 14949 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -103,6 +103,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-083/` | Kentucky Revised Statutes, Chapter 83: Organization And Government Of Cities Of The First Class | 72 | 2010-07-15 |
 | `krs-chapter-083a/` | Kentucky Revised Statutes, Chapter 83A: Organization Of Government In Cities | 30 | 2026-07-15 |
 | `krs-chapter-090/` | Kentucky Revised Statutes, Chapter 90: City Civil Service | 38 | 2022-07-14 |
+| `krs-chapter-091/` | Kentucky Revised Statutes, Chapter 91: Finance And Revenue Of Cities Of The First Class | 108 | 2026-07-15 |
 | `krs-chapter-091a/` | Kentucky Revised Statutes, Chapter 91A: Finance And Revenue Of Cities | 50 | 2026-07-15 |
 | `krs-chapter-092/` | Kentucky Revised Statutes, Chapter 92: Finance And Revenue Of Cities Other Than The First Class | 95 | 2026-07-15 |
 | `krs-chapter-094/` | Kentucky Revised Statutes, Chapter 94: Public Works In Cities Other Than The First Class | 128 | 1992-07-14 |
@@ -142,6 +143,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-139/` | Kentucky Revised Statutes, Chapter 139: Sales And Use Taxes | 147 | 2026-08-01 |
 | `krs-chapter-140/` | Kentucky Revised Statutes, Chapter 140: Inheritance And Estate Taxes | 52 | 2026-04-27 |
 | `krs-chapter-141/` | Kentucky Revised Statutes, Chapter 141: Income Taxes | 194 | 2026-07-15 |
+| `krs-chapter-142/` | Kentucky Revised Statutes, Chapter 142: Miscellaneous Taxes | 66 | 2026-07-15 |
 | `krs-chapter-143/` | Kentucky Revised Statutes, Chapter 143: Coal Tax | 19 | 2026-07-15 |
 | `krs-chapter-143a/` | Kentucky Revised Statutes, Chapter 143A: Natural Resources Severance And Processing Taxes | 21 | 2026-07-15 |
 | `krs-chapter-144/` | Kentucky Revised Statutes, Chapter 144: Tax Incentives For Economic Development | 9 | 2017-06-29 |
@@ -154,13 +156,22 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-150/` | Kentucky Revised Statutes, Chapter 150: Fish And Wildlife Resources | 152 | 2026-07-15 |
 | `krs-chapter-151/` | Kentucky Revised Statutes, Chapter 151: Geology And Water Resources | 102 | 2026-04-14 |
 | `krs-chapter-151b/` | Kentucky Revised Statutes, Chapter 151B: Workforce Education | 105 | 2026-07-15 |
+| `krs-chapter-152/` | Kentucky Revised Statutes, Chapter 152: Energy Development | 132 | 2018-07-14 |
 | `krs-chapter-152a/` | Kentucky Revised Statutes, Chapter 152A: Energy | 62 | 1994-07-15 |
 | `krs-chapter-153/` | Kentucky Revised Statutes, Chapter 153: The Arts -- State Zoo | 50 | 2023-01-01 |
+| `krs-chapter-154/` | Kentucky Revised Statutes, Chapter 154: Development | 588 | 2026-07-15 |
 | `krs-chapter-154a/` | Kentucky Revised Statutes, Chapter 154A: State Lottery | 27 | 2025-07-01 |
+| `krs-chapter-155/` | Kentucky Revised Statutes, Chapter 155: Business Development Corporations | 34 | 2019-06-27 |
+| `krs-chapter-156/` | Kentucky Revised Statutes, Chapter 156: Department Of Education | 208 | 2026-07-15 |
+| `krs-chapter-157/` | Kentucky Revised Statutes, Chapter 157: State Support Of Education | 154 | 2026-07-15 |
+| `krs-chapter-158/` | Kentucky Revised Statutes, Chapter 158: Conduct Of Schools -- Special Programs | 282 | 2026-07-15 |
 | `krs-chapter-159/` | Kentucky Revised Statutes, Chapter 159: Compulsory Attendance | 32 | 2026-07-15 |
+| `krs-chapter-160/` | Kentucky Revised Statutes, Chapter 160: School Districts | 189 | 2026-08-01 |
 | `krs-chapter-161/` | Kentucky Revised Statutes, Chapter 161: School Employees -- Teachers' Retirement And Tenure | 211 | 2026-07-15 |
 | `krs-chapter-162/` | Kentucky Revised Statutes, Chapter 162: School Property And Buildings | 78 | 2024-07-15 |
+| `krs-chapter-163/` | Kentucky Revised Statutes, Chapter 163: Vocational Education And Rehabilitation | 58 | 2022-07-01 |
 | `krs-chapter-164a/` | Kentucky Revised Statutes, Chapter 164A: Higher Education Finance | 81 | 2025-03-31 |
+| `krs-chapter-165/` | Kentucky Revised Statutes, Chapter 165: City Universities And Colleges | 35 | 2015-01-01 |
 | `krs-chapter-165a/` | Kentucky Revised Statutes, Chapter 165A: Proprietary Education | 31 | 2026-07-15 |
 | `krs-chapter-167/` | Kentucky Revised Statutes, Chapter 167: Education Of The Physically Handicapped | 30 | 2007-06-26 |
 | `krs-chapter-168/` | Kentucky Revised Statutes, Chapter 168: Educational Television | 11 | 1998-07-15 |

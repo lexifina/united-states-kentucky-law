@@ -3234,6 +3234,160 @@
      "sha256": "e3a249d24e8bb506e6d5346d7d8d670930551b915bd78b81c1c734dc72820135"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-091",
+   "short": "KRS ch. 91",
+   "title": "Kentucky Revised Statutes, Chapter 91: Finance And Revenue Of Cities Of The First Class",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37471",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 108,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37471",
+     "sha256": "34e3e34c99c92cb21806a25d3e086fe86ffba6d4ad5b18fc2ce639d3bf3f63e6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-142",
+   "short": "KRS ch. 142",
+   "title": "Kentucky Revised Statutes, Chapter 142: Miscellaneous Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37681",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 66,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37681",
+     "sha256": "a157bd775c54038125e1cc65405f9e7ae8d99a18958c8e35c700f055b66c1f4c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-152",
+   "short": "KRS ch. 152",
+   "title": "Kentucky Revised Statutes, Chapter 152: Energy Development",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37744",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 132,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37744",
+     "sha256": "5bc5e6d263210c4ef97a74336f63b07cf2e8001449b16a29cd77a90a880b7437"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-154",
+   "short": "KRS ch. 154",
+   "title": "Kentucky Revised Statutes, Chapter 154: Development",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37765",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 588,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37765",
+     "sha256": "00b78c4cb8c6ca1d096b6eb2ca9ccf6975ff1d7bc7371e573bfbf9b82b346b7b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-155",
+   "short": "KRS ch. 155",
+   "title": "Kentucky Revised Statutes, Chapter 155: Business Development Corporations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37823",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37823",
+     "sha256": "e1ff8f11466690c9658a8c86bfa6b6c70b5b6249cb7053221dc4dd873587c4db"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-156",
+   "short": "KRS ch. 156",
+   "title": "Kentucky Revised Statutes, Chapter 156: Department Of Education",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37825",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 208,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37825",
+     "sha256": "99225a4d26ec6fe043f0992509f771f123a2087c88edcbdc82432fcf236e8afd"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-157",
+   "short": "KRS ch. 157",
+   "title": "Kentucky Revised Statutes, Chapter 157: State Support Of Education",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37840",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 154,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37840",
+     "sha256": "0ae4c29449bd5510c29b6871d40cc76bc827239d488d24af31f641796d4b0425"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-158",
+   "short": "KRS ch. 158",
+   "title": "Kentucky Revised Statutes, Chapter 158: Conduct Of Schools -- Special Programs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37853",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 282,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37853",
+     "sha256": "1ab29443e81f84d632c061e52689f1cb656fc12334b9548feab422b6cb3a5f1e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-160",
+   "short": "KRS ch. 160",
+   "title": "Kentucky Revised Statutes, Chapter 160: School Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37868",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 189,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37868",
+     "sha256": "76970e438f603048107b8eacfbe75c14c46456da5f3b7542c8cd0246e8e1981f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-163",
+   "short": "KRS ch. 163",
+   "title": "Kentucky Revised Statutes, Chapter 163: Vocational Education And Rehabilitation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37894",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 58,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37894",
+     "sha256": "caab31a896b98d74bb42c5d409e4b2e00847aa6102dd853d10e905ee5ab4a097"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-165",
+   "short": "KRS ch. 165",
+   "title": "Kentucky Revised Statutes, Chapter 165: City Universities And Colleges",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37935",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 35,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37935",
+     "sha256": "6956f9b9dd133eff8c0b16cf6c7664eb01ab50988458c8dc792c79933fbe6fba"
+    }
+   ]
   }
  ]
 }
