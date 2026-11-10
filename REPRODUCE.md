@@ -24,6 +24,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -313,12 +314,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-218a` | Kentucky Revised Statutes, Chapter 218A: Controlled Substances | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-220` | Kentucky Revised Statutes, Chapter 220: Sanitation Districts | 1 | 2018-07-14 to 2018-07-14 |
 | `krs-chapter-221` | Kentucky Revised Statutes, Chapter 221: Frozen Food Locker Plants | 1 | 2019-07-01 to 2019-07-01 |
+| `krs-chapter-211` | Kentucky Revised Statutes, Chapter 211: State Health Programs | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-216` | Kentucky Revised Statutes, Chapter 216: Health Facilities And Services | 1 | 2025-07-01 to 2025-07-01 |
+| `krs-chapter-217` | Kentucky Revised Statutes, Chapter 217: Foods, Drugs, And Poisons | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-219` | Kentucky Revised Statutes, Chapter 219: Hotel, Food Service, And Mobile Home And Recreational Vehicle Park Regulations | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-224` | Kentucky Revised Statutes, Chapter 224: Environmental Protection | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-224a` | Kentucky Revised Statutes, Chapter 224A: Kentucky Infrastructure Authority | 1 | 2026-04-14 to 2026-04-14 |
+| `krs-chapter-226` | Kentucky Revised Statutes, Chapter 226: Pawnbrokers | 1 | 2018-07-14 to 2018-07-14 |
+| `krs-chapter-227` | Kentucky Revised Statutes, Chapter 227: Fire Prevention And Protection -- Electricians | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-230` | Kentucky Revised Statutes, Chapter 230: Kentucky Horse Racing And Gaming Corporation | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-231` | Kentucky Revised Statutes, Chapter 231: Places Of Entertainment | 1 | 1988-07-15 to 1988-07-15 |
+| `krs-chapter-232` | Kentucky Revised Statutes, Chapter 232: Nudist Societies | 1 | 1978-06-17 to 1978-06-17 |
+| `krs-chapter-234` | Kentucky Revised Statutes, Chapter 234: Liquefied Petroleum Gas And Other Flammable Liquids | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-236` | Kentucky Revised Statutes, Chapter 236: Boiler And Pressure Vessel Safety | 1 | 2018-07-14 to 2018-07-14 |
+| `krs-chapter-237` | Kentucky Revised Statutes, Chapter 237: Firearms And Destructive Devices | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-238` | Kentucky Revised Statutes, Chapter 238: Charitable Gaming | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-241` | Kentucky Revised Statutes, Chapter 241: Alcoholic Beverages -- Administration And Control | 1 | 2025-07-01 to 2025-07-01 |
+| `krs-chapter-242` | Kentucky Revised Statutes, Chapter 242: Alcoholic Beverages -- Local Option | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-243` | Kentucky Revised Statutes, Chapter 243: Alcoholic Beverages -- Licenses And Taxes | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-244` | Kentucky Revised Statutes, Chapter 244: Alcoholic Beverages -- Prohibitions, Restrictions, And Regulations | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-246` | Kentucky Revised Statutes, Chapter 246: Department Of Agriculture | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-247` | Kentucky Revised Statutes, Chapter 247: Promotion Of Agriculture And Horticulture | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-248` | Kentucky Revised Statutes, Chapter 248: Tobacco | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-249` | Kentucky Revised Statutes, Chapter 249: Trees, Plants, Weeds, And Pests | 1 | 2022-07-14 to 2022-07-14 |
 
-The build made 282 commits:
+The build made 305 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 282 | first version of an act |
+| 305 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -326,7 +350,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 282 tags.
+- 305 tags.
 
 ## Dates
 
@@ -338,7 +362,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7aa815367155542e40638339955ade45e8fcdb88260f66a2a8be3e57e1a97f60` (33485466 bytes).
+- Corpus: sha256 `d9b74b9ec16b552d6822e6a935cb722d9ec67d0f271bee866458cc7678befe13` (37873586 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 260 chapters (`krs-chapter-*/`), 19008 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 283 chapters (`krs-chapter-*/`), 21976 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -217,24 +217,47 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-209/` | Kentucky Revised Statutes, Chapter 209: Protection Of Adults | 33 | 2026-04-10 |
 | `krs-chapter-209a/` | Kentucky Revised Statutes, Chapter 209A: Spousal Abuse Or Neglect | 14 | 2026-07-15 |
 | `krs-chapter-210/` | Kentucky Revised Statutes, Chapter 210: State And Regional Mental Health Programs | 116 | 2026-07-15 |
+| `krs-chapter-211/` | Kentucky Revised Statutes, Chapter 211: State Health Programs | 300 | 2026-07-15 |
 | `krs-chapter-212/` | Kentucky Revised Statutes, Chapter 212: Local Health Programs | 135 | 2024-07-01 |
 | `krs-chapter-213/` | Kentucky Revised Statutes, Chapter 213: Vital Statistics | 76 | 2025-06-27 |
 | `krs-chapter-214/` | Kentucky Revised Statutes, Chapter 214: Diseases | 97 | 2025-06-27 |
 | `krs-chapter-215/` | Kentucky Revised Statutes, Chapter 215: Tuberculosis | 88 | 2005-06-20 |
+| `krs-chapter-216/` | Kentucky Revised Statutes, Chapter 216: Health Facilities And Services | 237 | 2025-07-01 |
 | `krs-chapter-216a/` | Kentucky Revised Statutes, Chapter 216A: Licensing Of Nursing Home Administrators | 17 | 2022-07-14 |
 | `krs-chapter-216b/` | Kentucky Revised Statutes, Chapter 216B: Licensure And Regulation Of Health Facilities And Services | 102 | 2026-07-15 |
+| `krs-chapter-217/` | Kentucky Revised Statutes, Chapter 217: Foods, Drugs, And Poisons | 273 | 2026-07-15 |
 | `krs-chapter-217b/` | Kentucky Revised Statutes, Chapter 217B: Fertilizer And Pesticide Use And Application | 60 | 2022-07-14 |
 | `krs-chapter-217c/` | Kentucky Revised Statutes, Chapter 217C: Milk And Milk Products | 11 | 2019-06-27 |
 | `krs-chapter-218a/` | Kentucky Revised Statutes, Chapter 218A: Controlled Substances | 129 | 2026-07-15 |
 | `krs-chapter-218b/` | Kentucky Revised Statutes, Chapter 218B: Medicinal Cannabis | 30 | 2025-01-01 |
+| `krs-chapter-219/` | Kentucky Revised Statutes, Chapter 219: Hotel, Food Service, And Mobile Home And Recreational Vehicle Park Regulations | 49 | 2024-07-15 |
 | `krs-chapter-220/` | Kentucky Revised Statutes, Chapter 220: Sanitation Districts | 108 | 2018-07-14 |
 | `krs-chapter-221/` | Kentucky Revised Statutes, Chapter 221: Frozen Food Locker Plants | 12 | 2019-07-01 |
 | `krs-chapter-222/` | Kentucky Revised Statutes, Chapter 222: Kentucky Alcohol And Substance Use Disorder Prevention, Intervention, And Treatment Law | 88 | 2026-04-10 |
 | `krs-chapter-223/` | Kentucky Revised Statutes, Chapter 223: Sanitarians, Water Plant Operators, And Water Well Construction Practices | 32 | 2024-07-15 |
+| `krs-chapter-224/` | Kentucky Revised Statutes, Chapter 224: Environmental Protection | 626 | 2026-07-15 |
+| `krs-chapter-224a/` | Kentucky Revised Statutes, Chapter 224A: Kentucky Infrastructure Authority | 62 | 2026-04-14 |
+| `krs-chapter-226/` | Kentucky Revised Statutes, Chapter 226: Pawnbrokers | 11 | 2018-07-14 |
+| `krs-chapter-227/` | Kentucky Revised Statutes, Chapter 227: Fire Prevention And Protection -- Electricians | 112 | 2026-07-15 |
 | `krs-chapter-227a/` | Kentucky Revised Statutes, Chapter 227A: Electricians And Electrical Contractors | 15 | 2024-07-15 |
 | `krs-chapter-229/` | Kentucky Revised Statutes, Chapter 229: Boxing And Wrestling | 52 | 2025-06-27 |
+| `krs-chapter-230/` | Kentucky Revised Statutes, Chapter 230: Kentucky Horse Racing And Gaming Corporation | 156 | 2026-07-15 |
+| `krs-chapter-231/` | Kentucky Revised Statutes, Chapter 231: Places Of Entertainment | 18 | 1988-07-15 |
+| `krs-chapter-232/` | Kentucky Revised Statutes, Chapter 232: Nudist Societies | 10 | 1978-06-17 |
 | `krs-chapter-233/` | Kentucky Revised Statutes, Chapter 233: Abatement Of Houses Of Prostitution | 16 | 1992-07-01 |
+| `krs-chapter-234/` | Kentucky Revised Statutes, Chapter 234: Liquefied Petroleum Gas And Other Flammable Liquids | 59 | 2021-06-29 |
 | `krs-chapter-235/` | Kentucky Revised Statutes, Chapter 235: Boats And Boating | 55 | 2026-07-15 |
+| `krs-chapter-236/` | Kentucky Revised Statutes, Chapter 236: Boiler And Pressure Vessel Safety | 25 | 2018-07-14 |
+| `krs-chapter-237/` | Kentucky Revised Statutes, Chapter 237: Firearms And Destructive Devices | 41 | 2026-07-15 |
+| `krs-chapter-238/` | Kentucky Revised Statutes, Chapter 238: Charitable Gaming | 63 | 2026-07-15 |
+| `krs-chapter-241/` | Kentucky Revised Statutes, Chapter 241: Alcoholic Beverages -- Administration And Control | 33 | 2025-07-01 |
+| `krs-chapter-242/` | Kentucky Revised Statutes, Chapter 242: Alcoholic Beverages -- Local Option | 70 | 2024-07-15 |
+| `krs-chapter-243/` | Kentucky Revised Statutes, Chapter 243: Alcoholic Beverages -- Licenses And Taxes | 160 | 2026-07-15 |
+| `krs-chapter-244/` | Kentucky Revised Statutes, Chapter 244: Alcoholic Beverages -- Prohibitions, Restrictions, And Regulations | 84 | 2025-06-27 |
+| `krs-chapter-246/` | Kentucky Revised Statutes, Chapter 246: Department Of Agriculture | 71 | 2026-07-15 |
+| `krs-chapter-247/` | Kentucky Revised Statutes, Chapter 247: Promotion Of Agriculture And Horticulture | 330 | 2026-07-15 |
+| `krs-chapter-248/` | Kentucky Revised Statutes, Chapter 248: Tobacco | 99 | 2026-07-15 |
+| `krs-chapter-249/` | Kentucky Revised Statutes, Chapter 249: Trees, Plants, Weeds, And Pests | 79 | 2022-07-14 |
 | `krs-chapter-275/` | Kentucky Revised Statutes, Chapter 275: Limited Liability Companies | 110 | 2026-10-29 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |

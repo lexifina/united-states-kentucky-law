@@ -3948,6 +3948,328 @@
      "sha256": "f02ca8d6763c78938ae8e486e696ace6cc08e3ff7b3c38d6882e8097797bc8d7"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-211",
+   "short": "KRS ch. 211",
+   "title": "Kentucky Revised Statutes, Chapter 211: State Health Programs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38167",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 300,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38167",
+     "sha256": "1492dcf3bdaeac06fd3d654574631e1a8271d5727ba590a26c5c1d0e3518c6b6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-216",
+   "short": "KRS ch. 216",
+   "title": "Kentucky Revised Statutes, Chapter 216: Health Facilities And Services",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38222",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 237,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38222",
+     "sha256": "d6691bb073e9f763eb493d2b7aaf02a08bdf278a155c3a57b59cf9bc5ec99768"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-217",
+   "short": "KRS ch. 217",
+   "title": "Kentucky Revised Statutes, Chapter 217: Foods, Drugs, And Poisons",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38245",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 273,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38245",
+     "sha256": "1a020bba98df6de1d38fa26debf017d451b728cb937850eeb23eced2b20b743a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-219",
+   "short": "KRS ch. 219",
+   "title": "Kentucky Revised Statutes, Chapter 219: Hotel, Food Service, And Mobile Home And Recreational Vehicle Park Regulations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38271",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 49,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38271",
+     "sha256": "f436adec42df1c80b56f7dd610afb8ab3f1c649288ae49ce79d62b3e07ed4590"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-224",
+   "short": "KRS ch. 224",
+   "title": "Kentucky Revised Statutes, Chapter 224: Environmental Protection",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38287",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 626,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38287",
+     "sha256": "f9d08b34938be706b23826227da852c378708aabfa8b3438b30c5fa9ad60bb07"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-224a",
+   "short": "KRS ch. 224A",
+   "title": "Kentucky Revised Statutes, Chapter 224A: Kentucky Infrastructure Authority",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38342",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 62,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38342",
+     "sha256": "0f48d170aa056c5a6f98bbf646fdc7e97081ef2dca96e69fd50b35db895ff860"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-226",
+   "short": "KRS ch. 226",
+   "title": "Kentucky Revised Statutes, Chapter 226: Pawnbrokers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38345",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38345",
+     "sha256": "8efde80ed8e82a4d6ae02a6d70162766c85f34cd3ec900d4fec91e1b7acc457d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-227",
+   "short": "KRS ch. 227",
+   "title": "Kentucky Revised Statutes, Chapter 227: Fire Prevention And Protection -- Electricians",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38346",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 112,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38346",
+     "sha256": "80048d413d7d9c6e7a8dfda8607ecd410baf2595e0dc59136ba0e1bc4719870d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-230",
+   "short": "KRS ch. 230",
+   "title": "Kentucky Revised Statutes, Chapter 230: Kentucky Horse Racing And Gaming Corporation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38357",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 156,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38357",
+     "sha256": "7374f7098a2bc2ce8514de14315aa2fdf990daec87f08e95048309d736262a3c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-231",
+   "short": "KRS ch. 231",
+   "title": "Kentucky Revised Statutes, Chapter 231: Places Of Entertainment",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38371",
+   "versions": [
+    {
+     "from": "1988-07-15",
+     "units": 18,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38371",
+     "sha256": "a8c369db572c4a30d4b266d77aabdc1fd14b74f84f1483d7963e251aeadc4b61"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-232",
+   "short": "KRS ch. 232",
+   "title": "Kentucky Revised Statutes, Chapter 232: Nudist Societies",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38372",
+   "versions": [
+    {
+     "from": "1978-06-17",
+     "units": 10,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38372",
+     "sha256": "6ea011ff7191474c6fc9fa6eb5fdbb31fa5c8a5ec5ae4807f5657a5f4646c1f4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-234",
+   "short": "KRS ch. 234",
+   "title": "Kentucky Revised Statutes, Chapter 234: Liquefied Petroleum Gas And Other Flammable Liquids",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38374",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 59,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38374",
+     "sha256": "6fc69402b269e213f2aceca2eb13ccf08a2bb443edfa3338a5dfd400a6e8333a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-236",
+   "short": "KRS ch. 236",
+   "title": "Kentucky Revised Statutes, Chapter 236: Boiler And Pressure Vessel Safety",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38383",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38383",
+     "sha256": "5f877f8c28b8d5b5b6317cf29da0b5491f3f517400dbe74dc383b05173b6cb4f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-237",
+   "short": "KRS ch. 237",
+   "title": "Kentucky Revised Statutes, Chapter 237: Firearms And Destructive Devices",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38384",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 41,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38384",
+     "sha256": "c0549439565ddf8a43eb626edaf8ad468de31d1d79b9e9eb5061211e501c1998"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-238",
+   "short": "KRS ch. 238",
+   "title": "Kentucky Revised Statutes, Chapter 238: Charitable Gaming",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38387",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 63,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38387",
+     "sha256": "13a725dae276897ee30b4669aa13c7c2f24335f8d69fd9a803d249acda91dbee"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-241",
+   "short": "KRS ch. 241",
+   "title": "Kentucky Revised Statutes, Chapter 241: Alcoholic Beverages -- Administration And Control",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38391",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 33,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38391",
+     "sha256": "ae5fd58e8c7207411612f7df0537a9b58c88ec83e90a73a293c477d9c5bc5888"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-242",
+   "short": "KRS ch. 242",
+   "title": "Kentucky Revised Statutes, Chapter 242: Alcoholic Beverages -- Local Option",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38392",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 70,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38392",
+     "sha256": "43ede361c4d327ea3d78eff5b467b2d7f283b7f4bdbb23b1d20b1710fbc5f3ff"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-243",
+   "short": "KRS ch. 243",
+   "title": "Kentucky Revised Statutes, Chapter 243: Alcoholic Beverages -- Licenses And Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38399",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 160,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38399",
+     "sha256": "1af447d6cfae147043cb27d89706b9ac035c1dc0474f7aaf4dc4e9e596b25e00"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-244",
+   "short": "KRS ch. 244",
+   "title": "Kentucky Revised Statutes, Chapter 244: Alcoholic Beverages -- Prohibitions, Restrictions, And Regulations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38405",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 84,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38405",
+     "sha256": "5e9f64c17f0fc70904b95de0906cde8ab1e58397b98222f9e5e96e05e0dbb2fd"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-246",
+   "short": "KRS ch. 246",
+   "title": "Kentucky Revised Statutes, Chapter 246: Department Of Agriculture",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38413",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 71,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38413",
+     "sha256": "aafee7190deac665faec2996a651e559ee2aef1bd4ebc84e66d0835bf13e63e8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-247",
+   "short": "KRS ch. 247",
+   "title": "Kentucky Revised Statutes, Chapter 247: Promotion Of Agriculture And Horticulture",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38417",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 330,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38417",
+     "sha256": "719b28ceb3cf25df648fa3d0979d621f84a3d313265942d9e50dabccff2e7e40"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-248",
+   "short": "KRS ch. 248",
+   "title": "Kentucky Revised Statutes, Chapter 248: Tobacco",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38443",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 99,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38443",
+     "sha256": "66902e512087de67c6c9113e95fae89b69352eb75e16d01093d2938e46cf6498"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-249",
+   "short": "KRS ch. 249",
+   "title": "Kentucky Revised Statutes, Chapter 249: Trees, Plants, Weeds, And Pests",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38449",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 79,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38449",
+     "sha256": "0e02be9064a28f855648967e336ed81adfe67b388477c2fceaabc95f7916249c"
+    }
+   ]
   }
  ]
 }
