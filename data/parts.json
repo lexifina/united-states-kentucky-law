@@ -100,6 +100,15 @@
     "krs-chapter-235"
    ],
    "sha256": "c1bcf8780244900c0b7dd2807e03fdad1bf5f4111274120986e3b7935d72d564"
+  },
+  "85-ky-rest-01.json": {
+   "acts": [
+    "krs-chapter-006",
+    "krs-chapter-011",
+    "krs-chapter-012",
+    "krs-chapter-014a"
+   ],
+   "sha256": "1cc3f6ee0075aa50f10f59907496a2306369f3b25edb86447ab413cb1636cf3c"
   }
  },
  "schema": 1

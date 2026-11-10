@@ -1,6 +1,6 @@
 # How this repository was made (United States (Kentucky))
 
-This file is written by the build on 2026-11-06, the day the source data was retrieved.
+This file is written by the build on 2026-11-10, the day the source data was retrieved.
 
 ## Sources
 
@@ -13,6 +13,7 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-06 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-06 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-06 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -156,20 +157,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-229` | Kentucky Revised Statutes, Chapter 229: Boxing And Wrestling  | 1 | 2025-06-27 to 2025-06-27 |
 | `krs-chapter-233` | Kentucky Revised Statutes, Chapter 233: Abatement Of Houses Of Prostitution  | 1 | 1992-07-01 to 1992-07-01 |
 | `krs-chapter-235` | Kentucky Revised Statutes, Chapter 235: Boats And Boating  | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-006` | Kentucky Revised Statutes, Chapter 6: The General Assembly | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-011` | Kentucky Revised Statutes, Chapter 11: The Governor | 1 | 2026-04-14 to 2026-04-14 |
+| `krs-chapter-012` | Kentucky Revised Statutes, Chapter 12: Administrative Organization | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-014a` | Kentucky Revised Statutes, Chapter 14A: Kentucky Business Entity Filing Act | 1 | 2022-07-01 to 2022-07-01 |
 
-The build made 136 commits:
+The build made 140 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 136 | first version of an act |
+| 140 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-06.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 136 tags.
+- 140 tags.
 
 ## Dates
 
@@ -181,7 +186,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c3b62d7f6b46ba8888ce78f1895f35536a69d204788ddc8bf00c2c5bb980ccb0` (8851107 bytes).
+- Corpus: sha256 `d083094e3061c5a4a986c114724d4e81dd0f363c246252ff9b696e3b72eb4812` (9445317 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -203,6 +208,7 @@ No second build of this corpus has been compared yet.
 - New KRS chapters are current consolidated text, one oldest available version per chapter, first_law null. In-force is the latest explicit Effective date printed among current section PDFs, using the most recent History entry if no standalone Effective line is given, not the database update or retrieval date. An amendment year alone does not establish commencement. Explicit future and expired variants are excluded from current text. Repeal and supersession stubs remain as source notes within operative chapters; only an explicit source repeal-status year strictly earlier than the latest exact effective-date year can establish that an undated repeal does not affect the chapter maximum. Chapters containing only such stubs are excluded from current normative coverage. Official nested groups not yet included are held. No earlier text is reconstructed. Unresolved dates, overlapping current variants, images requiring classification, and independent source token disagreements are held.
 - New KRS chapters are current consolidated text, one oldest available version per chapter, first_law null. In-force is the latest explicit Effective date printed among current section PDFs, using the most recent History entry if no standalone Effective line is given, not the database update or retrieval date. An amendment year alone does not establish commencement. Explicit future and expired variants are excluded from current text. Repeal and supersession stubs remain as source notes within operative chapters; only an explicit source repeal-status year strictly earlier than the latest exact effective-date year can establish that an undated repeal does not affect the chapter maximum. Chapters containing only such stubs are excluded from current normative coverage. Official nested groups not yet included are held. No earlier text is reconstructed. Unresolved dates, overlapping current variants, images requiring classification, and independent source token disagreements are held.
 - New KRS chapters are current consolidated text, one oldest available version per chapter, first_law null. In-force is the latest explicit Effective date printed among current section PDFs, using the most recent History entry if no standalone Effective line is given, not the database update or retrieval date. An amendment year alone does not establish commencement. Explicit future and expired variants are excluded from current text. Repeal and supersession stubs remain as source notes within operative chapters; only an explicit source repeal-status year strictly earlier than the latest exact effective-date year can establish that an undated repeal does not affect the chapter maximum. Chapters containing only such stubs are excluded from current normative coverage. Official nested groups not yet included are held. No earlier text is reconstructed. Unresolved dates, overlapping current variants, images requiring classification, and independent source token disagreements are held.
+- From part 85 on: a section with no exact Effective date (no Effective line, no effective date in its newest History entry) does not hold its chapter when every year its History cites (a repeal stub: its whole text) is earlier than the year of the chapter's latest exact date; such a section cannot be the latest change. Nested official groups (subchapters, subtitles, articles) are read into their parent chapter's act.
 
 ## What AI did and did not do
 

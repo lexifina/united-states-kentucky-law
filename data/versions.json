@@ -1904,6 +1904,62 @@
      "sha256": "60dbf29bc5236eabc79a7bbe9d4f09f3346e7940a7593973fd35bc13b3adfc86"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-006",
+   "short": "KRS ch. 6",
+   "title": "Kentucky Revised Statutes, Chapter 6: The General Assembly",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37034",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 191,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37034",
+     "sha256": "6e5904479afdc2b607823924ff45f51cf139aea305973e7eb1913e1f58c8dd3f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-011",
+   "short": "KRS ch. 11",
+   "title": "Kentucky Revised Statutes, Chapter 11: The Governor",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37070",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 66,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37070",
+     "sha256": "49bca7b49470f9edb2fade90180f0a3ca29d579251b7fadc924839c39b3618c2"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-012",
+   "short": "KRS ch. 12",
+   "title": "Kentucky Revised Statutes, Chapter 12: Administrative Organization",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37078",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 79,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37078",
+     "sha256": "0363ffe02466256395a56205a75203a53fc82b1f3e774662de89b597c2817b19"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-014a",
+   "short": "KRS ch. 14A",
+   "title": "Kentucky Revised Statutes, Chapter 14A: Kentucky Business Entity Filing Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37087",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 51,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37087",
+     "sha256": "65b4738749952758702e9127712570765f2973e72c43679a41e64f4ebbc70af7"
+    }
+   ]
   }
  ]
 }
