@@ -1,0 +1,53 @@
+# Kentucky Revised Statutes, Chapter 311A: Emergency Medical Services
+
+KRS ch. 311A · 1 versions, from 2026-07-15 (latest in force: 2026-07-15) · <https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38804>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| KRS 311A.010 | [sec-311a-010.md](sec-311a-010.md) | 0 |  |
+| KRS 311A.015 | [sec-311a-015.md](sec-311a-015.md) | 0 |  |
+| KRS 311A.020 | [sec-311a-020.md](sec-311a-020.md) | 0 |  |
+| KRS 311A.022 | [sec-311a-022.md](sec-311a-022.md) | 0 |  |
+| KRS 311A.024 | [sec-311a-024.md](sec-311a-024.md) | 0 |  |
+| KRS 311A.025 | [sec-311a-025.md](sec-311a-025.md) | 0 |  |
+| KRS 311A.027 | [sec-311a-027.md](sec-311a-027.md) | 0 |  |
+| KRS 311A.030 | [sec-311a-030.md](sec-311a-030.md) | 0 |  |
+| KRS 311A.032 | [sec-311a-032.md](sec-311a-032.md) | 0 |  |
+| KRS 311A.035 | [sec-311a-035.md](sec-311a-035.md) | 0 |  |
+| KRS 311A.040 | [sec-311a-040.md](sec-311a-040.md) | 0 |  |
+| KRS 311A.045 | [sec-311a-045.md](sec-311a-045.md) | 0 |  |
+| KRS 311A.050 | [sec-311a-050.md](sec-311a-050.md) | 0 |  |
+| KRS 311A.055 | [sec-311a-055.md](sec-311a-055.md) | 0 |  |
+| KRS 311A.060 | [sec-311a-060.md](sec-311a-060.md) | 0 |  |
+| KRS 311A.065 | [sec-311a-065.md](sec-311a-065.md) | 0 |  |
+| KRS 311A.070 | [sec-311a-070.md](sec-311a-070.md) | 0 |  |
+| KRS 311A.075 | [sec-311a-075.md](sec-311a-075.md) | 0 |  |
+| KRS 311A.080 | [sec-311a-080.md](sec-311a-080.md) | 0 |  |
+| KRS 311A.085 | [sec-311a-085.md](sec-311a-085.md) | 0 |  |
+| KRS 311A.090 | [sec-311a-090.md](sec-311a-090.md) | 0 |  |
+| KRS 311A.095 | [sec-311a-095.md](sec-311a-095.md) | 0 |  |
+| KRS 311A.100 | [sec-311a-100.md](sec-311a-100.md) | 0 |  |
+| KRS 311A.105 | [sec-311a-105.md](sec-311a-105.md) | 0 |  |
+| KRS 311A.110 | [sec-311a-110.md](sec-311a-110.md) | 0 |  |
+| KRS 311A.115 | [sec-311a-115.md](sec-311a-115.md) | 0 |  |
+| KRS 311A.120 | [sec-311a-120.md](sec-311a-120.md) | 0 |  |
+| KRS 311A.125 | [sec-311a-125.md](sec-311a-125.md) | 0 |  |
+| KRS 311A.127 | [sec-311a-127.md](sec-311a-127.md) | 0 |  |
+| KRS 311A.130 | [sec-311a-130.md](sec-311a-130.md) | 0 |  |
+| KRS 311A.135 | [sec-311a-135.md](sec-311a-135.md) | 0 |  |
+| KRS 311A.140 | [sec-311a-140.md](sec-311a-140.md) | 0 |  |
+| KRS 311A.142 | [sec-311a-142.md](sec-311a-142.md) | 0 |  |
+| KRS 311A.145 | [sec-311a-145.md](sec-311a-145.md) | 0 |  |
+| KRS 311A.150 | [sec-311a-150.md](sec-311a-150.md) | 0 |  |
+| KRS 311A.155 | [sec-311a-155.md](sec-311a-155.md) | 0 |  |
+| KRS 311A.160 | [sec-311a-160.md](sec-311a-160.md) | 0 |  |
+| KRS 311A.165 | [sec-311a-165.md](sec-311a-165.md) | 0 |  |
+| KRS 311A.167 | [sec-311a-167.md](sec-311a-167.md) | 0 |  |
+| KRS 311A.170 | [sec-311a-170.md](sec-311a-170.md) | 0 |  |
+| KRS 311A.172 | [sec-311a-172.md](sec-311a-172.md) | 0 |  |
+| KRS 311A.175 | [sec-311a-175.md](sec-311a-175.md) | 0 |  |
+| KRS 311A.180 | [sec-311a-180.md](sec-311a-180.md) | 0 |  |
+| KRS 311A.185 | [sec-311a-185.md](sec-311a-185.md) | 0 |  |
+| KRS 311A.190 | [sec-311a-190.md](sec-311a-190.md) | 0 |  |
+| KRS 311A.195 | [sec-311a-195.md](sec-311a-195.md) | 0 |  |
+| KRS 311A.200 | [sec-311a-200.md](sec-311a-200.md) | 0 |  |

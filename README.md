@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 318 chapters (`krs-chapter-*/`), 27560 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 348 chapters (`krs-chapter-*/`), 29192 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -294,6 +294,36 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-304/` | Kentucky Revised Statutes, Chapter 304: Insurance Code | 2567 | 2026-07-15 |
 | `krs-chapter-306/` | Kentucky Revised Statutes, Chapter 306: Hotels | 4 | 1942-10-01 |
 | `krs-chapter-307/` | Kentucky Revised Statutes, Chapter 307: Cemeteries | 22 | 2002-07-15 |
+| `krs-chapter-309/` | Kentucky Revised Statutes, Chapter 309: Miscellaneous Occupations And Professions | 101 | 2026-07-15 |
+| `krs-chapter-310/` | Kentucky Revised Statutes, Chapter 310: Dietitians And Nutritionists | 17 | 2026-07-15 |
+| `krs-chapter-311/` | Kentucky Revised Statutes, Chapter 311: Physicians, Osteopaths, Podiatrists, And Related Medical Practitioners | 394 | 2026-07-15 |
+| `krs-chapter-311a/` | Kentucky Revised Statutes, Chapter 311A: Emergency Medical Services | 47 | 2026-07-15 |
+| `krs-chapter-311b/` | Kentucky Revised Statutes, Chapter 311B: Medical Imaging, Radiation Therapy, And Related Occupations | 19 | 2025-06-27 |
+| `krs-chapter-312/` | Kentucky Revised Statutes, Chapter 312: Chiropractors | 48 | 2019-06-27 |
+| `krs-chapter-313/` | Kentucky Revised Statutes, Chapter 313: Dentists And Dental Specialists | 75 | 2026-04-13 |
+| `krs-chapter-314/` | Kentucky Revised Statutes, Chapter 314: Registered Nurses -- Practical Nurses | 109 | 2026-07-15 |
+| `krs-chapter-314a/` | Kentucky Revised Statutes, Chapter 314A: Respiratory Care Practitioners | 15 | 2026-07-15 |
+| `krs-chapter-315/` | Kentucky Revised Statutes, Chapter 315: Pharmacists And Pharmacies | 94 | 2025-06-27 |
+| `krs-chapter-316/` | Kentucky Revised Statutes, Chapter 316: Embalmers And Funeral Directors | 42 | 2021-06-29 |
+| `krs-chapter-317/` | Kentucky Revised Statutes, Chapter 317: Barbers | 58 | 2025-06-27 |
+| `krs-chapter-317a/` | Kentucky Revised Statutes, Chapter 317A: Cosmetologists | 22 | 2025-06-27 |
+| `krs-chapter-318/` | Kentucky Revised Statutes, Chapter 318: Plumbers And Plumbing | 36 | 2018-07-14 |
+| `krs-chapter-319/` | Kentucky Revised Statutes, Chapter 319: Psychologists | 37 | 2026-07-15 |
+| `krs-chapter-319a/` | Kentucky Revised Statutes, Chapter 319A: Occupational Therapists | 25 | 2026-07-15 |
+| `krs-chapter-319b/` | Kentucky Revised Statutes, Chapter 319B: Prosthetists, Orthotists, And Pedorthists | 15 | 2019-06-27 |
+| `krs-chapter-319c/` | Kentucky Revised Statutes, Chapter 319C: Applied Behavior Analysts | 15 | 2026-07-15 |
+| `krs-chapter-320/` | Kentucky Revised Statutes, Chapter 320: Optometrists | 49 | 2019-06-27 |
+| `krs-chapter-321/` | Kentucky Revised Statutes, Chapter 321: Veterinarians | 75 | 2025-06-27 |
+| `krs-chapter-322/` | Kentucky Revised Statutes, Chapter 322: Professional Engineers And Land Surveyors | 56 | 2026-07-15 |
+| `krs-chapter-322a/` | Kentucky Revised Statutes, Chapter 322A: Professional Geologists | 12 | 2012-07-12 |
+| `krs-chapter-323/` | Kentucky Revised Statutes, Chapter 323: Architects | 41 | 2021-06-29 |
+| `krs-chapter-323a/` | Kentucky Revised Statutes, Chapter 323A: Landscape Architecture | 26 | 2017-06-29 |
+| `krs-chapter-324/` | Kentucky Revised Statutes, Chapter 324: Real Estate Brokers And Sales Associates | 77 | 2026-07-15 |
+| `krs-chapter-324a/` | Kentucky Revised Statutes, Chapter 324A: Real Property Appraisers | 30 | 2026-07-15 |
+| `krs-chapter-324b/` | Kentucky Revised Statutes, Chapter 324B: Department Of Professional Licensing -- Kentucky Real Estate Authority | 7 | 2026-07-15 |
+| `krs-chapter-325/` | Kentucky Revised Statutes, Chapter 325: Public Accountants | 56 | 2026-07-15 |
+| `krs-chapter-326/` | Kentucky Revised Statutes, Chapter 326: Ophthalmic Dispensers | 14 | 2024-07-15 |
+| `krs-chapter-327/` | Kentucky Revised Statutes, Chapter 327: Physical Therapists | 20 | 2026-07-15 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |

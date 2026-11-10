@@ -29,6 +29,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -376,12 +377,42 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-304` | Kentucky Revised Statutes, Chapter 304: Insurance Code | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-306` | Kentucky Revised Statutes, Chapter 306: Hotels | 1 | 1942-10-01 to 1942-10-01 |
 | `krs-chapter-307` | Kentucky Revised Statutes, Chapter 307: Cemeteries | 1 | 2002-07-15 to 2002-07-15 |
+| `krs-chapter-309` | Kentucky Revised Statutes, Chapter 309: Miscellaneous Occupations And Professions | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-310` | Kentucky Revised Statutes, Chapter 310: Dietitians And Nutritionists | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-311` | Kentucky Revised Statutes, Chapter 311: Physicians, Osteopaths, Podiatrists, And Related Medical Practitioners | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-311a` | Kentucky Revised Statutes, Chapter 311A: Emergency Medical Services | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-311b` | Kentucky Revised Statutes, Chapter 311B: Medical Imaging, Radiation Therapy, And Related Occupations | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-312` | Kentucky Revised Statutes, Chapter 312: Chiropractors | 1 | 2019-06-27 to 2019-06-27 |
+| `krs-chapter-313` | Kentucky Revised Statutes, Chapter 313: Dentists And Dental Specialists | 1 | 2026-04-13 to 2026-04-13 |
+| `krs-chapter-314` | Kentucky Revised Statutes, Chapter 314: Registered Nurses -- Practical Nurses | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-314a` | Kentucky Revised Statutes, Chapter 314A: Respiratory Care Practitioners | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-315` | Kentucky Revised Statutes, Chapter 315: Pharmacists And Pharmacies | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-316` | Kentucky Revised Statutes, Chapter 316: Embalmers And Funeral Directors | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-317` | Kentucky Revised Statutes, Chapter 317: Barbers | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-317a` | Kentucky Revised Statutes, Chapter 317A: Cosmetologists | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-318` | Kentucky Revised Statutes, Chapter 318: Plumbers And Plumbing | 1 | 2018-07-14 to 2018-07-14 |
+| `krs-chapter-319` | Kentucky Revised Statutes, Chapter 319: Psychologists | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-319a` | Kentucky Revised Statutes, Chapter 319A: Occupational Therapists | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-319b` | Kentucky Revised Statutes, Chapter 319B: Prosthetists, Orthotists, And Pedorthists | 1 | 2019-06-27 to 2019-06-27 |
+| `krs-chapter-319c` | Kentucky Revised Statutes, Chapter 319C: Applied Behavior Analysts | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-320` | Kentucky Revised Statutes, Chapter 320: Optometrists | 1 | 2019-06-27 to 2019-06-27 |
+| `krs-chapter-321` | Kentucky Revised Statutes, Chapter 321: Veterinarians | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-322` | Kentucky Revised Statutes, Chapter 322: Professional Engineers And Land Surveyors | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-322a` | Kentucky Revised Statutes, Chapter 322A: Professional Geologists | 1 | 2012-07-12 to 2012-07-12 |
+| `krs-chapter-323` | Kentucky Revised Statutes, Chapter 323: Architects | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-323a` | Kentucky Revised Statutes, Chapter 323A: Landscape Architecture | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-324` | Kentucky Revised Statutes, Chapter 324: Real Estate Brokers And Sales Associates | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-324a` | Kentucky Revised Statutes, Chapter 324A: Real Property Appraisers | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-324b` | Kentucky Revised Statutes, Chapter 324B: Department Of Professional Licensing -- Kentucky Real Estate Authority | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-325` | Kentucky Revised Statutes, Chapter 325: Public Accountants | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-326` | Kentucky Revised Statutes, Chapter 326: Ophthalmic Dispensers | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-327` | Kentucky Revised Statutes, Chapter 327: Physical Therapists | 1 | 2026-07-15 to 2026-07-15 |
 
-The build made 340 commits:
+The build made 370 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 340 | first version of an act |
+| 370 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -389,7 +420,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 340 tags.
+- 370 tags.
 
 ## Dates
 
@@ -401,7 +432,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5c60feaf4a5bbf25b95175b2113e36571732a28f3c783ceb5da774447bb2a6b2` (46449783 bytes).
+- Corpus: sha256 `b2101317f6a83de9aa574613475ec2ba80ae48a9856fea6bf2d0e245e7b0cb6b` (49714960 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

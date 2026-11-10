@@ -4760,6 +4760,426 @@
      "sha256": "c82ffe881cedc3832e7157c54490e4e8d453d880a167d26b8b7f5160a3972627"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-309",
+   "short": "KRS ch. 309",
+   "title": "Kentucky Revised Statutes, Chapter 309: Miscellaneous Occupations And Professions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38779",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 101,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38779",
+     "sha256": "51a48d669114ed2f407f358ab66b143ade49d455a6c050f16463cec4050545cc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-310",
+   "short": "KRS ch. 310",
+   "title": "Kentucky Revised Statutes, Chapter 310: Dietitians And Nutritionists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38784",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38784",
+     "sha256": "d558bbae9d5bad5a92aaef669aaed47b53b804b9987ab3bc29b4190effdca386"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-311",
+   "short": "KRS ch. 311",
+   "title": "Kentucky Revised Statutes, Chapter 311: Physicians, Osteopaths, Podiatrists, And Related Medical Practitioners",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38785",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 394,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38785",
+     "sha256": "b016d11e7f12f772a9dbcadb3182e8d54daed0c5656fe6a0ffbaeb58610a499b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-311a",
+   "short": "KRS ch. 311A",
+   "title": "Kentucky Revised Statutes, Chapter 311A: Emergency Medical Services",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38804",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 47,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38804",
+     "sha256": "88791a96ded834aec3e08b576bacc2c2dd5959d7d8ec9c70e670d7a0936263c6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-311b",
+   "short": "KRS ch. 311B",
+   "title": "Kentucky Revised Statutes, Chapter 311B: Medical Imaging, Radiation Therapy, And Related Occupations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=41157",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 19,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=41157",
+     "sha256": "ef60c49d62f67be26d01875d970c700080d8657cea0d0b1af010900b39803275"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-312",
+   "short": "KRS ch. 312",
+   "title": "Kentucky Revised Statutes, Chapter 312: Chiropractors",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38805",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 48,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38805",
+     "sha256": "7f028b24ceaefcbf0cfd37f8ad95cd30c1db87a70156a9f3f493ba019a69dfba"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-313",
+   "short": "KRS ch. 313",
+   "title": "Kentucky Revised Statutes, Chapter 313: Dentists And Dental Specialists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38806",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 75,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38806",
+     "sha256": "59ed38c9a7e0a7e2da554d1ffb5cfba383d804061706bd925272f23b0c6ec8a0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-314",
+   "short": "KRS ch. 314",
+   "title": "Kentucky Revised Statutes, Chapter 314: Registered Nurses -- Practical Nurses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38813",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 109,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38813",
+     "sha256": "f5741a2807b967eea6863782e280d955737c7d0edca9198f1dd45a9eea793744"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-314a",
+   "short": "KRS ch. 314A",
+   "title": "Kentucky Revised Statutes, Chapter 314A: Respiratory Care Practitioners",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38824",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 15,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38824",
+     "sha256": "3c0782182be3ce388138ae7ce7fc23d16ab867a1e88ba566b0e017906dbf77dc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-315",
+   "short": "KRS ch. 315",
+   "title": "Kentucky Revised Statutes, Chapter 315: Pharmacists And Pharmacies",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38825",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 94,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38825",
+     "sha256": "f8f5a14e69febd8212c8adccd116f4eff9171cb0d74f8101d429d4fa54394e2b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-316",
+   "short": "KRS ch. 316",
+   "title": "Kentucky Revised Statutes, Chapter 316: Embalmers And Funeral Directors",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38828",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 42,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38828",
+     "sha256": "34ee571810b728ca193be665a19a7468d126025a658cec675430cc3c80309879"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-317",
+   "short": "KRS ch. 317",
+   "title": "Kentucky Revised Statutes, Chapter 317: Barbers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38830",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 58,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38830",
+     "sha256": "2d84eb8ac8b10766d41b23a8becdbfc192cd5f23f67bfa58b0183051c11c1bf8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-317a",
+   "short": "KRS ch. 317A",
+   "title": "Kentucky Revised Statutes, Chapter 317A: Cosmetologists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38831",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 22,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38831",
+     "sha256": "1268ea8a19aa41e2d378fb12b9d17761274b3bdef8ee6b114de9c8d9e29f614b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-318",
+   "short": "KRS ch. 318",
+   "title": "Kentucky Revised Statutes, Chapter 318: Plumbers And Plumbing",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38833",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 36,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38833",
+     "sha256": "44f1e9497600a7ff606b084bab4b8397076b117ef530b8f983e62f5dbcc9c2cb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-319",
+   "short": "KRS ch. 319",
+   "title": "Kentucky Revised Statutes, Chapter 319: Psychologists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38835",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 37,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38835",
+     "sha256": "b0eda2aae132ed726b4088a58071f2127bedf05560d33b08e1ee8cb54d6dd3ad"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-319a",
+   "short": "KRS ch. 319A",
+   "title": "Kentucky Revised Statutes, Chapter 319A: Occupational Therapists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38838",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38838",
+     "sha256": "b2b92f4bdaf24845a89e4dd5737eb96d009d4ccb0e53bc5bc433570187c03fe7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-319b",
+   "short": "KRS ch. 319B",
+   "title": "Kentucky Revised Statutes, Chapter 319B: Prosthetists, Orthotists, And Pedorthists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38839",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 15,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38839",
+     "sha256": "267efddec2ded421798dc60954f5dd1e8f25ff5e2427bc4d946829aa8feba9f3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-319c",
+   "short": "KRS ch. 319C",
+   "title": "Kentucky Revised Statutes, Chapter 319C: Applied Behavior Analysts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38840",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 15,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38840",
+     "sha256": "d16aa060597a069f3ffcd1fc3805d11694487b81dff974a9694b2ad1f46108de"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-320",
+   "short": "KRS ch. 320",
+   "title": "Kentucky Revised Statutes, Chapter 320: Optometrists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38841",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 49,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38841",
+     "sha256": "3f3c6044ddf4de29e8311cd8bf20770f6cd389c1b1103e0f5d55af59c04c55bb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-321",
+   "short": "KRS ch. 321",
+   "title": "Kentucky Revised Statutes, Chapter 321: Veterinarians",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38842",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 75,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38842",
+     "sha256": "2851f489b6e9574679623917bfa61a22a95bb960d7828a144d8dc97b7663f7ed"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-322",
+   "short": "KRS ch. 322",
+   "title": "Kentucky Revised Statutes, Chapter 322: Professional Engineers And Land Surveyors",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38843",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 56,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38843",
+     "sha256": "9b91475553afafde67dd0b7c1c289f447c927572ebc3b1ff6895365727c39651"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-322a",
+   "short": "KRS ch. 322A",
+   "title": "Kentucky Revised Statutes, Chapter 322A: Professional Geologists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38848",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 12,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38848",
+     "sha256": "aee999b8064811cd67ab5ffd247113e655b6e817655ad7c471133586813f9ac9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-323",
+   "short": "KRS ch. 323",
+   "title": "Kentucky Revised Statutes, Chapter 323: Architects",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38849",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 41,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38849",
+     "sha256": "8845ba0199a2d8a590a70c11c0f55e5c07cd6c89b196ed590d6573e065e4482b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-323a",
+   "short": "KRS ch. 323A",
+   "title": "Kentucky Revised Statutes, Chapter 323A: Landscape Architecture",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38852",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 26,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38852",
+     "sha256": "afe14b9a26470f3cec1d4cf4ebbb7adad3361ebc4ba93ad52f116a64a07ee36d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-324",
+   "short": "KRS ch. 324",
+   "title": "Kentucky Revised Statutes, Chapter 324: Real Estate Brokers And Sales Associates",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38853",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 77,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38853",
+     "sha256": "274dce47a22e088a75dc08375a990ff465801fa9a2b0e66c39a2b75bcbaba1c6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-324a",
+   "short": "KRS ch. 324A",
+   "title": "Kentucky Revised Statutes, Chapter 324A: Real Property Appraisers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38859",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38859",
+     "sha256": "11f8368629356361955203da6c7fb3984f344f4ecc98045aa452136a67fea211"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-324b",
+   "short": "KRS ch. 324B",
+   "title": "Kentucky Revised Statutes, Chapter 324B: Department Of Professional Licensing -- Kentucky Real Estate Authority",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=45452",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=45452",
+     "sha256": "feddec4277488f622a01593ccbe0a8d44ca3e7da6246a8898d6ae26b4d60c40b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-325",
+   "short": "KRS ch. 325",
+   "title": "Kentucky Revised Statutes, Chapter 325: Public Accountants",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38861",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 56,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38861",
+     "sha256": "9fec6a0e4908f7b196c484f8f1bd23c5f7cf3275ec6f5a681de24a2738959987"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-326",
+   "short": "KRS ch. 326",
+   "title": "Kentucky Revised Statutes, Chapter 326: Ophthalmic Dispensers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38862",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38862",
+     "sha256": "a81a21e16800cb4ed7d40d50b0af7c40e467d3899b0eac5f0b0c811ab56055ad"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-327",
+   "short": "KRS ch. 327",
+   "title": "Kentucky Revised Statutes, Chapter 327: Physical Therapists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38863",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38863",
+     "sha256": "0afcffc3f6766ad630e407ad193c4b4ded9d11940a28eac26a0dde43be9431e6"
+    }
+   ]
   }
  ]
 }
