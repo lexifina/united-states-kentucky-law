@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 408 chapters (`krs-chapter-*/`), 33857 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 432 chapters (`krs-chapter-*/`), 35423 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -386,6 +386,30 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-396/` | Kentucky Revised Statutes, Chapter 396: Claims Against Decedents' Estates | 43 | 2021-06-29 |
 | `krs-chapter-397/` | Kentucky Revised Statutes, Chapter 397: Uniform Simultaneous Death Act | 17 | 1998-07-15 |
 | `krs-chapter-401/` | Kentucky Revised Statutes, Chapter 401: Change Of Name | 4 | 2026-07-15 |
+| `krs-chapter-402/` | Kentucky Revised Statutes, Chapter 402: Marriage | 37 | 2025-06-27 |
+| `krs-chapter-403/` | Kentucky Revised Statutes, Chapter 403: Dissolution Of Marriage -- Child Custody | 181 | 2026-07-15 |
+| `krs-chapter-403a/` | Kentucky Revised Statutes, Chapter 403A: Uniform Deployed Parents Custody And Visitation Act | 30 | 2021-06-29 |
+| `krs-chapter-404/` | Kentucky Revised Statutes, Chapter 404: Contracts And Separate Estate Of Married Women | 6 | 1984-07-13 |
+| `krs-chapter-405/` | Kentucky Revised Statutes, Chapter 405: Parent And Child | 69 | 2025-07-01 |
+| `krs-chapter-406/` | Kentucky Revised Statutes, Chapter 406: Uniform Act On Paternity | 38 | 2025-07-01 |
+| `krs-chapter-407/` | Kentucky Revised Statutes, Chapter 407: Interstate Support Enforcement | 126 | 2025-07-01 |
+| `krs-chapter-411/` | Kentucky Revised Statutes, Chapter 411: Rights Of Action And Survival Of Actions | 105 | 2026-07-15 |
+| `krs-chapter-412/` | Kentucky Revised Statutes, Chapter 412: Suretyship, Joint Obligations, And Contribution | 16 | 1982-07-15 |
+| `krs-chapter-413/` | Kentucky Revised Statutes, Chapter 413: Limitation Of Actions | 51 | 2026-07-15 |
+| `krs-chapter-415/` | Kentucky Revised Statutes, Chapter 415: Repeal Or Vacation Of Charters -- Usurpation | 8 | 1953-07-01 |
+| `krs-chapter-416/` | Kentucky Revised Statutes, Chapter 416: Eminent Domain | 68 | 2026-04-13 |
+| `krs-chapter-417/` | Kentucky Revised Statutes, Chapter 417: Arbitration And Award | 34 | 2019-06-27 |
+| `krs-chapter-418/` | Kentucky Revised Statutes, Chapter 418: Summary Proceedings -- Declaratory Judgments | 17 | 2003-06-24 |
+| `krs-chapter-421/` | Kentucky Revised Statutes, Chapter 421: Witnesses | 57 | 2020-11-03 |
+| `krs-chapter-422/` | Kentucky Revised Statutes, Chapter 422: Evidence And Lost Records | 56 | 2024-07-15 |
+| `krs-chapter-423/` | Kentucky Revised Statutes, Chapter 423: Notaries Public And Commissioners Of Foreign Deeds | 53 | 2023-06-29 |
+| `krs-chapter-424/` | Kentucky Revised Statutes, Chapter 424: Legal Notices | 37 | 2026-07-15 |
+| `krs-chapter-425/` | Kentucky Revised Statutes, Chapter 425: Provisional Remedies | 151 | 2026-07-15 |
+| `krs-chapter-426/` | Kentucky Revised Statutes, Chapter 426: Enforcement Of Judgments | 113 | 2026-07-15 |
+| `krs-chapter-427/` | Kentucky Revised Statutes, Chapter 427: Exemptions | 23 | 2017-06-29 |
+| `krs-chapter-431/` | Kentucky Revised Statutes, Chapter 431: General Provisions Concerning Crimes And Punishments | 98 | 2026-07-15 |
+| `krs-chapter-432/` | Kentucky Revised Statutes, Chapter 432: Offenses Against The State And Public Justice | 65 | 2000-07-14 |
+| `krs-chapter-433/` | Kentucky Revised Statutes, Chapter 433: Offenses Against Property By Force | 127 | 2026-04-14 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |
 | `krs-chapter-501/` | Kentucky Revised Statutes, Chapter 501: General Principles Of Liability | 11 | 2026-10-29 |
 | `krs-chapter-502/` | Kentucky Revised Statutes, Chapter 502: Parties To Offenses: Accountability | 6 | 2026-10-29 |

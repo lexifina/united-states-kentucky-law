@@ -1,0 +1,59 @@
+# Kentucky Revised Statutes, Chapter 423: Notaries Public And Commissioners Of Foreign Deeds
+
+KRS ch. 423 · 1 versions, from 2023-06-29 (latest in force: 2023-06-29) · <https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39284>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| KRS 423.010 | [sec-423-010.md](sec-423-010.md) | 0 |  |
+| KRS 423.020 | [sec-423-020.md](sec-423-020.md) | 0 |  |
+| KRS 423.030 | [sec-423-030.md](sec-423-030.md) | 0 |  |
+| KRS 423.040 | [sec-423-040.md](sec-423-040.md) | 0 |  |
+| KRS 423.050 | [sec-423-050.md](sec-423-050.md) | 0 |  |
+| KRS 423.060 | [sec-423-060.md](sec-423-060.md) | 0 |  |
+| KRS 423.070 | [sec-423-070.md](sec-423-070.md) | 0 |  |
+| KRS 423.080 | [sec-423-080.md](sec-423-080.md) | 0 |  |
+| KRS 423.110 | [sec-423-110.md](sec-423-110.md) | 0 |  |
+| KRS 423.120 | [sec-423-120.md](sec-423-120.md) | 0 |  |
+| KRS 423.130 | [sec-423-130.md](sec-423-130.md) | 0 |  |
+| KRS 423.140 | [sec-423-140.md](sec-423-140.md) | 0 |  |
+| KRS 423.150 | [sec-423-150.md](sec-423-150.md) | 0 |  |
+| KRS 423.160 | [sec-423-160.md](sec-423-160.md) | 0 |  |
+| KRS 423.170 | [sec-423-170.md](sec-423-170.md) | 0 |  |
+| KRS 423.180 | [sec-423-180.md](sec-423-180.md) | 0 |  |
+| KRS 423.190 | [sec-423-190.md](sec-423-190.md) | 0 |  |
+| KRS 423.200 | [sec-423-200.md](sec-423-200.md) | 0 |  |
+| KRS 423.300 | [sec-423-300.md](sec-423-300.md) | 0 |  |
+| KRS 423.305 | [sec-423-305.md](sec-423-305.md) | 0 |  |
+| KRS 423.310 | [sec-423-310.md](sec-423-310.md) | 0 |  |
+| KRS 423.315 | [sec-423-315.md](sec-423-315.md) | 0 |  |
+| KRS 423.320 | [sec-423-320.md](sec-423-320.md) | 0 |  |
+| KRS 423.325 | [sec-423-325.md](sec-423-325.md) | 0 |  |
+| KRS 423.330 | [sec-423-330.md](sec-423-330.md) | 0 |  |
+| KRS 423.335 | [sec-423-335.md](sec-423-335.md) | 0 |  |
+| KRS 423.340 | [sec-423-340.md](sec-423-340.md) | 0 |  |
+| KRS 423.345 | [sec-423-345.md](sec-423-345.md) | 0 |  |
+| KRS 423.350 | [sec-423-350.md](sec-423-350.md) | 0 |  |
+| KRS 423.355 | [sec-423-355.md](sec-423-355.md) | 0 |  |
+| KRS 423.360 | [sec-423-360.md](sec-423-360.md) | 0 |  |
+| KRS 423.365 | [sec-423-365.md](sec-423-365.md) | 0 |  |
+| KRS 423.370 | [sec-423-370.md](sec-423-370.md) | 0 |  |
+| KRS 423.375 | [sec-423-375.md](sec-423-375.md) | 0 |  |
+| KRS 423.380 | [sec-423-380.md](sec-423-380.md) | 0 |  |
+| KRS 423.385 | [sec-423-385.md](sec-423-385.md) | 0 |  |
+| KRS 423.390 | [sec-423-390.md](sec-423-390.md) | 0 |  |
+| KRS 423.395 | [sec-423-395.md](sec-423-395.md) | 0 |  |
+| KRS 423.400 | [sec-423-400.md](sec-423-400.md) | 0 |  |
+| KRS 423.405 | [sec-423-405.md](sec-423-405.md) | 0 |  |
+| KRS 423.410 | [sec-423-410.md](sec-423-410.md) | 0 |  |
+| KRS 423.415 | [sec-423-415.md](sec-423-415.md) | 0 |  |
+| KRS 423.420 | [sec-423-420.md](sec-423-420.md) | 0 |  |
+| KRS 423.425 | [sec-423-425.md](sec-423-425.md) | 0 |  |
+| KRS 423.430 | [sec-423-430.md](sec-423-430.md) | 0 |  |
+| KRS 423.435 | [sec-423-435.md](sec-423-435.md) | 0 |  |
+| KRS 423.440 | [sec-423-440.md](sec-423-440.md) | 0 |  |
+| KRS 423.445 | [sec-423-445.md](sec-423-445.md) | 0 |  |
+| KRS 423.450 | [sec-423-450.md](sec-423-450.md) | 0 |  |
+| KRS 423.455 | [sec-423-455.md](sec-423-455.md) | 0 |  |
+| KRS 423.460 | [sec-423-460.md](sec-423-460.md) | 0 |  |
+| KRS 423.465 | [sec-423-465.md](sec-423-465.md) | 0 |  |
+| KRS 423.990 | [sec-423-990.md](sec-423-990.md) | 0 |  |

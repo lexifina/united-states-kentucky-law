@@ -6020,6 +6020,342 @@
      "sha256": "7e15f061aaa020e86c239494be273db5183c3b46283be0533827f99a4149cc5b"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-402",
+   "short": "KRS ch. 402",
+   "title": "Kentucky Revised Statutes, Chapter 402: Marriage",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39205",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 37,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39205",
+     "sha256": "3cfc737de7e81011d176ff4f8ed85d004fda978b067748abb6b7692e98df63f7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-403",
+   "short": "KRS ch. 403",
+   "title": "Kentucky Revised Statutes, Chapter 403: Dissolution Of Marriage -- Child Custody",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39213",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 181,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39213",
+     "sha256": "01efd2890642dedf0f12c9659106f678d3fbe621a8f91adff20e28d1a2c010ad"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-403a",
+   "short": "KRS ch. 403A",
+   "title": "Kentucky Revised Statutes, Chapter 403A: Uniform Deployed Parents Custody And Visitation Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=50586",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=50586",
+     "sha256": "a0cb54e5ffa884350d54481b4e8d8ef3730e6b34cb13f6ff3dddc9aa9d8ae92b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-404",
+   "short": "KRS ch. 404",
+   "title": "Kentucky Revised Statutes, Chapter 404: Contracts And Separate Estate Of Married Women",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39224",
+   "versions": [
+    {
+     "from": "1984-07-13",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39224",
+     "sha256": "98f0973b0ebffd603fe18cbea62bf5a451701ccbf0fc93c448d4526d83e90ddd"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-405",
+   "short": "KRS ch. 405",
+   "title": "Kentucky Revised Statutes, Chapter 405: Parent And Child",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39225",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 69,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39225",
+     "sha256": "0beb15c62ac6a264c6c35c5e9209a384bfd73b4ae23e781c82313a59a874609b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-406",
+   "short": "KRS ch. 406",
+   "title": "Kentucky Revised Statutes, Chapter 406: Uniform Act On Paternity",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39229",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 38,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39229",
+     "sha256": "61a75a196251fcc328af5510a61c1ccc75b9588735b8c1b872b9d201e7abfa93"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-407",
+   "short": "KRS ch. 407",
+   "title": "Kentucky Revised Statutes, Chapter 407: Interstate Support Enforcement",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39230",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 126,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39230",
+     "sha256": "9d24983b2adb10c3809c50674340490f4b5a934a5f3883dbe2c2b9c3c9a66d04"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-411",
+   "short": "KRS ch. 411",
+   "title": "Kentucky Revised Statutes, Chapter 411: Rights Of Action And Survival Of Actions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39251",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 105,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39251",
+     "sha256": "78d24f7a9bc76f6800830fd208afc436376d32f716f868a6f8ad9273ec61c0f9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-412",
+   "short": "KRS ch. 412",
+   "title": "Kentucky Revised Statutes, Chapter 412: Suretyship, Joint Obligations, And Contribution",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39260",
+   "versions": [
+    {
+     "from": "1982-07-15",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39260",
+     "sha256": "d85751a7e35ed2e46ad06622d2dbb39fa2b20d8a999e89db995b76017fc0e99d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-413",
+   "short": "KRS ch. 413",
+   "title": "Kentucky Revised Statutes, Chapter 413: Limitation Of Actions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39261",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 51,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39261",
+     "sha256": "ba6ea689d6d1a080993de47e8f0a8d7ffca76e8a73341e869a8daa237fad75f3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-415",
+   "short": "KRS ch. 415",
+   "title": "Kentucky Revised Statutes, Chapter 415: Repeal Or Vacation Of Charters -- Usurpation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39266",
+   "versions": [
+    {
+     "from": "1953-07-01",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39266",
+     "sha256": "c51446a9087fcd3d28a6fad10238690a98458155ca49c6db6de4ed37523a2ffe"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-416",
+   "short": "KRS ch. 416",
+   "title": "Kentucky Revised Statutes, Chapter 416: Eminent Domain",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39268",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 68,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39268",
+     "sha256": "e8f9426ab63a8ccc9d823ba490b4a16e330f2161b20f94a82c116f56ab18c194"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-417",
+   "short": "KRS ch. 417",
+   "title": "Kentucky Revised Statutes, Chapter 417: Arbitration And Award",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39272",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39272",
+     "sha256": "c57980385e905d5c7d6d1f74b9c3dc252d34bc7a45826d49cbd0f43eda25f739"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-418",
+   "short": "KRS ch. 418",
+   "title": "Kentucky Revised Statutes, Chapter 418: Summary Proceedings -- Declaratory Judgments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39273",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39273",
+     "sha256": "5f4b817688f58f5495b716e9437a58f40227733945045f39b2acfba575c827dd"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-421",
+   "short": "KRS ch. 421",
+   "title": "Kentucky Revised Statutes, Chapter 421: Witnesses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39277",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 57,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39277",
+     "sha256": "9ad67221b05699fcd07b5447dc427e9d2926b90938b0552d338842627cc54d5d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-422",
+   "short": "KRS ch. 422",
+   "title": "Kentucky Revised Statutes, Chapter 422: Evidence And Lost Records",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39281",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 56,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39281",
+     "sha256": "19417cec236988e270ca74b5baaece9859b3245dc1fa6892aefb6614f33609b0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-423",
+   "short": "KRS ch. 423",
+   "title": "Kentucky Revised Statutes, Chapter 423: Notaries Public And Commissioners Of Foreign Deeds",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39284",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 53,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39284",
+     "sha256": "f08b2a9de2786b528d8f5d817d76487ee728a1c9ac7a56f753291d3206b8af60"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-424",
+   "short": "KRS ch. 424",
+   "title": "Kentucky Revised Statutes, Chapter 424: Legal Notices",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39285",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 37,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39285",
+     "sha256": "14e22dc9a2fa5cb613c03fb104f8992b6ae2b55a99221f29b03386033201f2c4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-425",
+   "short": "KRS ch. 425",
+   "title": "Kentucky Revised Statutes, Chapter 425: Provisional Remedies",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39290",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 151,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39290",
+     "sha256": "ea64d500145d88245d47d4402894cdeb85a77418e9e6e999c939bceda0813504"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-426",
+   "short": "KRS ch. 426",
+   "title": "Kentucky Revised Statutes, Chapter 426: Enforcement Of Judgments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39296",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 113,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39296",
+     "sha256": "5b2b582eb8e3ab3a8f0e5e8bb5d8a89ec9dfe12c5b50682910385d88bb1632e0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-427",
+   "short": "KRS ch. 427",
+   "title": "Kentucky Revised Statutes, Chapter 427: Exemptions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39299",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 23,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39299",
+     "sha256": "41556b9536911326d49cb1360684bd0996b2933f317d000dec8caf27b3b8f179"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-431",
+   "short": "KRS ch. 431",
+   "title": "Kentucky Revised Statutes, Chapter 431: General Provisions Concerning Crimes And Punishments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39302",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 98,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39302",
+     "sha256": "f610410150dd0eca80476162af2c50ca4fbf456201f01756bfc959c6bb76b43b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-432",
+   "short": "KRS ch. 432",
+   "title": "Kentucky Revised Statutes, Chapter 432: Offenses Against The State And Public Justice",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39307",
+   "versions": [
+    {
+     "from": "2000-07-14",
+     "units": 65,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39307",
+     "sha256": "56b7f10ab4e7e2bc49086aef29f4b8699446006892bd48df4060b5f9b4e15987"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-433",
+   "short": "KRS ch. 433",
+   "title": "Kentucky Revised Statutes, Chapter 433: Offenses Against Property By Force",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39308",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 127,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39308",
+     "sha256": "83fcbcead50ddcd1ce92071c35519648cb12aaf81e1e22696c2696d5823b7be6"
+    }
+   ]
   }
  ]
 }

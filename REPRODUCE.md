@@ -33,6 +33,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -470,20 +471,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-396` | Kentucky Revised Statutes, Chapter 396: Claims Against Decedents' Estates | 1 | 2021-06-29 to 2021-06-29 |
 | `krs-chapter-397` | Kentucky Revised Statutes, Chapter 397: Uniform Simultaneous Death Act | 1 | 1998-07-15 to 1998-07-15 |
 | `krs-chapter-401` | Kentucky Revised Statutes, Chapter 401: Change Of Name | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-402` | Kentucky Revised Statutes, Chapter 402: Marriage | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-403` | Kentucky Revised Statutes, Chapter 403: Dissolution Of Marriage -- Child Custody | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-403a` | Kentucky Revised Statutes, Chapter 403A: Uniform Deployed Parents Custody And Visitation Act | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-404` | Kentucky Revised Statutes, Chapter 404: Contracts And Separate Estate Of Married Women | 1 | 1984-07-13 to 1984-07-13 |
+| `krs-chapter-405` | Kentucky Revised Statutes, Chapter 405: Parent And Child | 1 | 2025-07-01 to 2025-07-01 |
+| `krs-chapter-406` | Kentucky Revised Statutes, Chapter 406: Uniform Act On Paternity | 1 | 2025-07-01 to 2025-07-01 |
+| `krs-chapter-407` | Kentucky Revised Statutes, Chapter 407: Interstate Support Enforcement | 1 | 2025-07-01 to 2025-07-01 |
+| `krs-chapter-411` | Kentucky Revised Statutes, Chapter 411: Rights Of Action And Survival Of Actions | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-412` | Kentucky Revised Statutes, Chapter 412: Suretyship, Joint Obligations, And Contribution | 1 | 1982-07-15 to 1982-07-15 |
+| `krs-chapter-413` | Kentucky Revised Statutes, Chapter 413: Limitation Of Actions | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-415` | Kentucky Revised Statutes, Chapter 415: Repeal Or Vacation Of Charters -- Usurpation | 1 | 1953-07-01 to 1953-07-01 |
+| `krs-chapter-416` | Kentucky Revised Statutes, Chapter 416: Eminent Domain | 1 | 2026-04-13 to 2026-04-13 |
+| `krs-chapter-417` | Kentucky Revised Statutes, Chapter 417: Arbitration And Award | 1 | 2019-06-27 to 2019-06-27 |
+| `krs-chapter-418` | Kentucky Revised Statutes, Chapter 418: Summary Proceedings -- Declaratory Judgments | 1 | 2003-06-24 to 2003-06-24 |
+| `krs-chapter-421` | Kentucky Revised Statutes, Chapter 421: Witnesses | 1 | 2020-11-03 to 2020-11-03 |
+| `krs-chapter-422` | Kentucky Revised Statutes, Chapter 422: Evidence And Lost Records | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-423` | Kentucky Revised Statutes, Chapter 423: Notaries Public And Commissioners Of Foreign Deeds | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-424` | Kentucky Revised Statutes, Chapter 424: Legal Notices | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-425` | Kentucky Revised Statutes, Chapter 425: Provisional Remedies | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-426` | Kentucky Revised Statutes, Chapter 426: Enforcement Of Judgments | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-427` | Kentucky Revised Statutes, Chapter 427: Exemptions | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-431` | Kentucky Revised Statutes, Chapter 431: General Provisions Concerning Crimes And Punishments | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-432` | Kentucky Revised Statutes, Chapter 432: Offenses Against The State And Public Justice | 1 | 2000-07-14 to 2000-07-14 |
+| `krs-chapter-433` | Kentucky Revised Statutes, Chapter 433: Offenses Against Property By Force | 1 | 2026-04-14 to 2026-04-14 |
 
-The build made 430 commits:
+The build made 454 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 430 | first version of an act |
+| 454 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
-- 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 430 tags.
+- 454 tags.
 
 ## Dates
 
@@ -495,7 +520,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f87d7e8dfd1268931edbbcfc0692fc0a2ada696cd5ffcf976a3201134f6ba67d` (57588587 bytes).
+- Corpus: sha256 `134030c2d7a0aa44fddc42132a728906e917b1a47048753f3c3f52eacb25c283` (59372165 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
