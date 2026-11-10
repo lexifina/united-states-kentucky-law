@@ -32,6 +32,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -441,12 +442,40 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-364` | Kentucky Revised Statutes, Chapter 364: Drifts, Logs, And Timber | 1 | 2017-06-29 to 2017-06-29 |
 | `krs-chapter-365` | Kentucky Revised Statutes, Chapter 365: Trade Practices | 1 | 2025-01-01 to 2025-01-01 |
 | `krs-chapter-366` | Kentucky Revised Statutes, Chapter 366: Sale Of Checks Law | 1 | 2006-10-01 to 2006-10-01 |
+| `krs-chapter-367` | Kentucky Revised Statutes, Chapter 367: Consumer Protection | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-369` | Kentucky Revised Statutes, Chapter 369: Information Technology | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-371` | Kentucky Revised Statutes, Chapter 371: Formality And Assignability Of Contracts -- Installment Sales Contracts | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-372` | Kentucky Revised Statutes, Chapter 372: Contracts Against Public Policy | 1 | 2018-07-14 to 2018-07-14 |
+| `krs-chapter-376` | Kentucky Revised Statutes, Chapter 376: Statutory Liens | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-378a` | Kentucky Revised Statutes, Chapter 378A: Kentucky Uniform Voidable Transactions Act | 1 | 2016-01-01 to 2016-01-01 |
+| `krs-chapter-379` | Kentucky Revised Statutes, Chapter 379: Voluntary Assignments | 1 | 1982-07-01 to 1982-07-01 |
+| `krs-chapter-380` | Kentucky Revised Statutes, Chapter 380: Debt Adjusting | 1 | 2024-04-05 to 2024-04-05 |
+| `krs-chapter-383` | Kentucky Revised Statutes, Chapter 383: Rental Of Property -- Forcible Entry And Detainer -- Uniform Residential Landlord And Tenant Act | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-384` | Kentucky Revised Statutes, Chapter 384: Control Of Property And Exercise Of Rights Of Persons In Armed Forces -- Contracts Of Infant War Veterans | 1 | 1982-07-01 to 1982-07-01 |
+| `krs-chapter-385` | Kentucky Revised Statutes, Chapter 385: Uniform Transfers To Minors Act | 1 | 1986-07-15 to 1986-07-15 |
+| `krs-chapter-386` | Kentucky Revised Statutes, Chapter 386: Administration Of Trusts -- Legal Investments -- Uniform Principal And Income Act | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-386a` | Kentucky Revised Statutes, Chapter 386A: Kentucky Uniform Statutory Trust Act (2012) | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-386b` | Kentucky Revised Statutes, Chapter 386B: Uniform Trust Code | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-387` | Kentucky Revised Statutes, Chapter 387: Guardians -- Conservators -- Curators Of Convicts | 1 | 2026-10-01 to 2026-10-01 |
+| `krs-chapter-388` | Kentucky Revised Statutes, Chapter 388: Uniform Veterans' Guardianship Act | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-389a` | Kentucky Revised Statutes, Chapter 389A: Fiducial And Judicial Sales Of Real Estate | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-390` | Kentucky Revised Statutes, Chapter 390: Uniform Powers Of Appointment Act | 1 | 2020-07-15 to 2020-07-15 |
+| `krs-chapter-391` | Kentucky Revised Statutes, Chapter 391: Descent And Distribution | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-392` | Kentucky Revised Statutes, Chapter 392: Dower And Curtesy | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-393` | Kentucky Revised Statutes, Chapter 393: Escheats | 1 | 2022-07-01 to 2022-07-01 |
+| `krs-chapter-393a` | Kentucky Revised Statutes, Chapter 393A: Revised Uniform Unclaimed Property Act | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-394` | Kentucky Revised Statutes, Chapter 394: Wills | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-395` | Kentucky Revised Statutes, Chapter 395: Personal Representatives | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-395a` | Kentucky Revised Statutes, Chapter 395A: Revised Uniform Fiduciary Access To Digital Assets Act (2015) | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-396` | Kentucky Revised Statutes, Chapter 396: Claims Against Decedents' Estates | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-397` | Kentucky Revised Statutes, Chapter 397: Uniform Simultaneous Death Act | 1 | 1998-07-15 to 1998-07-15 |
+| `krs-chapter-401` | Kentucky Revised Statutes, Chapter 401: Change Of Name | 1 | 2026-07-15 to 2026-07-15 |
 
-The build made 402 commits:
+The build made 430 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 402 | first version of an act |
+| 430 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -454,7 +483,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 402 tags.
+- 430 tags.
 
 ## Dates
 
@@ -466,7 +495,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7b88daed76795b286fe024fc6096289754774c2f386611d6acc6fbd87dc5382a` (55112327 bytes).
+- Corpus: sha256 `f87d7e8dfd1268931edbbcfc0692fc0a2ada696cd5ffcf976a3201134f6ba67d` (57588587 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

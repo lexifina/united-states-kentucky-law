@@ -1,0 +1,50 @@
+# Kentucky Revised Statutes, Chapter 391: Descent And Distribution
+
+KRS ch. 391 · 1 versions, from 2026-07-15 (latest in force: 2026-07-15) · <https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39189>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| KRS 391.010 | [sec-391-010.md](sec-391-010.md) | 0 |  |
+| KRS 391.020 | [sec-391-020.md](sec-391-020.md) | 0 |  |
+| KRS 391.030 | [sec-391-030.md](sec-391-030.md) | 0 |  |
+| KRS 391.033 | [sec-391-033.md](sec-391-033.md) | 0 |  |
+| KRS 391.035 | [sec-391-035.md](sec-391-035.md) | 0 |  |
+| KRS 391.040 | [sec-391-040.md](sec-391-040.md) | 0 |  |
+| KRS 391.050 | [sec-391-050.md](sec-391-050.md) | 0 |  |
+| KRS 391.060 | [sec-391-060.md](sec-391-060.md) | 0 |  |
+| KRS 391.070 | [sec-391-070.md](sec-391-070.md) | 0 |  |
+| KRS 391.080 | [sec-391-080.md](sec-391-080.md) | 0 |  |
+| KRS 391.090 | [sec-391-090.md](sec-391-090.md) | 0 |  |
+| KRS 391.100 | [sec-391-100.md](sec-391-100.md) | 0 |  |
+| KRS 391.105 | [sec-391-105.md](sec-391-105.md) | 0 |  |
+| KRS 391.110 | [sec-391-110.md](sec-391-110.md) | 0 |  |
+| KRS 391.120 | [sec-391-120.md](sec-391-120.md) | 0 |  |
+| KRS 391.130 | [sec-391-130.md](sec-391-130.md) | 0 |  |
+| KRS 391.140 | [sec-391-140.md](sec-391-140.md) | 0 |  |
+| KRS 391.150 | [sec-391-150.md](sec-391-150.md) | 0 |  |
+| KRS 391.160 | [sec-391-160.md](sec-391-160.md) | 0 |  |
+| KRS 391.170 | [sec-391-170.md](sec-391-170.md) | 0 |  |
+| KRS 391.210 | [sec-391-210.md](sec-391-210.md) | 0 |  |
+| KRS 391.215 | [sec-391-215.md](sec-391-215.md) | 0 |  |
+| KRS 391.220 | [sec-391-220.md](sec-391-220.md) | 0 |  |
+| KRS 391.225 | [sec-391-225.md](sec-391-225.md) | 0 |  |
+| KRS 391.230 | [sec-391-230.md](sec-391-230.md) | 0 |  |
+| KRS 391.235 | [sec-391-235.md](sec-391-235.md) | 0 |  |
+| KRS 391.240 | [sec-391-240.md](sec-391-240.md) | 0 |  |
+| KRS 391.245 | [sec-391-245.md](sec-391-245.md) | 0 |  |
+| KRS 391.250 | [sec-391-250.md](sec-391-250.md) | 0 |  |
+| KRS 391.255 | [sec-391-255.md](sec-391-255.md) | 0 |  |
+| KRS 391.260 | [sec-391-260.md](sec-391-260.md) | 0 |  |
+| KRS 391.300 | [sec-391-300.md](sec-391-300.md) | 0 |  |
+| KRS 391.305 | [sec-391-305.md](sec-391-305.md) | 0 |  |
+| KRS 391.310 | [sec-391-310.md](sec-391-310.md) | 0 |  |
+| KRS 391.315 | [sec-391-315.md](sec-391-315.md) | 0 |  |
+| KRS 391.320 | [sec-391-320.md](sec-391-320.md) | 0 |  |
+| KRS 391.325 | [sec-391-325.md](sec-391-325.md) | 0 |  |
+| KRS 391.330 | [sec-391-330.md](sec-391-330.md) | 0 |  |
+| KRS 391.335 | [sec-391-335.md](sec-391-335.md) | 0 |  |
+| KRS 391.340 | [sec-391-340.md](sec-391-340.md) | 0 |  |
+| KRS 391.345 | [sec-391-345.md](sec-391-345.md) | 0 |  |
+| KRS 391.350 | [sec-391-350.md](sec-391-350.md) | 0 |  |
+| KRS 391.355 | [sec-391-355.md](sec-391-355.md) | 0 |  |
+| KRS 391.360 | [sec-391-360.md](sec-391-360.md) | 0 |  |

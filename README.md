@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 380 chapters (`krs-chapter-*/`), 32120 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 408 chapters (`krs-chapter-*/`), 33857 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -356,8 +356,36 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-364/` | Kentucky Revised Statutes, Chapter 364: Drifts, Logs, And Timber | 14 | 2017-06-29 |
 | `krs-chapter-365/` | Kentucky Revised Statutes, Chapter 365: Trade Practices | 171 | 2025-01-01 |
 | `krs-chapter-366/` | Kentucky Revised Statutes, Chapter 366: Sale Of Checks Law | 17 | 2006-10-01 |
+| `krs-chapter-367/` | Kentucky Revised Statutes, Chapter 367: Consumer Protection | 315 | 2026-07-15 |
+| `krs-chapter-369/` | Kentucky Revised Statutes, Chapter 369: Information Technology | 27 | 2026-07-15 |
+| `krs-chapter-371/` | Kentucky Revised Statutes, Chapter 371: Formality And Assignability Of Contracts -- Installment Sales Contracts | 45 | 2025-06-27 |
+| `krs-chapter-372/` | Kentucky Revised Statutes, Chapter 372: Contracts Against Public Policy | 17 | 2018-07-14 |
+| `krs-chapter-376/` | Kentucky Revised Statutes, Chapter 376: Statutory Liens | 63 | 2024-07-15 |
+| `krs-chapter-378a/` | Kentucky Revised Statutes, Chapter 378A: Kentucky Uniform Voidable Transactions Act | 15 | 2016-01-01 |
+| `krs-chapter-379/` | Kentucky Revised Statutes, Chapter 379: Voluntary Assignments | 17 | 1982-07-01 |
+| `krs-chapter-380/` | Kentucky Revised Statutes, Chapter 380: Debt Adjusting | 14 | 2024-04-05 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |
+| `krs-chapter-383/` | Kentucky Revised Statutes, Chapter 383: Rental Of Property -- Forcible Entry And Detainer -- Uniform Residential Landlord And Tenant Act | 96 | 2025-06-27 |
+| `krs-chapter-384/` | Kentucky Revised Statutes, Chapter 384: Control Of Property And Exercise Of Rights Of Persons In Armed Forces -- Contracts Of Infant War Veterans | 9 | 1982-07-01 |
+| `krs-chapter-385/` | Kentucky Revised Statutes, Chapter 385: Uniform Transfers To Minors Act | 55 | 1986-07-15 |
+| `krs-chapter-386/` | Kentucky Revised Statutes, Chapter 386: Administration Of Trusts -- Legal Investments -- Uniform Principal And Income Act | 177 | 2026-07-15 |
+| `krs-chapter-386a/` | Kentucky Revised Statutes, Chapter 386A: Kentucky Uniform Statutory Trust Act (2012) | 76 | 2017-06-29 |
+| `krs-chapter-386b/` | Kentucky Revised Statutes, Chapter 386B: Uniform Trust Code | 140 | 2026-07-15 |
+| `krs-chapter-387/` | Kentucky Revised Statutes, Chapter 387: Guardians -- Conservators -- Curators Of Convicts | 121 | 2026-10-01 |
+| `krs-chapter-388/` | Kentucky Revised Statutes, Chapter 388: Uniform Veterans' Guardianship Act | 39 | 2017-06-29 |
+| `krs-chapter-389a/` | Kentucky Revised Statutes, Chapter 389A: Fiducial And Judicial Sales Of Real Estate | 9 | 2023-06-29 |
+| `krs-chapter-390/` | Kentucky Revised Statutes, Chapter 390: Uniform Powers Of Appointment Act | 37 | 2020-07-15 |
+| `krs-chapter-391/` | Kentucky Revised Statutes, Chapter 391: Descent And Distribution | 44 | 2026-07-15 |
+| `krs-chapter-392/` | Kentucky Revised Statutes, Chapter 392: Dower And Curtesy | 14 | 2026-07-15 |
+| `krs-chapter-393/` | Kentucky Revised Statutes, Chapter 393: Escheats | 46 | 2022-07-01 |
+| `krs-chapter-393a/` | Kentucky Revised Statutes, Chapter 393A: Revised Uniform Unclaimed Property Act | 87 | 2026-07-15 |
+| `krs-chapter-394/` | Kentucky Revised Statutes, Chapter 394: Wills | 98 | 2026-07-15 |
+| `krs-chapter-395/` | Kentucky Revised Statutes, Chapter 395: Personal Representatives | 94 | 2026-07-15 |
+| `krs-chapter-395a/` | Kentucky Revised Statutes, Chapter 395A: Revised Uniform Fiduciary Access To Digital Assets Act (2015) | 18 | 2021-06-29 |
+| `krs-chapter-396/` | Kentucky Revised Statutes, Chapter 396: Claims Against Decedents' Estates | 43 | 2021-06-29 |
+| `krs-chapter-397/` | Kentucky Revised Statutes, Chapter 397: Uniform Simultaneous Death Act | 17 | 1998-07-15 |
+| `krs-chapter-401/` | Kentucky Revised Statutes, Chapter 401: Change Of Name | 4 | 2026-07-15 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |
 | `krs-chapter-501/` | Kentucky Revised Statutes, Chapter 501: General Principles Of Liability | 11 | 2026-10-29 |
 | `krs-chapter-502/` | Kentucky Revised Statutes, Chapter 502: Parties To Offenses: Accountability | 6 | 2026-10-29 |

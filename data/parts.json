@@ -461,6 +461,39 @@
     "krs-chapter-366"
    ],
    "sha256": "0e207669e0536a8ad64bd1561ed77e171e0ee8189ebcdccef3188defd1360979"
+  },
+  "85-ky-rest-20.json": {
+   "acts": [
+    "krs-chapter-367",
+    "krs-chapter-369",
+    "krs-chapter-371",
+    "krs-chapter-372",
+    "krs-chapter-376",
+    "krs-chapter-378a",
+    "krs-chapter-379",
+    "krs-chapter-380",
+    "krs-chapter-383",
+    "krs-chapter-384",
+    "krs-chapter-385",
+    "krs-chapter-386",
+    "krs-chapter-386a",
+    "krs-chapter-386b",
+    "krs-chapter-387",
+    "krs-chapter-388",
+    "krs-chapter-389a",
+    "krs-chapter-390",
+    "krs-chapter-391",
+    "krs-chapter-392",
+    "krs-chapter-393",
+    "krs-chapter-393a",
+    "krs-chapter-394",
+    "krs-chapter-395",
+    "krs-chapter-395a",
+    "krs-chapter-396",
+    "krs-chapter-397",
+    "krs-chapter-401"
+   ],
+   "sha256": "9fd0835e55a276d4fe48acc3a5156e9a8e826c7b723573131076fe5bdad19a5a"
   }
  },
  "schema": 1

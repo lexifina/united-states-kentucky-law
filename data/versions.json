@@ -5628,6 +5628,398 @@
      "sha256": "ede93f78310837ab2a233fefd108a43f2320cf19e74b5dfced65b8aa1491548c"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-367",
+   "short": "KRS ch. 367",
+   "title": "Kentucky Revised Statutes, Chapter 367: Consumer Protection",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39092",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 315,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39092",
+     "sha256": "51811163bc7f3c0752dc6fac31d3a93152abd02b6c379b7e5b16ec1687bff6f9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-369",
+   "short": "KRS ch. 369",
+   "title": "Kentucky Revised Statutes, Chapter 369: Information Technology",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39128",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 27,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39128",
+     "sha256": "578f943b3e1d12cf67cea438162dbbfcebd2e52a1ea3c6836960880fbe249d00"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-371",
+   "short": "KRS ch. 371",
+   "title": "Kentucky Revised Statutes, Chapter 371: Formality And Assignability Of Contracts -- Installment Sales Contracts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39133",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 45,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39133",
+     "sha256": "284c7d8cc80d2fd21e33fd0f52b5e2d7c9d5af357f06496b78853bff88829afc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-372",
+   "short": "KRS ch. 372",
+   "title": "Kentucky Revised Statutes, Chapter 372: Contracts Against Public Policy",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39138",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39138",
+     "sha256": "31f54223b1c95c743db64f923d5ac63d2a08d99a286274ee871ace54e354ba33"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-376",
+   "short": "KRS ch. 376",
+   "title": "Kentucky Revised Statutes, Chapter 376: Statutory Liens",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39141",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 63,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39141",
+     "sha256": "7a3579ca10f102745098c55ab2b0ba0b6f70ded3d71cd35b0c16383b8d81c437"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-378a",
+   "short": "KRS ch. 378A",
+   "title": "Kentucky Revised Statutes, Chapter 378A: Kentucky Uniform Voidable Transactions Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=43993",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=43993",
+     "sha256": "ecb3c083f223b2f352b8d35a1df7d54221d0245395326b7d7512c9d9389bc862"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-379",
+   "short": "KRS ch. 379",
+   "title": "Kentucky Revised Statutes, Chapter 379: Voluntary Assignments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39144",
+   "versions": [
+    {
+     "from": "1982-07-01",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39144",
+     "sha256": "7f99fa8ae9fea7c7947dda34e3a51c00199b0171603583034f1f6857f3bea65f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-380",
+   "short": "KRS ch. 380",
+   "title": "Kentucky Revised Statutes, Chapter 380: Debt Adjusting",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39145",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39145",
+     "sha256": "16b74cf1402eca9ecc26a8fa62e4468171f572d46686bda8cc0e9d75a2c15a81"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-383",
+   "short": "KRS ch. 383",
+   "title": "Kentucky Revised Statutes, Chapter 383: Rental Of Property -- Forcible Entry And Detainer -- Uniform Residential Landlord And Tenant Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39159",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 96,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39159",
+     "sha256": "84ffeffce6267a599f4672ed28d979cb334a8f7a1da14479d61b38e1ec2f0239"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-384",
+   "short": "KRS ch. 384",
+   "title": "Kentucky Revised Statutes, Chapter 384: Control Of Property And Exercise Of Rights Of Persons In Armed Forces -- Contracts Of Infant War Veterans",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39162",
+   "versions": [
+    {
+     "from": "1982-07-01",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39162",
+     "sha256": "9d23d80428ff9767363a08647296ea223057edd84d527a02036d5083516ea958"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-385",
+   "short": "KRS ch. 385",
+   "title": "Kentucky Revised Statutes, Chapter 385: Uniform Transfers To Minors Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39163",
+   "versions": [
+    {
+     "from": "1986-07-15",
+     "units": 55,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39163",
+     "sha256": "e1e1b1ad9d20260842b9e8039573c1b36b8c6fa0020eda8455f0b9ec46cef352"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-386",
+   "short": "KRS ch. 386",
+   "title": "Kentucky Revised Statutes, Chapter 386: Administration Of Trusts -- Legal Investments -- Uniform Principal And Income Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39165",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 177,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39165",
+     "sha256": "3165c47de986f5dd1dddd8ac29e53055d87619bf0099dbc58bb5cb1b9c5776fa"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-386a",
+   "short": "KRS ch. 386A",
+   "title": "Kentucky Revised Statutes, Chapter 386A: Kentucky Uniform Statutory Trust Act (2012)",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=41152",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 76,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=41152",
+     "sha256": "733c1813cd6304d6d2b6914faae016cc450f93e3f87fb56a615832c877b1cc42"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-386b",
+   "short": "KRS ch. 386B",
+   "title": "Kentucky Revised Statutes, Chapter 386B: Uniform Trust Code",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42899",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 140,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=42899",
+     "sha256": "7c6d51c7e305be3e8f1ec5b34f16b14345fe2b66f8891e04ccb07d27f0d6f1a5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-387",
+   "short": "KRS ch. 387",
+   "title": "Kentucky Revised Statutes, Chapter 387: Guardians -- Conservators -- Curators Of Convicts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39181",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 121,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39181",
+     "sha256": "251711afe64ec1b2cdae90fdb8c45ddf16d062c3c48b948577897344b8f0af25"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-388",
+   "short": "KRS ch. 388",
+   "title": "Kentucky Revised Statutes, Chapter 388: Uniform Veterans' Guardianship Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39184",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 39,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39184",
+     "sha256": "af08cdc31871eded2cc0eb987d1a4d726c036b510dd311c9a936bed8b7388ff1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-389a",
+   "short": "KRS ch. 389A",
+   "title": "Kentucky Revised Statutes, Chapter 389A: Fiducial And Judicial Sales Of Real Estate",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39186",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39186",
+     "sha256": "36388fb73afcf0b89f46be31e1471521431804a67bf7008833b55e84c39854ee"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-390",
+   "short": "KRS ch. 390",
+   "title": "Kentucky Revised Statutes, Chapter 390: Uniform Powers Of Appointment Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39187",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 37,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39187",
+     "sha256": "a0a249ca32c700fd4cd241cbb00f2916fb34067a693344f9c3603766d06626ef"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-391",
+   "short": "KRS ch. 391",
+   "title": "Kentucky Revised Statutes, Chapter 391: Descent And Distribution",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39189",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 44,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39189",
+     "sha256": "182e4bd95671d4f34039c2ffa9b881ff312f01209237fbe591ce54b870f626d6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-392",
+   "short": "KRS ch. 392",
+   "title": "Kentucky Revised Statutes, Chapter 392: Dower And Curtesy",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39193",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39193",
+     "sha256": "47483776eb35c2b716297a3870215eafd3acaaea6ea223ba2018ac4b18a268b5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-393",
+   "short": "KRS ch. 393",
+   "title": "Kentucky Revised Statutes, Chapter 393: Escheats",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39194",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 46,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39194",
+     "sha256": "c731667ce1ce8f26cd222d7ddf75a9e8a3b1320fa91383ef8555657494c26c54"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-393a",
+   "short": "KRS ch. 393A",
+   "title": "Kentucky Revised Statutes, Chapter 393A: Revised Uniform Unclaimed Property Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=47169",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 87,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=47169",
+     "sha256": "eb1fbdff234ed1a60805828ef2721d278160c6a7595ee91ab1197e6ebfa16893"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-394",
+   "short": "KRS ch. 394",
+   "title": "Kentucky Revised Statutes, Chapter 394: Wills",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39195",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 98,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39195",
+     "sha256": "c4519e56e3ac4195ab8f83eb90ccb9d1311829d20af25d93a11194dd8041f7eb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-395",
+   "short": "KRS ch. 395",
+   "title": "Kentucky Revised Statutes, Chapter 395: Personal Representatives",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39197",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 94,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39197",
+     "sha256": "780ff198e69498b40cee77a75f961172a455a616b1dc47d6b5977a15ff5f3119"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-395a",
+   "short": "KRS ch. 395A",
+   "title": "Kentucky Revised Statutes, Chapter 395A: Revised Uniform Fiduciary Access To Digital Assets Act (2015)",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=49783",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 18,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=49783",
+     "sha256": "f305934dd9eee0e91aabb9c224e4b579a70e539b3cfb1e33c114c6a0b1ce18c9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-396",
+   "short": "KRS ch. 396",
+   "title": "Kentucky Revised Statutes, Chapter 396: Claims Against Decedents' Estates",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39200",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 43,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39200",
+     "sha256": "469fb3ab90662b1b88aa6fd951040bd8bc5b2dd2fd7596cb4fed969c47d4b56a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-397",
+   "short": "KRS ch. 397",
+   "title": "Kentucky Revised Statutes, Chapter 397: Uniform Simultaneous Death Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39201",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39201",
+     "sha256": "2d603412e03f1a49fe4d13006db782bdfaa9e00527e922c04a4643c2b2e27a2f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-401",
+   "short": "KRS ch. 401",
+   "title": "Kentucky Revised Statutes, Chapter 401: Change Of Name",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39204",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39204",
+     "sha256": "7e15f061aaa020e86c239494be273db5183c3b46283be0533827f99a4149cc5b"
+    }
+   ]
   }
  ]
 }
