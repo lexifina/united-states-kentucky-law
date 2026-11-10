@@ -4662,6 +4662,62 @@
      "sha256": "10b317a4694822086c2dc4e102758ae144d5038e5be7c729b30aa3ace92056ff"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-278",
+   "short": "KRS ch. 278",
+   "title": "Kentucky Revised Statutes, Chapter 278: Public Service Commission",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38583",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 175,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38583",
+     "sha256": "1b35b9c7603a32f629cb4f0d3eb9c28aadf498acffeb365c892a62f43b592759"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-292",
+   "short": "KRS ch. 292",
+   "title": "Kentucky Revised Statutes, Chapter 292: Securities (Blue Sky Law)",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38663",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 94,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38663",
+     "sha256": "041f77fe43c5d75e5bcf5659b5d74c92a90930cc4fe82249aa624492ff9666a1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-299",
+   "short": "KRS ch. 299",
+   "title": "Kentucky Revised Statutes, Chapter 299: Assessment Or Cooperative Insurance",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38672",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 68,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38672",
+     "sha256": "080893a682a5efd5374629dd22a5b778a0eb76f47749b6188317903099890ffa"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-303",
+   "short": "KRS ch. 303",
+   "title": "Kentucky Revised Statutes, Chapter 303: Burial Associations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38681",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 39,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38681",
+     "sha256": "3cf9c702eb5596ec6d9d9c2d07de7bdb59836c5b2acf04dff301f5330951bee4"
+    }
+   ]
   }
  ]
 }

@@ -367,6 +367,15 @@
     "krs-chapter-286"
    ],
    "sha256": "9329ec1fafd1c0b8723138f7ee9d48f4e7600f83619909a4c419d4951528c467"
+  },
+  "85-ky-rest-15.json": {
+   "acts": [
+    "krs-chapter-278",
+    "krs-chapter-292",
+    "krs-chapter-299",
+    "krs-chapter-303"
+   ],
+   "sha256": "52d4fccb2fcfd9588a3ee6e9d2e64605d3e726acc4632e958fc67debc78b480b"
   }
  },
  "schema": 1

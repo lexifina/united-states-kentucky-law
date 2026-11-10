@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 311 chapters (`krs-chapter-*/`), 24591 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 315 chapters (`krs-chapter-*/`), 24967 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -282,11 +282,15 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-275/` | Kentucky Revised Statutes, Chapter 275: Limited Liability Companies | 110 | 2026-10-29 |
 | `krs-chapter-276/` | Kentucky Revised Statutes, Chapter 276: Railroad Commission -- Rates And Service Of Common Carriers | 55 | 2010-07-15 |
 | `krs-chapter-277/` | Kentucky Revised Statutes, Chapter 277: Railroads -- Organization And Operating Regulations | 47 | 2026-07-15 |
+| `krs-chapter-278/` | Kentucky Revised Statutes, Chapter 278: Public Service Commission | 175 | 2026-07-15 |
 | `krs-chapter-279/` | Kentucky Revised Statutes, Chapter 279: Rural Electric And Rural Telephone Cooperative Corporations | 55 | 2011-01-01 |
 | `krs-chapter-280/` | Kentucky Revised Statutes, Chapter 280: Private Toll Bridges And Ferries | 34 | 2000-12-01 |
 | `krs-chapter-281/` | Kentucky Revised Statutes, Chapter 281: Motor Carriers | 204 | 2026-08-01 |
 | `krs-chapter-281a/` | Kentucky Revised Statutes, Chapter 281A: Commercial Driver'S Licenses | 39 | 2026-04-13 |
 | `krs-chapter-286/` | Kentucky Revised Statutes, Chapter 286: Kentucky Financial Services Code | 520 | 2026-07-15 |
+| `krs-chapter-292/` | Kentucky Revised Statutes, Chapter 292: Securities (Blue Sky Law) | 94 | 2025-06-27 |
+| `krs-chapter-299/` | Kentucky Revised Statutes, Chapter 299: Assessment Or Cooperative Insurance | 68 | 2026-07-15 |
+| `krs-chapter-303/` | Kentucky Revised Statutes, Chapter 303: Burial Associations | 39 | 2010-07-15 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |
