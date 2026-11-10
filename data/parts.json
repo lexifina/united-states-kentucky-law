@@ -288,6 +288,19 @@
     "krs-chapter-210"
    ],
    "sha256": "1fd05270e1407d389b48d8c454d49de800ba55d9213dadd74e3b3964e126f156"
+  },
+  "85-ky-rest-11.json": {
+   "acts": [
+    "krs-chapter-212",
+    "krs-chapter-214",
+    "krs-chapter-216a",
+    "krs-chapter-217b",
+    "krs-chapter-217c",
+    "krs-chapter-218a",
+    "krs-chapter-220",
+    "krs-chapter-221"
+   ],
+   "sha256": "4c25b46caeec36daf73072f76aa370d37d1b7820b401a41294771948bf4a4cfc"
   }
  },
  "schema": 1

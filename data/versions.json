@@ -3836,6 +3836,118 @@
      "sha256": "8d17670d274518d37e25db0591ac4c14a59c1ec55fe5a6a020001342c36ea8ec"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-212",
+   "short": "KRS ch. 212",
+   "title": "Kentucky Revised Statutes, Chapter 212: Local Health Programs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38198",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 135,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38198",
+     "sha256": "f440b5c4b266008624262c299a5439e8acbb063564cea9e90be5a6d3b55dc897"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-214",
+   "short": "KRS ch. 214",
+   "title": "Kentucky Revised Statutes, Chapter 214: Diseases",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38211",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 97,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38211",
+     "sha256": "164002d85fa39121c9aaddeb2ab51c531ca7373c85223b4daada275ea3247072"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-216a",
+   "short": "KRS ch. 216A",
+   "title": "Kentucky Revised Statutes, Chapter 216A: Licensing Of Nursing Home Administrators",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38237",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38237",
+     "sha256": "57b901720132ee6993a06a89c47895d56ee6f3e5716cbc788c0d5415fdd6da8a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-217b",
+   "short": "KRS ch. 217B",
+   "title": "Kentucky Revised Statutes, Chapter 217B: Fertilizer And Pesticide Use And Application",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38260",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 60,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38260",
+     "sha256": "2de6d740bb39e639cd1244ea148a218f4cde1753ffbc23633d77bd74c467873e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-217c",
+   "short": "KRS ch. 217C",
+   "title": "Kentucky Revised Statutes, Chapter 217C: Milk And Milk Products",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38264",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 11,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38264",
+     "sha256": "0c74dee6ff8fc216d5294064f5db6a8928eb0f29e3fc55ab1cb6d2d551a39930"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-218a",
+   "short": "KRS ch. 218A",
+   "title": "Kentucky Revised Statutes, Chapter 218A: Controlled Substances",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38267",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 129,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38267",
+     "sha256": "816510c6b0e9303d81860245b1b203b22312f75c9583cb0d3c55cd429d1cee07"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-220",
+   "short": "KRS ch. 220",
+   "title": "Kentucky Revised Statutes, Chapter 220: Sanitation Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38274",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 108,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38274",
+     "sha256": "031ffdb0aab545cc4273050102a5ca9e0910c32f0eb8078ad0fdd5fee54a2c16"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-221",
+   "short": "KRS ch. 221",
+   "title": "Kentucky Revised Statutes, Chapter 221: Frozen Food Locker Plants",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38277",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 12,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38277",
+     "sha256": "f02ca8d6763c78938ae8e486e696ace6cc08e3ff7b3c38d6882e8097797bc8d7"
+    }
+   ]
   }
  ]
 }

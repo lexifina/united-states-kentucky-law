@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 252 chapters (`krs-chapter-*/`), 18439 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 260 chapters (`krs-chapter-*/`), 19008 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -217,10 +217,18 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-209/` | Kentucky Revised Statutes, Chapter 209: Protection Of Adults | 33 | 2026-04-10 |
 | `krs-chapter-209a/` | Kentucky Revised Statutes, Chapter 209A: Spousal Abuse Or Neglect | 14 | 2026-07-15 |
 | `krs-chapter-210/` | Kentucky Revised Statutes, Chapter 210: State And Regional Mental Health Programs | 116 | 2026-07-15 |
+| `krs-chapter-212/` | Kentucky Revised Statutes, Chapter 212: Local Health Programs | 135 | 2024-07-01 |
 | `krs-chapter-213/` | Kentucky Revised Statutes, Chapter 213: Vital Statistics | 76 | 2025-06-27 |
+| `krs-chapter-214/` | Kentucky Revised Statutes, Chapter 214: Diseases | 97 | 2025-06-27 |
 | `krs-chapter-215/` | Kentucky Revised Statutes, Chapter 215: Tuberculosis | 88 | 2005-06-20 |
+| `krs-chapter-216a/` | Kentucky Revised Statutes, Chapter 216A: Licensing Of Nursing Home Administrators | 17 | 2022-07-14 |
 | `krs-chapter-216b/` | Kentucky Revised Statutes, Chapter 216B: Licensure And Regulation Of Health Facilities And Services | 102 | 2026-07-15 |
+| `krs-chapter-217b/` | Kentucky Revised Statutes, Chapter 217B: Fertilizer And Pesticide Use And Application | 60 | 2022-07-14 |
+| `krs-chapter-217c/` | Kentucky Revised Statutes, Chapter 217C: Milk And Milk Products | 11 | 2019-06-27 |
+| `krs-chapter-218a/` | Kentucky Revised Statutes, Chapter 218A: Controlled Substances | 129 | 2026-07-15 |
 | `krs-chapter-218b/` | Kentucky Revised Statutes, Chapter 218B: Medicinal Cannabis | 30 | 2025-01-01 |
+| `krs-chapter-220/` | Kentucky Revised Statutes, Chapter 220: Sanitation Districts | 108 | 2018-07-14 |
+| `krs-chapter-221/` | Kentucky Revised Statutes, Chapter 221: Frozen Food Locker Plants | 12 | 2019-07-01 |
 | `krs-chapter-222/` | Kentucky Revised Statutes, Chapter 222: Kentucky Alcohol And Substance Use Disorder Prevention, Intervention, And Treatment Law | 88 | 2026-04-10 |
 | `krs-chapter-223/` | Kentucky Revised Statutes, Chapter 223: Sanitarians, Water Plant Operators, And Water Well Construction Practices | 32 | 2024-07-15 |
 | `krs-chapter-227a/` | Kentucky Revised Statutes, Chapter 227A: Electricians And Electrical Contractors | 15 | 2024-07-15 |
