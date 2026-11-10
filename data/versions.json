@@ -4718,6 +4718,48 @@
      "sha256": "3cf9c702eb5596ec6d9d9c2d07de7bdb59836c5b2acf04dff301f5330951bee4"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-304",
+   "short": "KRS ch. 304",
+   "title": "Kentucky Revised Statutes, Chapter 304: Insurance Code",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38684",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 2567,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38684",
+     "sha256": "9f9a7d50ea3afaad5b0386041781d4d8279220568ddd27b81dfee460daacaf77"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-306",
+   "short": "KRS ch. 306",
+   "title": "Kentucky Revised Statutes, Chapter 306: Hotels",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38774",
+   "versions": [
+    {
+     "from": "1942-10-01",
+     "units": 4,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38774",
+     "sha256": "105542005a7caeb8421d3eb8c366cb71e460ea6709f693e31a2eea3bcf71f59f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-307",
+   "short": "KRS ch. 307",
+   "title": "Kentucky Revised Statutes, Chapter 307: Cemeteries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38775",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 22,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38775",
+     "sha256": "c82ffe881cedc3832e7157c54490e4e8d453d880a167d26b8b7f5160a3972627"
+    }
+   ]
   }
  ]
 }

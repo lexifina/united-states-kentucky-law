@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 315 chapters (`krs-chapter-*/`), 24967 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 318 chapters (`krs-chapter-*/`), 27560 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -291,6 +291,9 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-292/` | Kentucky Revised Statutes, Chapter 292: Securities (Blue Sky Law) | 94 | 2025-06-27 |
 | `krs-chapter-299/` | Kentucky Revised Statutes, Chapter 299: Assessment Or Cooperative Insurance | 68 | 2026-07-15 |
 | `krs-chapter-303/` | Kentucky Revised Statutes, Chapter 303: Burial Associations | 39 | 2010-07-15 |
+| `krs-chapter-304/` | Kentucky Revised Statutes, Chapter 304: Insurance Code | 2567 | 2026-07-15 |
+| `krs-chapter-306/` | Kentucky Revised Statutes, Chapter 306: Hotels | 4 | 1942-10-01 |
+| `krs-chapter-307/` | Kentucky Revised Statutes, Chapter 307: Cemeteries | 22 | 2002-07-15 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |
