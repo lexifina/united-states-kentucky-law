@@ -5502,6 +5502,132 @@
      "sha256": "db4a0ecf77e7cf88513516e7bb62d4f97bb88563aa82a50febe5ffb7c0ef0b74"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-351",
+   "short": "KRS ch. 351",
+   "title": "Kentucky Revised Statutes, Chapter 351: Department For Natural Resources",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38939",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 83,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38939",
+     "sha256": "107e16cf87a54a46a6fbad602583afd6563934258952afa3f708f534c874afc2"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-355",
+   "short": "KRS ch. 355",
+   "title": "Kentucky Revised Statutes, Chapter 355: Uniform Commercial Code",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38953",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 702,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38953",
+     "sha256": "9481ac7b9b2df877f75eb86e76771ea3027fd24d8950b657e68e4b765fcbdc0f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-359",
+   "short": "KRS ch. 359",
+   "title": "Kentucky Revised Statutes, Chapter 359: Self-Service Storage Facilities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39031",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39031",
+     "sha256": "d2c4ac4f1c8bda21a0ccf50877b8e7acdfb1cc35cf36979f9c616d3dd450e2b0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-360",
+   "short": "KRS ch. 360",
+   "title": "Kentucky Revised Statutes, Chapter 360: Interest And Usury",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39032",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39032",
+     "sha256": "99b0e1789e08f256f27755e13035626f4c353a216410e60dde957ca69b994262"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-362",
+   "short": "KRS ch. 362",
+   "title": "Kentucky Revised Statutes, Chapter 362: Partnerships",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39036",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 392,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39036",
+     "sha256": "7b6386a0db7a8bb949f154480c656645bad2f976e15ae4528f99323231323624"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-363",
+   "short": "KRS ch. 363",
+   "title": "Kentucky Revised Statutes, Chapter 363: Weights, Measures, And Millers' Tolls",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39068",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 86,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39068",
+     "sha256": "275cffc994388e8092d606ecf6860c38e7b83ecec7bfe56441bbe97997f343bb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-364",
+   "short": "KRS ch. 364",
+   "title": "Kentucky Revised Statutes, Chapter 364: Drifts, Logs, And Timber",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39073",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39073",
+     "sha256": "fd6d76643cccb6c3716b4acab135984cc83e0d01fa701c843188284f80a74b3d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-365",
+   "short": "KRS ch. 365",
+   "title": "Kentucky Revised Statutes, Chapter 365: Trade Practices",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39074",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 171,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39074",
+     "sha256": "39a8cc59c3feb67c3348586fc798feede927fd648777d324a6f2d9862de5d613"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-366",
+   "short": "KRS ch. 366",
+   "title": "Kentucky Revised Statutes, Chapter 366: Sale Of Checks Law",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39091",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 17,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39091",
+     "sha256": "ede93f78310837ab2a233fefd108a43f2320cf19e74b5dfced65b8aa1491548c"
+    }
+   ]
   }
  ]
 }

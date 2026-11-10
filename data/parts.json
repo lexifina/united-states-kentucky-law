@@ -447,6 +447,20 @@
     "krs-chapter-353"
    ],
    "sha256": "2ea88d6b4463f06e3a1ca07255a69aad015e4be33554b473831678d420b0fa30"
+  },
+  "85-ky-rest-19.json": {
+   "acts": [
+    "krs-chapter-351",
+    "krs-chapter-355",
+    "krs-chapter-359",
+    "krs-chapter-360",
+    "krs-chapter-362",
+    "krs-chapter-363",
+    "krs-chapter-364",
+    "krs-chapter-365",
+    "krs-chapter-366"
+   ],
+   "sha256": "0e207669e0536a8ad64bd1561ed77e171e0ee8189ebcdccef3188defd1360979"
   }
  },
  "schema": 1

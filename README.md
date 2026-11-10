@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 371 chapters (`krs-chapter-*/`), 30602 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 380 chapters (`krs-chapter-*/`), 32120 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -345,8 +345,17 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-347/` | Kentucky Revised Statutes, Chapter 347: Persons With Developmental Disabilities | 6 | 2022-07-01 |
 | `krs-chapter-349/` | Kentucky Revised Statutes, Chapter 349: Coalbed Methane Development | 32 | 2017-06-29 |
 | `krs-chapter-350/` | Kentucky Revised Statutes, Chapter 350: Surface Coal Mining | 139 | 2026-07-15 |
+| `krs-chapter-351/` | Kentucky Revised Statutes, Chapter 351: Department For Natural Resources | 83 | 2025-06-27 |
 | `krs-chapter-352/` | Kentucky Revised Statutes, Chapter 352: Mining Regulations | 81 | 2020-07-15 |
 | `krs-chapter-353/` | Kentucky Revised Statutes, Chapter 353: Mineral Conservation And Development | 160 | 2026-07-15 |
+| `krs-chapter-355/` | Kentucky Revised Statutes, Chapter 355: Uniform Commercial Code | 702 | 2025-01-01 |
+| `krs-chapter-359/` | Kentucky Revised Statutes, Chapter 359: Self-Service Storage Facilities | 25 | 2021-06-29 |
+| `krs-chapter-360/` | Kentucky Revised Statutes, Chapter 360: Interest And Usury | 28 | 2018-07-14 |
+| `krs-chapter-362/` | Kentucky Revised Statutes, Chapter 362: Partnerships | 392 | 2017-06-29 |
+| `krs-chapter-363/` | Kentucky Revised Statutes, Chapter 363: Weights, Measures, And Millers' Tolls | 86 | 2026-07-15 |
+| `krs-chapter-364/` | Kentucky Revised Statutes, Chapter 364: Drifts, Logs, And Timber | 14 | 2017-06-29 |
+| `krs-chapter-365/` | Kentucky Revised Statutes, Chapter 365: Trade Practices | 171 | 2025-01-01 |
+| `krs-chapter-366/` | Kentucky Revised Statutes, Chapter 366: Sale Of Checks Law | 17 | 2006-10-01 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |

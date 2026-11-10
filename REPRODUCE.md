@@ -31,6 +31,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -431,12 +432,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-350` | Kentucky Revised Statutes, Chapter 350: Surface Coal Mining | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-352` | Kentucky Revised Statutes, Chapter 352: Mining Regulations | 1 | 2020-07-15 to 2020-07-15 |
 | `krs-chapter-353` | Kentucky Revised Statutes, Chapter 353: Mineral Conservation And Development | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-351` | Kentucky Revised Statutes, Chapter 351: Department For Natural Resources | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-355` | Kentucky Revised Statutes, Chapter 355: Uniform Commercial Code | 1 | 2025-01-01 to 2025-01-01 |
+| `krs-chapter-359` | Kentucky Revised Statutes, Chapter 359: Self-Service Storage Facilities | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-360` | Kentucky Revised Statutes, Chapter 360: Interest And Usury | 1 | 2018-07-14 to 2018-07-14 |
+| `krs-chapter-362` | Kentucky Revised Statutes, Chapter 362: Partnerships | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-363` | Kentucky Revised Statutes, Chapter 363: Weights, Measures, And Millers' Tolls | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-364` | Kentucky Revised Statutes, Chapter 364: Drifts, Logs, And Timber | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-365` | Kentucky Revised Statutes, Chapter 365: Trade Practices | 1 | 2025-01-01 to 2025-01-01 |
+| `krs-chapter-366` | Kentucky Revised Statutes, Chapter 366: Sale Of Checks Law | 1 | 2006-10-01 to 2006-10-01 |
 
-The build made 393 commits:
+The build made 402 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 393 | first version of an act |
+| 402 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -444,7 +454,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 393 tags.
+- 402 tags.
 
 ## Dates
 
@@ -456,7 +466,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9d6f2080917d82518bda0138463ff2ce2dc27389d379b474bd566875cd0813f1` (52795097 bytes).
+- Corpus: sha256 `7b88daed76795b286fe024fc6096289754774c2f386611d6acc6fbd87dc5382a` (55112327 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
