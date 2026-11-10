@@ -1960,6 +1960,118 @@
      "sha256": "65b4738749952758702e9127712570765f2973e72c43679a41e64f4ebbc70af7"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-015",
+   "short": "KRS ch. 15",
+   "title": "Kentucky Revised Statutes, Chapter 15: Department Of Law",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37097",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 218,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37097",
+     "sha256": "2e4b5aed1a42714488bb3d01d2c3c85bfccb2c93781358c362779df95d0721e5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-015a",
+   "short": "KRS ch. 15A",
+   "title": "Kentucky Revised Statutes, Chapter 15A: Justice And Public Safety Cabinet",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37113",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 70,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37113",
+     "sha256": "2da66108308e4f8436cea06c0b48c80a1324fd3bba3eeb54ba4b2ccb85a7a6bf"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-016",
+   "short": "KRS ch. 16",
+   "title": "Kentucky Revised Statutes, Chapter 16: State Police",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37120",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 116,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37120",
+     "sha256": "ceec30f8165f8ede0039126cb3e79723167adbcc93e071c7bd777f254f31cb65"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-017",
+   "short": "KRS ch. 17",
+   "title": "Kentucky Revised Statutes, Chapter 17: Public Safety",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37126",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 93,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37126",
+     "sha256": "8c4c94171e5155adc28d5210ea61b9dd3d1af406e5168669de675ba3bd1c09dd"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-021",
+   "short": "KRS ch. 21",
+   "title": "Kentucky Revised Statutes, Chapter 21: Judicial Retirement",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37145",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 83,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37145",
+     "sha256": "921da57e93a6995c30831c3fd6f21a8d634bded35d0b378fcf06c13533abab0f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-021a",
+   "short": "KRS ch. 21A",
+   "title": "Kentucky Revised Statutes, Chapter 21A: Supreme Court Of Kentucky",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37147",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 24,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37147",
+     "sha256": "19d6928282c3dd4c17e0fb2c852b415649b12ffced7a1ee58bb11f9745207b3b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-023a",
+   "short": "KRS ch. 23A",
+   "title": "Kentucky Revised Statutes, Chapter 23A: Circuit Court",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37151",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37151",
+     "sha256": "64330c3f653d83c911e255cc464848488669e824d0b9014330e02aaba5059777"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-024a",
+   "short": "KRS ch. 24A",
+   "title": "Kentucky Revised Statutes, Chapter 24A: District Court",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37154",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 47,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37154",
+     "sha256": "5075f418c2fe875d0e4c2815e36f1c28cda93e97d0c9c3c4e6dcd57e3fe660be"
+    }
+   ]
   }
  ]
 }

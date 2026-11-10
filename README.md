@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 118 chapters (`krs-chapter-*/`), 4738 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 126 chapters (`krs-chapter-*/`), 5414 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -29,8 +29,16 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-013b/` | Kentucky Revised Statutes, Chapter 13B: Administrative Hearings | 19 | 2026-04-09 |
 | `krs-chapter-014/` | Kentucky Revised Statutes, Chapter 14: Department Of State | 34 | 2026-07-15 |
 | `krs-chapter-014a/` | Kentucky Revised Statutes, Chapter 14A: Kentucky Business Entity Filing Act | 51 | 2022-07-01 |
+| `krs-chapter-015/` | Kentucky Revised Statutes, Chapter 15: Department Of Law | 218 | 2026-07-15 |
+| `krs-chapter-015a/` | Kentucky Revised Statutes, Chapter 15A: Justice And Public Safety Cabinet | 70 | 2026-07-15 |
+| `krs-chapter-016/` | Kentucky Revised Statutes, Chapter 16: State Police | 116 | 2026-07-15 |
+| `krs-chapter-017/` | Kentucky Revised Statutes, Chapter 17: Public Safety | 93 | 2026-07-15 |
 | `krs-chapter-018a/` | Kentucky Revised Statutes, Chapter 18A: State Personnel | 117 | 2026-07-15 |
+| `krs-chapter-021/` | Kentucky Revised Statutes, Chapter 21: Judicial Retirement | 83 | 2026-07-15 |
+| `krs-chapter-021a/` | Kentucky Revised Statutes, Chapter 21A: Supreme Court Of Kentucky | 24 | 2023-06-29 |
 | `krs-chapter-022a/` | Kentucky Revised Statutes, Chapter 22A: Court Of Appeals | 7 | 2003-06-24 |
+| `krs-chapter-023a/` | Kentucky Revised Statutes, Chapter 23A: Circuit Court | 25 | 2026-07-15 |
+| `krs-chapter-024a/` | Kentucky Revised Statutes, Chapter 24A: District Court | 47 | 2026-07-15 |
 | `krs-chapter-029a/` | Kentucky Revised Statutes, Chapter 29A: Juries | 35 | 2026-07-15 |
 | `krs-chapter-030a/` | Kentucky Revised Statutes, Chapter 30A: Court Personnel | 38 | 2024-07-15 |
 | `krs-chapter-031a/` | Kentucky Revised Statutes, Chapter 31A: Master Commissioners And Receivers | 7 | 2005-03-20 |
