@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 144 chapters (`krs-chapter-*/`), 6699 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 164 chapters (`krs-chapter-*/`), 8997 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -60,6 +60,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-039g/` | Kentucky Revised Statutes, Chapter 39G: Kentucky Office Of Homeland Security | 5 | 2019-06-27 |
 | `krs-chapter-040/` | Kentucky Revised Statutes, Chapter 40: Veterans | 66 | 2026-01-01 |
 | `krs-chapter-041/` | Kentucky Revised Statutes, Chapter 41: Department Of The Treasury | 68 | 2026-07-15 |
+| `krs-chapter-042/` | Kentucky Revised Statutes, Chapter 42: Finance And Administration Cabinet | 184 | 2026-07-15 |
 | `krs-chapter-043/` | Kentucky Revised Statutes, Chapter 43: Auditor Of Public Accounts | 17 | 2026-07-15 |
 | `krs-chapter-044/` | Kentucky Revised Statutes, Chapter 44: Claims Upon The Treasury | 39 | 2026-07-15 |
 | `krs-chapter-045/` | Kentucky Revised Statutes, Chapter 45: Budget And Financial Administration | 161 | 2026-07-15 |
@@ -71,12 +72,31 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-056/` | Kentucky Revised Statutes, Chapter 56: State Lands And Buildings | 166 | 2026-07-15 |
 | `krs-chapter-057/` | Kentucky Revised Statutes, Chapter 57: Public Printing And Distribution Of Public Documents | 59 | 2026-07-15 |
 | `krs-chapter-058/` | Kentucky Revised Statutes, Chapter 58: Acquisition And Development Of Public Projects Through Revenue Bonds | 63 | 2021-06-29 |
+| `krs-chapter-061/` | Kentucky Revised Statutes, Chapter 61: General Provisions As To Offices And Officers -- Social Security For Public Employees -- Employees Retirement System | 278 | 2026-07-15 |
+| `krs-chapter-062/` | Kentucky Revised Statutes, Chapter 62: Oaths And Bonds | 29 | 2022-07-01 |
 | `krs-chapter-063/` | Kentucky Revised Statutes, Chapter 63: Resignations, Removals, And Vacancies | 26 | 2024-04-12 |
+| `krs-chapter-064/` | Kentucky Revised Statutes, Chapter 64: Fees And Compensation Of Public Officers And Employees | 145 | 2026-07-15 |
+| `krs-chapter-065/` | Kentucky Revised Statutes, Chapter 65: General Provisions Applicable To Counties, Cities, And Other Local Units | 319 | 2026-07-15 |
 | `krs-chapter-065a/` | Kentucky Revised Statutes, Chapter 65A: Special Purpose Governmental Entities | 11 | 2025-06-27 |
+| `krs-chapter-066/` | Kentucky Revised Statutes, Chapter 66: Issuance Of Bonds And Control Of Funds | 108 | 2024-07-15 |
+| `krs-chapter-067/` | Kentucky Revised Statutes, Chapter 67: County Government (Fiscal Courts And County Commissioners) | 173 | 2026-07-15 |
+| `krs-chapter-067a/` | Kentucky Revised Statutes, Chapter 67A: Urban-County Government | 154 | 2023-06-29 |
+| `krs-chapter-067b/` | Kentucky Revised Statutes, Chapter 67B: Metropolitan Correctional Services Department | 8 | 2002-07-15 |
 | `krs-chapter-067c/` | Kentucky Revised Statutes, Chapter 67C: Restructure Of Local Government In County Containing City Of First Class | 57 | 2026-07-15 |
+| `krs-chapter-068/` | Kentucky Revised Statutes, Chapter 68: County Finance And County Treasurer | 72 | 2026-07-15 |
+| `krs-chapter-069/` | Kentucky Revised Statutes, Chapter 69: Commonwealth'S And County Attorneys | 66 | 2026-07-15 |
+| `krs-chapter-070/` | Kentucky Revised Statutes, Chapter 70: Sheriffs, Constables, And County Police Force | 89 | 2026-07-15 |
 | `krs-chapter-071/` | Kentucky Revised Statutes, Chapter 71: Jailer | 14 | 2020-07-15 |
+| `krs-chapter-072/` | Kentucky Revised Statutes, Chapter 72: Coroners, Inquests, And Medical Examinations | 62 | 2026-07-15 |
 | `krs-chapter-073/` | Kentucky Revised Statutes, Chapter 73: Surveyor And Processioners | 26 | 2012-07-12 |
+| `krs-chapter-074/` | Kentucky Revised Statutes, Chapter 74: Water Districts | 76 | 2021-03-18 |
+| `krs-chapter-075/` | Kentucky Revised Statutes, Chapter 75: Fire Protection Districts | 41 | 2026-04-10 |
 | `krs-chapter-075a/` | Kentucky Revised Statutes, Chapter 75A: Consolidated Emergency Services Districts | 14 | 2021-06-29 |
+| `krs-chapter-076/` | Kentucky Revised Statutes, Chapter 76: City-County Metropolitan Sewer, Sewer Construction, And Sanitation Districts | 132 | 2018-07-14 |
+| `krs-chapter-077/` | Kentucky Revised Statutes, Chapter 77: Air Pollution Control | 68 | 2025-06-27 |
+| `krs-chapter-078/` | Kentucky Revised Statutes, Chapter 78: County Police And County Employees Retirement System | 137 | 2026-07-15 |
+| `krs-chapter-079/` | Kentucky Revised Statutes, Chapter 79: Intercity, Intercounty, And City-County Compacts For Purchasing And Merit Systems -- Retirement And Disability Plans For Employees Of Counties And Cities | 25 | 2019-06-27 |
+| `krs-chapter-080/` | Kentucky Revised Statutes, Chapter 80: Low-Cost Housing | 132 | 2019-06-27 |
 | `krs-chapter-083a/` | Kentucky Revised Statutes, Chapter 83A: Organization Of Government In Cities | 30 | 2026-07-15 |
 | `krs-chapter-092/` | Kentucky Revised Statutes, Chapter 92: Finance And Revenue Of Cities Other Than The First Class | 95 | 2026-07-15 |
 | `krs-chapter-095a/` | Kentucky Revised Statutes, Chapter 95A: Fire Protection Personnel | 42 | 2026-07-15 |

@@ -2324,6 +2324,286 @@
      "sha256": "f346f802c68c3f100bcea0f016675940e43b90085962c1f4f522d3ac3a1dd3e3"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-042",
+   "short": "KRS ch. 42",
+   "title": "Kentucky Revised Statutes, Chapter 42: Finance And Administration Cabinet",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37225",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 184,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37225",
+     "sha256": "68939cc23b7e56a5599a176ddb615358f5802a25303a99f21df810f6b81a3937"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-061",
+   "short": "KRS ch. 61",
+   "title": "Kentucky Revised Statutes, Chapter 61: General Provisions As To Offices And Officers -- Social Security For Public Employees -- Employees Retirement System",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37294",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 278,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37294",
+     "sha256": "07de9e4e28aa5db6de3c9cd3610c556f8a75c59c2960c7c0a891fadaafda3b8d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-062",
+   "short": "KRS ch. 62",
+   "title": "Kentucky Revised Statutes, Chapter 62: Oaths And Bonds",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37309",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 29,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37309",
+     "sha256": "c45007dcf4ad12d3e9e9d8eb11fbe77b29228d29b5555ecf34dea0b447d61576"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-064",
+   "short": "KRS ch. 64",
+   "title": "Kentucky Revised Statutes, Chapter 64: Fees And Compensation Of Public Officers And Employees",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37318",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 145,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37318",
+     "sha256": "c810c595eb834a228912d7969818d86fa77a9b9e656924e89cce93fe10bc6475"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-065",
+   "short": "KRS ch. 65",
+   "title": "Kentucky Revised Statutes, Chapter 65: General Provisions Applicable To Counties, Cities, And Other Local Units",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37327",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 319,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37327",
+     "sha256": "aa4b41954b67cde60d554910221f5c3ec69984373c971d04182ea4e913ed6f30"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-066",
+   "short": "KRS ch. 66",
+   "title": "Kentucky Revised Statutes, Chapter 66: Issuance Of Bonds And Control Of Funds",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37351",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 108,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37351",
+     "sha256": "b4200cfd66e24cc7c856623c8ccd9251b9b38ace07b7e694f076cf137f8fd4eb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-067",
+   "short": "KRS ch. 67",
+   "title": "Kentucky Revised Statutes, Chapter 67: County Government (Fiscal Courts And County Commissioners)",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37360",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 173,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37360",
+     "sha256": "174b9ebcf0d26fc673a725eff4d5ed82c5ff5e9c736bde67004c3e6763482328"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-067a",
+   "short": "KRS ch. 67A",
+   "title": "Kentucky Revised Statutes, Chapter 67A: Urban-County Government",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37378",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 154,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37378",
+     "sha256": "8f68135d8b3e8b0d1db64ee7a2714882430d8fb1896a9aa7da06e8b3309c2b9b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-067b",
+   "short": "KRS ch. 67B",
+   "title": "Kentucky Revised Statutes, Chapter 67B: Metropolitan Correctional Services Department",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37387",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 8,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37387",
+     "sha256": "5ed9e1b24b87fadacd6008b65778b357452ee4c3aee236821ceac52296fabd5b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-068",
+   "short": "KRS ch. 68",
+   "title": "Kentucky Revised Statutes, Chapter 68: County Finance And County Treasurer",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37392",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 72,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37392",
+     "sha256": "d0260245131d117d5f408a4c6ecf42f09a2fa475672e8ab8bd727daccb2db579"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-069",
+   "short": "KRS ch. 69",
+   "title": "Kentucky Revised Statutes, Chapter 69: Commonwealth'S And County Attorneys",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37399",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 66,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37399",
+     "sha256": "9d033e16419f13b711eeb1cf2e99c4a56a408368125523ca368f368fdcca7553"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-070",
+   "short": "KRS ch. 70",
+   "title": "Kentucky Revised Statutes, Chapter 70: Sheriffs, Constables, And County Police Force",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37403",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 89,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37403",
+     "sha256": "4aa128e70f07b5fbfa54fe7d06adcc76ba327a74280a01debdd650e3b09dc324"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-072",
+   "short": "KRS ch. 72",
+   "title": "Kentucky Revised Statutes, Chapter 72: Coroners, Inquests, And Medical Examinations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37412",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 62,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37412",
+     "sha256": "af8006d5e15372d18d804a244fa55ac99ef5bf3d02a5a021a29f756b5cd13639"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-074",
+   "short": "KRS ch. 74",
+   "title": "Kentucky Revised Statutes, Chapter 74: Water Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37417",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 76,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37417",
+     "sha256": "dff1e3f926b0007b3bf96d5da091af43c66b39b006c1b63c28b8b09b57b3602b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-075",
+   "short": "KRS ch. 75",
+   "title": "Kentucky Revised Statutes, Chapter 75: Fire Protection Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37421",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 41,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37421",
+     "sha256": "50b1101cb84437559a63d42ba44404bd9ea0bee962414e9c5cbea5d404d5385b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-076",
+   "short": "KRS ch. 76",
+   "title": "Kentucky Revised Statutes, Chapter 76: City-County Metropolitan Sewer, Sewer Construction, And Sanitation Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37423",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 132,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37423",
+     "sha256": "79223fcc0f03b64ae9cc719053e7b7dfc3f34b5995179341f3fcac96fbc94e91"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-077",
+   "short": "KRS ch. 77",
+   "title": "Kentucky Revised Statutes, Chapter 77: Air Pollution Control",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37430",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 68,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37430",
+     "sha256": "bc65b96df8b2b3d7aef5be39d3fcad1ab4cfaa773dc49ef9fe434010a253af27"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-078",
+   "short": "KRS ch. 78",
+   "title": "Kentucky Revised Statutes, Chapter 78: County Police And County Employees Retirement System",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37431",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 137,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37431",
+     "sha256": "c7a3198010e7bc3815553ef8234e03cb06f912d5ebd9fa98d04654340a270f50"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-079",
+   "short": "KRS ch. 79",
+   "title": "Kentucky Revised Statutes, Chapter 79: Intercity, Intercounty, And City-County Compacts For Purchasing And Merit Systems -- Retirement And Disability Plans For Employees Of Counties And Cities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37435",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 25,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37435",
+     "sha256": "67cc0cb078d61d3715adba7543542d6c93df693c56300bc291cc75a60a766eac"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-080",
+   "short": "KRS ch. 80",
+   "title": "Kentucky Revised Statutes, Chapter 80: Low-Cost Housing",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37437",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 132,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37437",
+     "sha256": "0379b6c7eb18524469bf7b93a621d603a90a245f137d13b4821e4c2f4db90180"
+    }
+   ]
   }
  ]
 }

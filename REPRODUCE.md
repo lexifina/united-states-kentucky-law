@@ -16,6 +16,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -189,12 +190,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-057` | Kentucky Revised Statutes, Chapter 57: Public Printing And Distribution Of Public Documents | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-058` | Kentucky Revised Statutes, Chapter 58: Acquisition And Development Of Public Projects Through Revenue Bonds | 1 | 2021-06-29 to 2021-06-29 |
 | `krs-chapter-063` | Kentucky Revised Statutes, Chapter 63: Resignations, Removals, And Vacancies | 1 | 2024-04-12 to 2024-04-12 |
+| `krs-chapter-042` | Kentucky Revised Statutes, Chapter 42: Finance And Administration Cabinet | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-061` | Kentucky Revised Statutes, Chapter 61: General Provisions As To Offices And Officers -- Social Security For Public Employees -- Employees Retirement System | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-062` | Kentucky Revised Statutes, Chapter 62: Oaths And Bonds | 1 | 2022-07-01 to 2022-07-01 |
+| `krs-chapter-064` | Kentucky Revised Statutes, Chapter 64: Fees And Compensation Of Public Officers And Employees | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-065` | Kentucky Revised Statutes, Chapter 65: General Provisions Applicable To Counties, Cities, And Other Local Units | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-066` | Kentucky Revised Statutes, Chapter 66: Issuance Of Bonds And Control Of Funds | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-067` | Kentucky Revised Statutes, Chapter 67: County Government (Fiscal Courts And County Commissioners) | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-067a` | Kentucky Revised Statutes, Chapter 67A: Urban-County Government | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-067b` | Kentucky Revised Statutes, Chapter 67B: Metropolitan Correctional Services Department | 1 | 2002-07-15 to 2002-07-15 |
+| `krs-chapter-068` | Kentucky Revised Statutes, Chapter 68: County Finance And County Treasurer | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-069` | Kentucky Revised Statutes, Chapter 69: Commonwealth'S And County Attorneys | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-070` | Kentucky Revised Statutes, Chapter 70: Sheriffs, Constables, And County Police Force | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-072` | Kentucky Revised Statutes, Chapter 72: Coroners, Inquests, And Medical Examinations | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-074` | Kentucky Revised Statutes, Chapter 74: Water Districts | 1 | 2021-03-18 to 2021-03-18 |
+| `krs-chapter-075` | Kentucky Revised Statutes, Chapter 75: Fire Protection Districts | 1 | 2026-04-10 to 2026-04-10 |
+| `krs-chapter-076` | Kentucky Revised Statutes, Chapter 76: City-County Metropolitan Sewer, Sewer Construction, And Sanitation Districts | 1 | 2018-07-14 to 2018-07-14 |
+| `krs-chapter-077` | Kentucky Revised Statutes, Chapter 77: Air Pollution Control | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-078` | Kentucky Revised Statutes, Chapter 78: County Police And County Employees Retirement System | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-079` | Kentucky Revised Statutes, Chapter 79: Intercity, Intercounty, And City-County Compacts For Purchasing And Merit Systems -- Retirement And Disability Plans For Employees Of Counties And Cities | 1 | 2019-06-27 to 2019-06-27 |
+| `krs-chapter-080` | Kentucky Revised Statutes, Chapter 80: Low-Cost Housing | 1 | 2019-06-27 to 2019-06-27 |
 
-The build made 166 commits:
+The build made 186 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 166 | first version of an act |
+| 186 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -202,7 +223,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 166 tags.
+- 186 tags.
 
 ## Dates
 
@@ -214,7 +235,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `414cf58f3627d31fb587896f6a1bbee2a27827d71d0257e3afbf5dc258dcebc2` (12289795 bytes).
+- Corpus: sha256 `cb3a1646f88eb1b392f9e9b90c0c250876f1348da6604f3dc74cd6c71cfd6e13` (16620929 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
