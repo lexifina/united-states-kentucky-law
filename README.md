@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 197 chapters (`krs-chapter-*/`), 11945 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 209 chapters (`krs-chapter-*/`), 13095 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -139,11 +139,23 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-136/` | Kentucky Revised Statutes, Chapter 136: Corporation And Utility Taxes | 132 | 2025-06-27 |
 | `krs-chapter-137/` | Kentucky Revised Statutes, Chapter 137: License Taxes | 44 | 2024-07-01 |
 | `krs-chapter-138/` | Kentucky Revised Statutes, Chapter 138: Excise Taxes | 186 | 2026-08-01 |
+| `krs-chapter-139/` | Kentucky Revised Statutes, Chapter 139: Sales And Use Taxes | 147 | 2026-08-01 |
+| `krs-chapter-140/` | Kentucky Revised Statutes, Chapter 140: Inheritance And Estate Taxes | 52 | 2026-04-27 |
 | `krs-chapter-141/` | Kentucky Revised Statutes, Chapter 141: Income Taxes | 194 | 2026-07-15 |
 | `krs-chapter-143/` | Kentucky Revised Statutes, Chapter 143: Coal Tax | 19 | 2026-07-15 |
 | `krs-chapter-143a/` | Kentucky Revised Statutes, Chapter 143A: Natural Resources Severance And Processing Taxes | 21 | 2026-07-15 |
 | `krs-chapter-144/` | Kentucky Revised Statutes, Chapter 144: Tax Incentives For Economic Development | 9 | 2017-06-29 |
+| `krs-chapter-146/` | Kentucky Revised Statutes, Chapter 146: Natural Resources | 87 | 2023-06-29 |
+| `krs-chapter-147/` | Kentucky Revised Statutes, Chapter 147: State And Area Planning -- Regional Development | 76 | 2017-06-29 |
+| `krs-chapter-147a/` | Kentucky Revised Statutes, Chapter 147A: Program Development | 51 | 2024-07-15 |
 | `krs-chapter-147b/` | Kentucky Revised Statutes, Chapter 147B: Financial Policy | 8 | 2005-06-20 |
+| `krs-chapter-148/` | Kentucky Revised Statutes, Chapter 148: Parks And Tourism | 168 | 2026-07-15 |
+| `krs-chapter-149/` | Kentucky Revised Statutes, Chapter 149: Forestry | 98 | 2025-08-01 |
+| `krs-chapter-150/` | Kentucky Revised Statutes, Chapter 150: Fish And Wildlife Resources | 152 | 2026-07-15 |
+| `krs-chapter-151/` | Kentucky Revised Statutes, Chapter 151: Geology And Water Resources | 102 | 2026-04-14 |
+| `krs-chapter-151b/` | Kentucky Revised Statutes, Chapter 151B: Workforce Education | 105 | 2026-07-15 |
+| `krs-chapter-152a/` | Kentucky Revised Statutes, Chapter 152A: Energy | 62 | 1994-07-15 |
+| `krs-chapter-153/` | Kentucky Revised Statutes, Chapter 153: The Arts -- State Zoo | 50 | 2023-01-01 |
 | `krs-chapter-154a/` | Kentucky Revised Statutes, Chapter 154A: State Lottery | 27 | 2025-07-01 |
 | `krs-chapter-159/` | Kentucky Revised Statutes, Chapter 159: Compulsory Attendance | 32 | 2026-07-15 |
 | `krs-chapter-161/` | Kentucky Revised Statutes, Chapter 161: School Employees -- Teachers' Retirement And Tenure | 211 | 2026-07-15 |

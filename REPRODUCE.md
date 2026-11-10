@@ -19,6 +19,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -245,12 +246,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-135` | Kentucky Revised Statutes, Chapter 135: Collection Of Public Claims By Action | 1 | 2010-01-01 to 2010-01-01 |
 | `krs-chapter-136` | Kentucky Revised Statutes, Chapter 136: Corporation And Utility Taxes | 1 | 2025-06-27 to 2025-06-27 |
 | `krs-chapter-138` | Kentucky Revised Statutes, Chapter 138: Excise Taxes | 1 | 2026-08-01 to 2026-08-01 |
+| `krs-chapter-139` | Kentucky Revised Statutes, Chapter 139: Sales And Use Taxes | 1 | 2026-08-01 to 2026-08-01 |
+| `krs-chapter-140` | Kentucky Revised Statutes, Chapter 140: Inheritance And Estate Taxes | 1 | 2026-04-27 to 2026-04-27 |
+| `krs-chapter-146` | Kentucky Revised Statutes, Chapter 146: Natural Resources | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-147` | Kentucky Revised Statutes, Chapter 147: State And Area Planning -- Regional Development | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-147a` | Kentucky Revised Statutes, Chapter 147A: Program Development | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-148` | Kentucky Revised Statutes, Chapter 148: Parks And Tourism | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-149` | Kentucky Revised Statutes, Chapter 149: Forestry | 1 | 2025-08-01 to 2025-08-01 |
+| `krs-chapter-150` | Kentucky Revised Statutes, Chapter 150: Fish And Wildlife Resources | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-151` | Kentucky Revised Statutes, Chapter 151: Geology And Water Resources | 1 | 2026-04-14 to 2026-04-14 |
+| `krs-chapter-151b` | Kentucky Revised Statutes, Chapter 151B: Workforce Education | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-152a` | Kentucky Revised Statutes, Chapter 152A: Energy | 1 | 1994-07-15 to 1994-07-15 |
+| `krs-chapter-153` | Kentucky Revised Statutes, Chapter 153: The Arts -- State Zoo | 1 | 2023-01-01 to 2023-01-01 |
 
-The build made 219 commits:
+The build made 231 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 219 | first version of an act |
+| 231 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -258,7 +271,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 219 tags.
+- 231 tags.
 
 ## Dates
 
@@ -270,7 +283,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `667d0115a07092c8e96fd60a6068a070e36207e0bea77a44b33c1a7f130f6fba` (21223199 bytes).
+- Corpus: sha256 `5a3a1d79859125ef91f57cdb12e2761bf4848cc365c88f0c13ae1e4abe089334` (22997302 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

@@ -3066,6 +3066,174 @@
      "sha256": "3d71e97b604753eebd6892de1e014c259139fac49accfd20bec24203858eca41"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-139",
+   "short": "KRS ch. 139",
+   "title": "Kentucky Revised Statutes, Chapter 139: Sales And Use Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37663",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 147,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37663",
+     "sha256": "96d449d393cc896815eb11a1f6b80c0cf3faf758daa9aa3a965e5d2623b5ac40"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-140",
+   "short": "KRS ch. 140",
+   "title": "Kentucky Revised Statutes, Chapter 140: Inheritance And Estate Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37672",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 52,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37672",
+     "sha256": "c72e22c73637e53ac9c0ac3a5e7760474788e6575d2fc7490fb855109f0b417f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-146",
+   "short": "KRS ch. 146",
+   "title": "Kentucky Revised Statutes, Chapter 146: Natural Resources",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37693",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 87,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37693",
+     "sha256": "1dadc1dba94280220ca5235bfc38f56e7d6a729af39fafa12d8c7720aae491a6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-147",
+   "short": "KRS ch. 147",
+   "title": "Kentucky Revised Statutes, Chapter 147: State And Area Planning -- Regional Development",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37701",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 76,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37701",
+     "sha256": "1dba5b68c212ca4507fac42287831f64a22a2281acacf6a2d7f00abb257d4625"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-147a",
+   "short": "KRS ch. 147A",
+   "title": "Kentucky Revised Statutes, Chapter 147A: Program Development",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37705",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 51,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37705",
+     "sha256": "a5dd46e1ca249e2dd064bf9756e6be6952a632449a63bb94d6f1aea2db2dfd61"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-148",
+   "short": "KRS ch. 148",
+   "title": "Kentucky Revised Statutes, Chapter 148: Parks And Tourism",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37710",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 168,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37710",
+     "sha256": "522f66a6e2983dbf5499a28b8f6ef85e25e842a2c236ef6eec3ff83ce0d91c9f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-149",
+   "short": "KRS ch. 149",
+   "title": "Kentucky Revised Statutes, Chapter 149: Forestry",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37723",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 98,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37723",
+     "sha256": "4f57149879ac888c89cd76c6580310df455922c00c31d43f4780aad8a8f3816c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-150",
+   "short": "KRS ch. 150",
+   "title": "Kentucky Revised Statutes, Chapter 150: Fish And Wildlife Resources",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37729",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 152,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37729",
+     "sha256": "ec20937b953ed62fac4df7839cd66778bfd52a2eb6fe6baf40573b104faef89d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-151",
+   "short": "KRS ch. 151",
+   "title": "Kentucky Revised Statutes, Chapter 151: Geology And Water Resources",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37731",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 102,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37731",
+     "sha256": "635dd67f8bf5f002d59fa257960c118c46f77cd9835adc44261c237571c9927f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-151b",
+   "short": "KRS ch. 151B",
+   "title": "Kentucky Revised Statutes, Chapter 151B: Workforce Education",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37740",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 105,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37740",
+     "sha256": "63200e59dd47f0c1d897c374a6a0539215735f77656b6ba338dde0a5f8eda22c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-152a",
+   "short": "KRS ch. 152A",
+   "title": "Kentucky Revised Statutes, Chapter 152A: Energy",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37750",
+   "versions": [
+    {
+     "from": "1994-07-15",
+     "units": 62,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37750",
+     "sha256": "73dad4657800de5cd119c8d32ac2694eea9690bb02cce7007e0e5674ac3552a3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-153",
+   "short": "KRS ch. 153",
+   "title": "Kentucky Revised Statutes, Chapter 153: The Arts -- State Zoo",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37753",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 50,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37753",
+     "sha256": "e3a249d24e8bb506e6d5346d7d8d670930551b915bd78b81c1c734dc72820135"
+    }
+   ]
   }
  ]
 }
