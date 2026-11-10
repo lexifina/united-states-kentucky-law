@@ -3388,6 +3388,286 @@
      "sha256": "6956f9b9dd133eff8c0b16cf6c7664eb01ab50988458c8dc792c79933fbe6fba"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-164",
+   "short": "KRS ch. 164",
+   "title": "Kentucky Revised Statutes, Chapter 164: State Universities And Colleges -- Council On Postsecondary Education -- Higher Education Assistance",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37900",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 446,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37900",
+     "sha256": "71022cfb604587a4fbe4c1aa3f0fcd9d2b5db2b16efb7c2121bbc7f8c6bcf1cc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-171",
+   "short": "KRS ch. 171",
+   "title": "Kentucky Revised Statutes, Chapter 171: State Libraries -- Librarians -- State Archives And Records -- Historical Affairs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37947",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 150,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37947",
+     "sha256": "b76f492c56451f3a7329c2ca4f29f9c63289befddb126d27dd088da818b8301e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-172",
+   "short": "KRS ch. 172",
+   "title": "Kentucky Revised Statutes, Chapter 172: County Law Libraries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37963",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 22,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37963",
+     "sha256": "f6d338b1e7d723ec56aa67d0c93c816708291dd3a150b1928ade8e3a4cc6ccec"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-173",
+   "short": "KRS ch. 173",
+   "title": "Kentucky Revised Statutes, Chapter 173: City, County, And Regional Libraries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37964",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 92,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37964",
+     "sha256": "897968f74bed9928b377ec99eed6106aaab4e2997131aad96e52f9f0617c8fd7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-174",
+   "short": "KRS ch. 174",
+   "title": "Kentucky Revised Statutes, Chapter 174: Transportation Cabinet",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37971",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 46,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37971",
+     "sha256": "837f5eb43b2d9a6d6935d2c2f4789d3a18e93748f27e57fa0d4d2796eb60a956"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-175",
+   "short": "KRS ch. 175",
+   "title": "Kentucky Revised Statutes, Chapter 175: Turnpike Authority",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37977",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 74,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37977",
+     "sha256": "b3ac7c3c32546526966908a96ad8cfeb806b9595452fe4af6759704418ecb131"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-176",
+   "short": "KRS ch. 176",
+   "title": "Kentucky Revised Statutes, Chapter 176: Department Of Highways",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37983",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 92,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37983",
+     "sha256": "0799acfbd5b776292f9076fdb25b7d46465ce0e91a978554b1a37f26431ab044"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-177",
+   "short": "KRS ch. 177",
+   "title": "Kentucky Revised Statutes, Chapter 177: State And Federal Highways -- Limited Access Facilities -- Turnpikes -- Road Bonds -- Billboards",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37984",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 189,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37984",
+     "sha256": "f56a4895949080a1894c97de6dcd472aa9fcba630556bf8a3b569f8a44893fd7"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-178",
+   "short": "KRS ch. 178",
+   "title": "Kentucky Revised Statutes, Chapter 178: County Roads -- Grade Crossing Elimination",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37998",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 56,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37998",
+     "sha256": "03ea32f981593bb792bfb62bb2595481e965a813ab3a2f76cda790aa3125bc8a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-179",
+   "short": "KRS ch. 179",
+   "title": "Kentucky Revised Statutes, Chapter 179: County Road Engineer And Maintenance Of Public Roads",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38003",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 61,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38003",
+     "sha256": "84de75f5bae92765b873099925052d28b4f860688571076b8b0d2f3b3592d6db"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-180",
+   "short": "KRS ch. 180",
+   "title": "Kentucky Revised Statutes, Chapter 180: State Bridges, Tunnels, And Ferries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38006",
+   "versions": [
+    {
+     "from": "1996-07-15",
+     "units": 43,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38006",
+     "sha256": "4d38baf9a44e5bcad74a9dd3748c2e347e1350a09106e46dd260f4e5181c1289"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-181",
+   "short": "KRS ch. 181",
+   "title": "Kentucky Revised Statutes, Chapter 181: County And City Bridges, Tunnels, And Ferries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38007",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 106,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38007",
+     "sha256": "0ff1b064672471b64cb81c0a671c06aed6aa7ec80676ecbe8893a6d36a0c776c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-182",
+   "short": "KRS ch. 182",
+   "title": "Kentucky Revised Statutes, Chapter 182: Waterways And Milldams",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38011",
+   "versions": [
+    {
+     "from": "1980-07-15",
+     "units": 29,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38011",
+     "sha256": "1f9e15a666e5923d2894aae64db8d747e3c4d0c0601a3060ab2f5b3d88e6f5ef"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-183",
+   "short": "KRS ch. 183",
+   "title": "Kentucky Revised Statutes, Chapter 183: Aviation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38012",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 179,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38012",
+     "sha256": "23fa88f4f93b14bb2abdb86bc4fee982eb9b3da883e51349b6d7010754099d10"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-184",
+   "short": "KRS ch. 184",
+   "title": "Kentucky Revised Statutes, Chapter 184: Public Road Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38022",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 48,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38022",
+     "sha256": "ac5f1ee172b3f7b5f09c645900dd341919b2a43d5f4853754862520e04745675"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-186",
+   "short": "KRS ch. 186",
+   "title": "Kentucky Revised Statutes, Chapter 186: Licensing Of Motor Vehicles, Operators, And Trailers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38025",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 253,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38025",
+     "sha256": "c4062c7c04049f577cb2c53343d7364e96602cd1f0025f490be6e124e12c2a9f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-186a",
+   "short": "KRS ch. 186A",
+   "title": "Kentucky Revised Statutes, Chapter 186A: Automated Motor Vehicle Registration System",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38033",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 98,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38033",
+     "sha256": "b9f3ec64ccb02287b4d3191ef09e31a93b893f3e79856a6d64d816bfab0ef11f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-187",
+   "short": "KRS ch. 187",
+   "title": "Kentucky Revised Statutes, Chapter 187: Financial Responsibility Law",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38036",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 66,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38036",
+     "sha256": "6128f81a8fee4e24284651db7e873e9fd5d10f40e919d59756f1a03dbcef2b0e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-188",
+   "short": "KRS ch. 188",
+   "title": "Kentucky Revised Statutes, Chapter 188: Service Of Process On Nonresident Motorists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38037",
+   "versions": [
+    {
+     "from": "1988-07-15",
+     "units": 7,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38037",
+     "sha256": "38d6f7bbba5093db5403648b3164296bb7e9bd27221dc7d2ad9a49dded9d6f45"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-189",
+   "short": "KRS ch. 189",
+   "title": "Kentucky Revised Statutes, Chapter 189: Traffic Regulations -- Vehicle Equipment And Storage",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38038",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 211,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38038",
+     "sha256": "1922afd7b61deb8e9990dbcdd6f742283bbc58332e8503d0ef8fae36f6f7f22c"
+    }
+   ]
   }
  ]
 }

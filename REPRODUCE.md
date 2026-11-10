@@ -21,6 +21,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -270,12 +271,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-160` | Kentucky Revised Statutes, Chapter 160: School Districts | 1 | 2026-08-01 to 2026-08-01 |
 | `krs-chapter-163` | Kentucky Revised Statutes, Chapter 163: Vocational Education And Rehabilitation | 1 | 2022-07-01 to 2022-07-01 |
 | `krs-chapter-165` | Kentucky Revised Statutes, Chapter 165: City Universities And Colleges | 1 | 2015-01-01 to 2015-01-01 |
+| `krs-chapter-164` | Kentucky Revised Statutes, Chapter 164: State Universities And Colleges -- Council On Postsecondary Education -- Higher Education Assistance | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-171` | Kentucky Revised Statutes, Chapter 171: State Libraries -- Librarians -- State Archives And Records -- Historical Affairs | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-172` | Kentucky Revised Statutes, Chapter 172: County Law Libraries | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-173` | Kentucky Revised Statutes, Chapter 173: City, County, And Regional Libraries | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-174` | Kentucky Revised Statutes, Chapter 174: Transportation Cabinet | 1 | 2026-04-16 to 2026-04-16 |
+| `krs-chapter-175` | Kentucky Revised Statutes, Chapter 175: Turnpike Authority | 1 | 2009-06-25 to 2009-06-25 |
+| `krs-chapter-176` | Kentucky Revised Statutes, Chapter 176: Department Of Highways | 1 | 2026-07-01 to 2026-07-01 |
+| `krs-chapter-177` | Kentucky Revised Statutes, Chapter 177: State And Federal Highways -- Limited Access Facilities -- Turnpikes -- Road Bonds -- Billboards | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-178` | Kentucky Revised Statutes, Chapter 178: County Roads -- Grade Crossing Elimination | 1 | 2015-01-01 to 2015-01-01 |
+| `krs-chapter-179` | Kentucky Revised Statutes, Chapter 179: County Road Engineer And Maintenance Of Public Roads | 1 | 2026-07-01 to 2026-07-01 |
+| `krs-chapter-180` | Kentucky Revised Statutes, Chapter 180: State Bridges, Tunnels, And Ferries | 1 | 1996-07-15 to 1996-07-15 |
+| `krs-chapter-181` | Kentucky Revised Statutes, Chapter 181: County And City Bridges, Tunnels, And Ferries | 1 | 2015-01-01 to 2015-01-01 |
+| `krs-chapter-182` | Kentucky Revised Statutes, Chapter 182: Waterways And Milldams | 1 | 1980-07-15 to 1980-07-15 |
+| `krs-chapter-183` | Kentucky Revised Statutes, Chapter 183: Aviation | 1 | 2026-04-16 to 2026-04-16 |
+| `krs-chapter-184` | Kentucky Revised Statutes, Chapter 184: Public Road Districts | 1 | 2022-07-14 to 2022-07-14 |
+| `krs-chapter-186` | Kentucky Revised Statutes, Chapter 186: Licensing Of Motor Vehicles, Operators, And Trailers | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-186a` | Kentucky Revised Statutes, Chapter 186A: Automated Motor Vehicle Registration System | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-187` | Kentucky Revised Statutes, Chapter 187: Financial Responsibility Law | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-188` | Kentucky Revised Statutes, Chapter 188: Service Of Process On Nonresident Motorists | 1 | 1988-07-15 to 1988-07-15 |
+| `krs-chapter-189` | Kentucky Revised Statutes, Chapter 189: Traffic Regulations -- Vehicle Equipment And Storage | 1 | 2026-07-15 to 2026-07-15 |
 
-The build made 242 commits:
+The build made 262 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 242 | first version of an act |
+| 262 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -283,7 +304,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 242 tags.
+- 262 tags.
 
 ## Dates
 
@@ -295,7 +316,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6c6f70ce7aa2e38c85416e5835de76d539567c581897a128fb81f2c86e0c2cd9` (26489615 bytes).
+- Corpus: sha256 `80db0a3c8235951bbe817b23fe1a0c1852aac82b9a81cd1cafa93ce6f73eebc5` (30200274 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

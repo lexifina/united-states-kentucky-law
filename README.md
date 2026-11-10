@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 220 chapters (`krs-chapter-*/`), 14949 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 240 chapters (`krs-chapter-*/`), 17217 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -170,12 +170,32 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-161/` | Kentucky Revised Statutes, Chapter 161: School Employees -- Teachers' Retirement And Tenure | 211 | 2026-07-15 |
 | `krs-chapter-162/` | Kentucky Revised Statutes, Chapter 162: School Property And Buildings | 78 | 2024-07-15 |
 | `krs-chapter-163/` | Kentucky Revised Statutes, Chapter 163: Vocational Education And Rehabilitation | 58 | 2022-07-01 |
+| `krs-chapter-164/` | Kentucky Revised Statutes, Chapter 164: State Universities And Colleges -- Council On Postsecondary Education -- Higher Education Assistance | 446 | 2026-07-15 |
 | `krs-chapter-164a/` | Kentucky Revised Statutes, Chapter 164A: Higher Education Finance | 81 | 2025-03-31 |
 | `krs-chapter-165/` | Kentucky Revised Statutes, Chapter 165: City Universities And Colleges | 35 | 2015-01-01 |
 | `krs-chapter-165a/` | Kentucky Revised Statutes, Chapter 165A: Proprietary Education | 31 | 2026-07-15 |
 | `krs-chapter-167/` | Kentucky Revised Statutes, Chapter 167: Education Of The Physically Handicapped | 30 | 2007-06-26 |
 | `krs-chapter-168/` | Kentucky Revised Statutes, Chapter 168: Educational Television | 11 | 1998-07-15 |
+| `krs-chapter-171/` | Kentucky Revised Statutes, Chapter 171: State Libraries -- Librarians -- State Archives And Records -- Historical Affairs | 150 | 2026-07-15 |
+| `krs-chapter-172/` | Kentucky Revised Statutes, Chapter 172: County Law Libraries | 22 | 2026-07-15 |
+| `krs-chapter-173/` | Kentucky Revised Statutes, Chapter 173: City, County, And Regional Libraries | 92 | 2026-07-15 |
+| `krs-chapter-174/` | Kentucky Revised Statutes, Chapter 174: Transportation Cabinet | 46 | 2026-04-16 |
+| `krs-chapter-175/` | Kentucky Revised Statutes, Chapter 175: Turnpike Authority | 74 | 2009-06-25 |
 | `krs-chapter-175b/` | Kentucky Revised Statutes, Chapter 175B: Kentucky Public Transportation Infrastructure Authority | 24 | 2017-03-27 |
+| `krs-chapter-176/` | Kentucky Revised Statutes, Chapter 176: Department Of Highways | 92 | 2026-07-01 |
+| `krs-chapter-177/` | Kentucky Revised Statutes, Chapter 177: State And Federal Highways -- Limited Access Facilities -- Turnpikes -- Road Bonds -- Billboards | 189 | 2026-07-15 |
+| `krs-chapter-178/` | Kentucky Revised Statutes, Chapter 178: County Roads -- Grade Crossing Elimination | 56 | 2015-01-01 |
+| `krs-chapter-179/` | Kentucky Revised Statutes, Chapter 179: County Road Engineer And Maintenance Of Public Roads | 61 | 2026-07-01 |
+| `krs-chapter-180/` | Kentucky Revised Statutes, Chapter 180: State Bridges, Tunnels, And Ferries | 43 | 1996-07-15 |
+| `krs-chapter-181/` | Kentucky Revised Statutes, Chapter 181: County And City Bridges, Tunnels, And Ferries | 106 | 2015-01-01 |
+| `krs-chapter-182/` | Kentucky Revised Statutes, Chapter 182: Waterways And Milldams | 29 | 1980-07-15 |
+| `krs-chapter-183/` | Kentucky Revised Statutes, Chapter 183: Aviation | 179 | 2026-04-16 |
+| `krs-chapter-184/` | Kentucky Revised Statutes, Chapter 184: Public Road Districts | 48 | 2022-07-14 |
+| `krs-chapter-186/` | Kentucky Revised Statutes, Chapter 186: Licensing Of Motor Vehicles, Operators, And Trailers | 253 | 2026-07-15 |
+| `krs-chapter-186a/` | Kentucky Revised Statutes, Chapter 186A: Automated Motor Vehicle Registration System | 98 | 2026-07-15 |
+| `krs-chapter-187/` | Kentucky Revised Statutes, Chapter 187: Financial Responsibility Law | 66 | 2017-06-29 |
+| `krs-chapter-188/` | Kentucky Revised Statutes, Chapter 188: Service Of Process On Nonresident Motorists | 7 | 1988-07-15 |
+| `krs-chapter-189/` | Kentucky Revised Statutes, Chapter 189: Traffic Regulations -- Vehicle Equipment And Storage | 211 | 2026-07-15 |
 | `krs-chapter-190a/` | Kentucky Revised Statutes, Chapter 190A: Recreational Vehicle Sales | 14 | 2026-04-14 |
 | `krs-chapter-194/` | Kentucky Revised Statutes, Chapter 194: Human Resources | 48 | 2020-07-15 |
 | `krs-chapter-195/` | Kentucky Revised Statutes, Chapter 195: Manpower Services | 22 | 2005-06-20 |
