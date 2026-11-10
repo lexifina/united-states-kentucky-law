@@ -22,6 +22,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -291,12 +292,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-187` | Kentucky Revised Statutes, Chapter 187: Financial Responsibility Law | 1 | 2017-06-29 to 2017-06-29 |
 | `krs-chapter-188` | Kentucky Revised Statutes, Chapter 188: Service Of Process On Nonresident Motorists | 1 | 1988-07-15 to 1988-07-15 |
 | `krs-chapter-189` | Kentucky Revised Statutes, Chapter 189: Traffic Regulations -- Vehicle Equipment And Storage | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-189a` | Kentucky Revised Statutes, Chapter 189A: Driving Under The Influence | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-190` | Kentucky Revised Statutes, Chapter 190: Motor Vehicle Sales -- Recyclers | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-194a` | Kentucky Revised Statutes, Chapter 194A: Cabinet For Health And Family Services | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-196` | Kentucky Revised Statutes, Chapter 196: Corrections | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-197` | Kentucky Revised Statutes, Chapter 197: Penitentiaries | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-198a` | Kentucky Revised Statutes, Chapter 198A: Low-Cost Housing | 1 | 2026-04-14 to 2026-04-14 |
+| `krs-chapter-199` | Kentucky Revised Statutes, Chapter 199: Protective Services For Children -- Adoption -- Child Care | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-200` | Kentucky Revised Statutes, Chapter 200: Assistance To Children | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-205` | Kentucky Revised Statutes, Chapter 205: Public Assistance And Medical Assistance | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-207` | Kentucky Revised Statutes, Chapter 207: Aid To The Needy Blind -- Equal Opportunities | 1 | 2024-07-01 to 2024-07-01 |
+| `krs-chapter-209` | Kentucky Revised Statutes, Chapter 209: Protection Of Adults | 1 | 2026-04-10 to 2026-04-10 |
+| `krs-chapter-210` | Kentucky Revised Statutes, Chapter 210: State And Regional Mental Health Programs | 1 | 2026-07-15 to 2026-07-15 |
 
-The build made 262 commits:
+The build made 274 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 262 | first version of an act |
+| 274 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -304,7 +317,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 262 tags.
+- 274 tags.
 
 ## Dates
 
@@ -316,7 +329,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `80db0a3c8235951bbe817b23fe1a0c1852aac82b9a81cd1cafa93ce6f73eebc5` (30200274 bytes).
+- Corpus: sha256 `c15cc0b1d875a51fe14dfdb419597e310685d0d051a39a6ff375a97b71a924ea` (32493061 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

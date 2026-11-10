@@ -3668,6 +3668,174 @@
      "sha256": "1922afd7b61deb8e9990dbcdd6f742283bbc58332e8503d0ef8fae36f6f7f22c"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-189a",
+   "short": "KRS ch. 189A",
+   "title": "Kentucky Revised Statutes, Chapter 189A: Driving Under The Influence",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38043",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 45,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38043",
+     "sha256": "f7a8b0ce2f8db792554f3dc3b90cfbba8ce615d7cebaeb56e5f9cb48ba6033dc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-190",
+   "short": "KRS ch. 190",
+   "title": "Kentucky Revised Statutes, Chapter 190: Motor Vehicle Sales -- Recyclers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38045",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 69,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38045",
+     "sha256": "367af62737dc67ceafcd06a63c204e836c5ce6ac9bd2904bf0d23271fcf59eb1"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-194a",
+   "short": "KRS ch. 194A",
+   "title": "Kentucky Revised Statutes, Chapter 194A: Cabinet For Health And Family Services",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38056",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 114,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38056",
+     "sha256": "5a7efb93f1b949409d35e30320cf9f16f95c3055407d8b7ba8bebb6842a18201"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-196",
+   "short": "KRS ch. 196",
+   "title": "Kentucky Revised Statutes, Chapter 196: Corrections",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38074",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 100,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38074",
+     "sha256": "9c19d20e40c3bb280991221c8258426df64a2da6b85b911139aa010f0b697fcb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-197",
+   "short": "KRS ch. 197",
+   "title": "Kentucky Revised Statutes, Chapter 197: Penitentiaries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38079",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 59,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38079",
+     "sha256": "f3b0e0339543e62a2a3c16e9d9065cd9581710520664077585cb4daee97b0e73"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-198a",
+   "short": "KRS ch. 198A",
+   "title": "Kentucky Revised Statutes, Chapter 198A: Low-Cost Housing",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38084",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 48,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38084",
+     "sha256": "7496f2f9ac05018c67b471d5d0f6cc9a10059207b1249b6a6159e887589629f5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-199",
+   "short": "KRS ch. 199",
+   "title": "Kentucky Revised Statutes, Chapter 199: Protective Services For Children -- Adoption -- Child Care",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38096",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 183,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38096",
+     "sha256": "fd26d96fa08b0433efb58edc90a76fb4baa4e6c5174eaabc7dcf638c645c8201"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-200",
+   "short": "KRS ch. 200",
+   "title": "Kentucky Revised Statutes, Chapter 200: Assistance To Children",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38109",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 89,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38109",
+     "sha256": "e76157b32684a44ff260f17bd8696d0dadf1587436f5a23e9fb095e1fa1e9bfc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-205",
+   "short": "KRS ch. 205",
+   "title": "Kentucky Revised Statutes, Chapter 205: Public Assistance And Medical Assistance",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38124",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 338,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38124",
+     "sha256": "17ccf44750fe575b18e0f9bbb168e1274a4a408d8decda3575699aab25b89d06"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-207",
+   "short": "KRS ch. 207",
+   "title": "Kentucky Revised Statutes, Chapter 207: Aid To The Needy Blind -- Equal Opportunities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38141",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38141",
+     "sha256": "7bbbb51902a18edb0fea5c02d14fa300afe971f6c574d2547fe780f2e787a0b9"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-209",
+   "short": "KRS ch. 209",
+   "title": "Kentucky Revised Statutes, Chapter 209: Protection Of Adults",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38151",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 33,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38151",
+     "sha256": "60983e6ac1503030480fbf9101948539a72cb6614cb5096ca9d001e3729c9bcb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-210",
+   "short": "KRS ch. 210",
+   "title": "Kentucky Revised Statutes, Chapter 210: State And Regional Mental Health Programs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38158",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 116,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38158",
+     "sha256": "8d17670d274518d37e25db0591ac4c14a59c1ec55fe5a6a020001342c36ea8ec"
+    }
+   ]
   }
  ]
 }

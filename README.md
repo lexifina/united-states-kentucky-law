@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 240 chapters (`krs-chapter-*/`), 17217 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 252 chapters (`krs-chapter-*/`), 18439 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -196,15 +196,27 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-187/` | Kentucky Revised Statutes, Chapter 187: Financial Responsibility Law | 66 | 2017-06-29 |
 | `krs-chapter-188/` | Kentucky Revised Statutes, Chapter 188: Service Of Process On Nonresident Motorists | 7 | 1988-07-15 |
 | `krs-chapter-189/` | Kentucky Revised Statutes, Chapter 189: Traffic Regulations -- Vehicle Equipment And Storage | 211 | 2026-07-15 |
+| `krs-chapter-189a/` | Kentucky Revised Statutes, Chapter 189A: Driving Under The Influence | 45 | 2026-07-15 |
+| `krs-chapter-190/` | Kentucky Revised Statutes, Chapter 190: Motor Vehicle Sales -- Recyclers | 69 | 2026-07-15 |
 | `krs-chapter-190a/` | Kentucky Revised Statutes, Chapter 190A: Recreational Vehicle Sales | 14 | 2026-04-14 |
 | `krs-chapter-194/` | Kentucky Revised Statutes, Chapter 194: Human Resources | 48 | 2020-07-15 |
+| `krs-chapter-194a/` | Kentucky Revised Statutes, Chapter 194A: Cabinet For Health And Family Services | 114 | 2026-07-15 |
 | `krs-chapter-195/` | Kentucky Revised Statutes, Chapter 195: Manpower Services | 22 | 2005-06-20 |
+| `krs-chapter-196/` | Kentucky Revised Statutes, Chapter 196: Corrections | 100 | 2026-07-15 |
+| `krs-chapter-197/` | Kentucky Revised Statutes, Chapter 197: Penitentiaries | 59 | 2026-07-15 |
+| `krs-chapter-198a/` | Kentucky Revised Statutes, Chapter 198A: Low-Cost Housing | 48 | 2026-04-14 |
 | `krs-chapter-198b/` | Kentucky Revised Statutes, Chapter 198B: Housing, Buildings, And Construction -- Building Code | 145 | 2026-07-15 |
+| `krs-chapter-199/` | Kentucky Revised Statutes, Chapter 199: Protective Services For Children -- Adoption -- Child Care | 183 | 2026-07-15 |
+| `krs-chapter-200/` | Kentucky Revised Statutes, Chapter 200: Assistance To Children | 89 | 2026-07-15 |
 | `krs-chapter-201/` | Kentucky Revised Statutes, Chapter 201: Jefferson County Children'S Home | 22 | 1987-07-01 |
 | `krs-chapter-202a/` | Kentucky Revised Statutes, Chapter 202A: Hospitalization Of Individuals With A Mental Illness | 93 | 2026-10-01 |
 | `krs-chapter-202b/` | Kentucky Revised Statutes, Chapter 202B: Admission Of An Individual With An Intellectual Disability | 36 | 2013-06-25 |
 | `krs-chapter-202c/` | Kentucky Revised Statutes, Chapter 202C: Involuntary Commitment Proceedings | 17 | 2026-10-01 |
+| `krs-chapter-205/` | Kentucky Revised Statutes, Chapter 205: Public Assistance And Medical Assistance | 338 | 2026-07-15 |
+| `krs-chapter-207/` | Kentucky Revised Statutes, Chapter 207: Aid To The Needy Blind -- Equal Opportunities | 28 | 2024-07-01 |
+| `krs-chapter-209/` | Kentucky Revised Statutes, Chapter 209: Protection Of Adults | 33 | 2026-04-10 |
 | `krs-chapter-209a/` | Kentucky Revised Statutes, Chapter 209A: Spousal Abuse Or Neglect | 14 | 2026-07-15 |
+| `krs-chapter-210/` | Kentucky Revised Statutes, Chapter 210: State And Regional Mental Health Programs | 116 | 2026-07-15 |
 | `krs-chapter-213/` | Kentucky Revised Statutes, Chapter 213: Vital Statistics | 76 | 2025-06-27 |
 | `krs-chapter-215/` | Kentucky Revised Statutes, Chapter 215: Tuberculosis | 88 | 2005-06-20 |
 | `krs-chapter-216b/` | Kentucky Revised Statutes, Chapter 216B: Licensure And Regulation Of Health Facilities And Services | 102 | 2026-07-15 |
