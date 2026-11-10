@@ -2604,6 +2604,202 @@
      "sha256": "0379b6c7eb18524469bf7b93a621d603a90a245f137d13b4821e4c2f4db90180"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-081",
+   "short": "KRS ch. 81",
+   "title": "Kentucky Revised Statutes, Chapter 81: City Classification, Boundaries, And Alternative Method Of Consolidating Governmental Services",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37443",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 62,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37443",
+     "sha256": "87f7f8934f85fa8dc3833e80088a308ff298eb62c217f75093c96f74ee6168b8"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-081a",
+   "short": "KRS ch. 81A",
+   "title": "Kentucky Revised Statutes, Chapter 81A: Annexation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37451",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37451",
+     "sha256": "9d99ae59a45f6ae644a6cd64a6332c180e7733bff192d98ea188d3e5492f1428"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-082",
+   "short": "KRS ch. 82",
+   "title": "Kentucky Revised Statutes, Chapter 82: General Provisions Applicable To Cities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37452",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 69,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37452",
+     "sha256": "f5c13de5185ca96fc281a300b256ab5bd09a17b0850c3f03591ed8aaca713e2f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-083",
+   "short": "KRS ch. 83",
+   "title": "Kentucky Revised Statutes, Chapter 83: Organization And Government Of Cities Of The First Class",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37459",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 72,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37459",
+     "sha256": "5e38d0968f26c0438dce6478947a063ca740b9ff903fd18f88458686f843150f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-090",
+   "short": "KRS ch. 90",
+   "title": "Kentucky Revised Statutes, Chapter 90: City Civil Service",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37468",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 38,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37468",
+     "sha256": "160a9c736c2931cdb22cf112d940d0725c359ea29de7aa6c14b6f0cb4366daf3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-091a",
+   "short": "KRS ch. 91A",
+   "title": "Kentucky Revised Statutes, Chapter 91A: Finance And Revenue Of Cities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37478",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 50,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37478",
+     "sha256": "53bbfae47a29adfe8492fbe3112dda4dc39ef8552a60dea0ee7df988f031dfd3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-094",
+   "short": "KRS ch. 94",
+   "title": "Kentucky Revised Statutes, Chapter 94: Public Works In Cities Other Than The First Class",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37493",
+   "versions": [
+    {
+     "from": "1992-07-14",
+     "units": 128,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37493",
+     "sha256": "7212877ddf402e39445594b845390d925d23765314c2129ebea39e94720875b3"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-095",
+   "short": "KRS ch. 95",
+   "title": "Kentucky Revised Statutes, Chapter 95: City Police And Fire Departments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37496",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 197,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37496",
+     "sha256": "cb5d5d7014fc0a8f6c20a485a043d13e840949dc87c405ad3fb396a5c6be5135"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-096",
+   "short": "KRS ch. 96",
+   "title": "Kentucky Revised Statutes, Chapter 96: Utilities In Cities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37513",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 161,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37513",
+     "sha256": "ada50595853afdd270a7c49c32207bba3f6abd9b2972176b2c5ab80be2f79354"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-096a",
+   "short": "KRS ch. 96A",
+   "title": "Kentucky Revised Statutes, Chapter 96A: Mass Transit Authorities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37530",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 32,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37530",
+     "sha256": "109db4a792e29c07c281b1e222cb32728996c9a42ef5de007b7ae51b5deff058"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-097",
+   "short": "KRS ch. 97",
+   "title": "Kentucky Revised Statutes, Chapter 97: Parks, Playgrounds, And Recreation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37532",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 104,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37532",
+     "sha256": "d5b548d0a37004fae7d12feff10ef1c1183933f3f180d1f4193feaca85de7103"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-098",
+   "short": "KRS ch. 98",
+   "title": "Kentucky Revised Statutes, Chapter 98: Health And Welfare In Cities Of The First Class And In Counties Containing Such Cities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37533",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 43,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37533",
+     "sha256": "3743e49ac8abb85d3640f91850112da9a4a6e545ac974aac27c59beb1cb4898f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-099",
+   "short": "KRS ch. 99",
+   "title": "Kentucky Revised Statutes, Chapter 99: Urban Renewal And Redevelopment",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37534",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 113,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37534",
+     "sha256": "074fd407bd885c9d82eddff9686296161c0db95ec79f2cf815f39694c63fbfd5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-100",
+   "short": "KRS ch. 100",
+   "title": "Kentucky Revised Statutes, Chapter 100: Planning And Zoning",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37543",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 293,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37543",
+     "sha256": "abb851e20a23eea0d335bd8fe99e7091bd6bdf191aa2e094bf1a1847fd472944"
+    }
+   ]
   }
  ]
 }

@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 164 chapters (`krs-chapter-*/`), 8997 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 178 chapters (`krs-chapter-*/`), 10393 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -97,10 +97,24 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-078/` | Kentucky Revised Statutes, Chapter 78: County Police And County Employees Retirement System | 137 | 2026-07-15 |
 | `krs-chapter-079/` | Kentucky Revised Statutes, Chapter 79: Intercity, Intercounty, And City-County Compacts For Purchasing And Merit Systems -- Retirement And Disability Plans For Employees Of Counties And Cities | 25 | 2019-06-27 |
 | `krs-chapter-080/` | Kentucky Revised Statutes, Chapter 80: Low-Cost Housing | 132 | 2019-06-27 |
+| `krs-chapter-081/` | Kentucky Revised Statutes, Chapter 81: City Classification, Boundaries, And Alternative Method Of Consolidating Governmental Services | 62 | 2022-07-14 |
+| `krs-chapter-081a/` | Kentucky Revised Statutes, Chapter 81A: Annexation | 34 | 2024-07-15 |
+| `krs-chapter-082/` | Kentucky Revised Statutes, Chapter 82: General Provisions Applicable To Cities | 69 | 2026-07-15 |
+| `krs-chapter-083/` | Kentucky Revised Statutes, Chapter 83: Organization And Government Of Cities Of The First Class | 72 | 2010-07-15 |
 | `krs-chapter-083a/` | Kentucky Revised Statutes, Chapter 83A: Organization Of Government In Cities | 30 | 2026-07-15 |
+| `krs-chapter-090/` | Kentucky Revised Statutes, Chapter 90: City Civil Service | 38 | 2022-07-14 |
+| `krs-chapter-091a/` | Kentucky Revised Statutes, Chapter 91A: Finance And Revenue Of Cities | 50 | 2026-07-15 |
 | `krs-chapter-092/` | Kentucky Revised Statutes, Chapter 92: Finance And Revenue Of Cities Other Than The First Class | 95 | 2026-07-15 |
+| `krs-chapter-094/` | Kentucky Revised Statutes, Chapter 94: Public Works In Cities Other Than The First Class | 128 | 1992-07-14 |
+| `krs-chapter-095/` | Kentucky Revised Statutes, Chapter 95: City Police And Fire Departments | 197 | 2026-07-15 |
 | `krs-chapter-095a/` | Kentucky Revised Statutes, Chapter 95A: Fire Protection Personnel | 42 | 2026-07-15 |
+| `krs-chapter-096/` | Kentucky Revised Statutes, Chapter 96: Utilities In Cities | 161 | 2026-07-15 |
+| `krs-chapter-096a/` | Kentucky Revised Statutes, Chapter 96A: Mass Transit Authorities | 32 | 2022-07-01 |
+| `krs-chapter-097/` | Kentucky Revised Statutes, Chapter 97: Parks, Playgrounds, And Recreation | 104 | 2016-07-15 |
+| `krs-chapter-098/` | Kentucky Revised Statutes, Chapter 98: Health And Welfare In Cities Of The First Class And In Counties Containing Such Cities | 43 | 2007-01-01 |
+| `krs-chapter-099/` | Kentucky Revised Statutes, Chapter 99: Urban Renewal And Redevelopment | 113 | 2026-07-15 |
 | `krs-chapter-099a/` | Kentucky Revised Statutes, Chapter 99A: Neighborhood Redevelopment | 10 | 2010-07-15 |
+| `krs-chapter-100/` | Kentucky Revised Statutes, Chapter 100: Planning And Zoning | 293 | 2026-07-15 |
 | `krs-chapter-116/` | Kentucky Revised Statutes, Chapter 116: Voter Registration | 53 | 2026-07-15 |
 | `krs-chapter-117a/` | Kentucky Revised Statutes, Chapter 117A: Uniform Military And Overseas Voters Act | 20 | 2024-04-27 |
 | `krs-chapter-118a/` | Kentucky Revised Statutes, Chapter 118A: Election Of Judges | 23 | 2026-07-15 |
