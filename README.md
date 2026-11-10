@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 283 chapters (`krs-chapter-*/`), 21976 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 301 chapters (`krs-chapter-*/`), 23357 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -258,6 +258,24 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-247/` | Kentucky Revised Statutes, Chapter 247: Promotion Of Agriculture And Horticulture | 330 | 2026-07-15 |
 | `krs-chapter-248/` | Kentucky Revised Statutes, Chapter 248: Tobacco | 99 | 2026-07-15 |
 | `krs-chapter-249/` | Kentucky Revised Statutes, Chapter 249: Trees, Plants, Weeds, And Pests | 79 | 2022-07-14 |
+| `krs-chapter-250/` | Kentucky Revised Statutes, Chapter 250: Agricultural Seeds, Feeding Stuffs, And Fertilizers | 143 | 2020-02-10 |
+| `krs-chapter-251/` | Kentucky Revised Statutes, Chapter 251: Grain Warehouses | 80 | 2026-07-15 |
+| `krs-chapter-252/` | Kentucky Revised Statutes, Chapter 252: Apiaries | 27 | 2008-07-15 |
+| `krs-chapter-253/` | Kentucky Revised Statutes, Chapter 253: Marks And Brands Of Livestock | 14 | 2017-06-29 |
+| `krs-chapter-256/` | Kentucky Revised Statutes, Chapter 256: Fences | 20 | 2017-06-29 |
+| `krs-chapter-257/` | Kentucky Revised Statutes, Chapter 257: Livestock And Poultry Disease Control | 70 | 2026-07-15 |
+| `krs-chapter-258/` | Kentucky Revised Statutes, Chapter 258: Animal Control And Protection | 96 | 2026-07-15 |
+| `krs-chapter-259/` | Kentucky Revised Statutes, Chapter 259: Strays And Animals Running At Large | 23 | 2026-07-15 |
+| `krs-chapter-260/` | Kentucky Revised Statutes, Chapter 260: Marketing Of Agricultural Products | 166 | 2026-07-15 |
+| `krs-chapter-261/` | Kentucky Revised Statutes, Chapter 261: Stockyards | 33 | 2017-06-29 |
+| `krs-chapter-262/` | Kentucky Revised Statutes, Chapter 262: Soil And Water Conservation | 120 | 2026-04-13 |
+| `krs-chapter-266/` | Kentucky Revised Statutes, Chapter 266: Levees | 23 | 2013-03-21 |
+| `krs-chapter-267/` | Kentucky Revised Statutes, Chapter 267: Drainage And Reclamation Act Of 1912 | 60 | 2019-06-27 |
+| `krs-chapter-268/` | Kentucky Revised Statutes, Chapter 268: Drainage And Reclamation Act Of 1918 | 68 | 2013-03-21 |
+| `krs-chapter-269/` | Kentucky Revised Statutes, Chapter 269: Miscellaneous Provisions As To Ditches, Drainage, And Reclamation | 28 | 2013-03-21 |
+| `krs-chapter-271b/` | Kentucky Revised Statutes, Chapter 271B: Business Corporations | 197 | 2017-06-29 |
+| `krs-chapter-272/` | Kentucky Revised Statutes, Chapter 272: Cooperative Corporations And Associations | 90 | 2019-06-27 |
+| `krs-chapter-272a/` | Kentucky Revised Statutes, Chapter 272A: Kentucky Uniform Limited Cooperative Association Act | 123 | 2017-06-29 |
 | `krs-chapter-275/` | Kentucky Revised Statutes, Chapter 275: Limited Liability Companies | 110 | 2026-10-29 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |

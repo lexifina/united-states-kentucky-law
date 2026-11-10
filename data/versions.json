@@ -4270,6 +4270,258 @@
      "sha256": "0e02be9064a28f855648967e336ed81adfe67b388477c2fceaabc95f7916249c"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-250",
+   "short": "KRS ch. 250",
+   "title": "Kentucky Revised Statutes, Chapter 250: Agricultural Seeds, Feeding Stuffs, And Fertilizers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38453",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 143,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38453",
+     "sha256": "3247a0a4824583929fd1c9235301b2cd5e79ae8d8f77766dcab6d9fc3083408c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-251",
+   "short": "KRS ch. 251",
+   "title": "Kentucky Revised Statutes, Chapter 251: Grain Warehouses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38461",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 80,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38461",
+     "sha256": "08a58f4063bcc52be448f0d505e44502545426791b6c4b8690fd92e4be8e5403"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-252",
+   "short": "KRS ch. 252",
+   "title": "Kentucky Revised Statutes, Chapter 252: Apiaries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38465",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 27,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38465",
+     "sha256": "1e85051e6cc63b39f04751e8e1153a6a04d895a5688fe94cd1193a6288965b3d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-253",
+   "short": "KRS ch. 253",
+   "title": "Kentucky Revised Statutes, Chapter 253: Marks And Brands Of Livestock",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38466",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38466",
+     "sha256": "8d669b94d9edc73593a0996b33781c6bfd0ac4286fd9ab2a407e77720bb7dab4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-256",
+   "short": "KRS ch. 256",
+   "title": "Kentucky Revised Statutes, Chapter 256: Fences",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38469",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38469",
+     "sha256": "6553e29a8669b81a3536901d9fcc4bd96f9e3d1c53be64ac6ed167d13e2af44b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-257",
+   "short": "KRS ch. 257",
+   "title": "Kentucky Revised Statutes, Chapter 257: Livestock And Poultry Disease Control",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38470",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 70,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38470",
+     "sha256": "9fc635d49c7338f146d0d59492f28b15c15e6b2bf726c9f8f11d2d50e69be08f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-258",
+   "short": "KRS ch. 258",
+   "title": "Kentucky Revised Statutes, Chapter 258: Animal Control And Protection",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38481",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 96,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38481",
+     "sha256": "883d4ffc2aee0bd2990609ed2a9779452de0b5b7d2f63a6ba4d191bfb5473df5"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-259",
+   "short": "KRS ch. 259",
+   "title": "Kentucky Revised Statutes, Chapter 259: Strays And Animals Running At Large",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38483",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 23,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38483",
+     "sha256": "a2dc1f21e7763d16b4b60896d2b6b8d38b4a338bc07adb890782ce75da868356"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-260",
+   "short": "KRS ch. 260",
+   "title": "Kentucky Revised Statutes, Chapter 260: Marketing Of Agricultural Products",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38484",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 166,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38484",
+     "sha256": "16f5a24ca865ec2ed092bebd17f79c3d8eaf29fafd6cd2ea9427515bb3f2ee2f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-261",
+   "short": "KRS ch. 261",
+   "title": "Kentucky Revised Statutes, Chapter 261: Stockyards",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38497",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 33,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38497",
+     "sha256": "b7519cdff65e9fcf1b142766871674500682a7d62667618b4a473db7b19e1a89"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-262",
+   "short": "KRS ch. 262",
+   "title": "Kentucky Revised Statutes, Chapter 262: Soil And Water Conservation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38498",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 120,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38498",
+     "sha256": "32267fe4b91a9c3dba76f02e0c29fbced200ddefe024455c1707f0e1bc3879cc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-266",
+   "short": "KRS ch. 266",
+   "title": "Kentucky Revised Statutes, Chapter 266: Levees",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38509",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 23,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38509",
+     "sha256": "c9967d058cc701656ceb54e28601d064b26d109878d65a22747628f8f5cf3848"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-267",
+   "short": "KRS ch. 267",
+   "title": "Kentucky Revised Statutes, Chapter 267: Drainage And Reclamation Act Of 1912",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38510",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 60,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38510",
+     "sha256": "e7de8e7fcb70d15d233ed4dcf230cbf17e773f67b0a414d3d80035e17bb3bec4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-268",
+   "short": "KRS ch. 268",
+   "title": "Kentucky Revised Statutes, Chapter 268: Drainage And Reclamation Act Of 1918",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38511",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 68,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38511",
+     "sha256": "bf06c98408520e8433c85e5a6debd6f190b28e8d2414ed0aec5ba017a671d8ce"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-269",
+   "short": "KRS ch. 269",
+   "title": "Kentucky Revised Statutes, Chapter 269: Miscellaneous Provisions As To Ditches, Drainage, And Reclamation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38512",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38512",
+     "sha256": "3ebf6f8c51ea3781be65215ed3568501ce3daa3958465c6c72f03b0147589e10"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-271b",
+   "short": "KRS ch. 271B",
+   "title": "Kentucky Revised Statutes, Chapter 271B: Business Corporations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38517",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 197,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38517",
+     "sha256": "58bb1c4a9463d44c01d25c812b98784cbff9352677305ce290db5a36bb68a1df"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-272",
+   "short": "KRS ch. 272",
+   "title": "Kentucky Revised Statutes, Chapter 272: Cooperative Corporations And Associations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38566",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 90,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38566",
+     "sha256": "92daaca43c2966132953272070d2fb7088a66a91991f33b561a36afcd9942379"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-272a",
+   "short": "KRS ch. 272A",
+   "title": "Kentucky Revised Statutes, Chapter 272A: Kentucky Uniform Limited Cooperative Association Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=41151",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 123,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=41151",
+     "sha256": "cf4c35bade265b7b005b01b7884c5881680396178342e5a7b153e6aef3e52158"
+    }
+   ]
   }
  ]
 }
