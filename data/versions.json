@@ -2800,6 +2800,272 @@
      "sha256": "abb851e20a23eea0d335bd8fe99e7091bd6bdf191aa2e094bf1a1847fd472944"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-102",
+   "short": "KRS ch. 102",
+   "title": "Kentucky Revised Statutes, Chapter 102: Chambers Of Commerce",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37559",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37559",
+     "sha256": "2aa01e56c15ba2650c377073950b257edd6872418e345b9daf6d3a00425e5031"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-103",
+   "short": "KRS ch. 103",
+   "title": "Kentucky Revised Statutes, Chapter 103: Revenue Bonds For Miscellaneous City Or County Projects",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37560",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 52,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37560",
+     "sha256": "5531d8c918ed5f1ecdb144dd44768338570d83873bd480b2f5ed2ab3c3dc8bda"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-104",
+   "short": "KRS ch. 104",
+   "title": "Kentucky Revised Statutes, Chapter 104: Flood Control And Water Usage",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37563",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 76,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37563",
+     "sha256": "868148c51c0e02bb8a11336162499a62c9ac648072c6a2f54a5e4dc06ce8fc33"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-106",
+   "short": "KRS ch. 106",
+   "title": "Kentucky Revised Statutes, Chapter 106: Acquisition Of Waterworks By Cities And Water Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37568",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 27,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37568",
+     "sha256": "c8cf5ece4fede9ea96e27ea2e84a4735bf2a2c4394f9a251c60d735663e1c11d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-107",
+   "short": "KRS ch. 107",
+   "title": "Kentucky Revised Statutes, Chapter 107: Municipal Improvements -- Alternate Methods",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37569",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 57,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37569",
+     "sha256": "d43d7cc3762d3fa47387e59a44c48c08bda07f6122f0c2d5964589f7303c8723"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-108",
+   "short": "KRS ch. 108",
+   "title": "Kentucky Revised Statutes, Chapter 108: Urban Services Districts -- Ambulance Service Districts",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37573",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 24,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37573",
+     "sha256": "c08aa3256f349620eaffb96e6687396db92f00504192e2d833e967c0a3df396f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-109",
+   "short": "KRS ch. 109",
+   "title": "Kentucky Revised Statutes, Chapter 109: Local Solid Waste Management",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37576",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 48,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37576",
+     "sha256": "b5bb20813921a4b5b771b6e9e7bd6b1b41e50f47ba7394ef6401d3985112f9ff"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-117",
+   "short": "KRS ch. 117",
+   "title": "Kentucky Revised Statutes, Chapter 117: Regulation Of Elections",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37581",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 225,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37581",
+     "sha256": "8347441de01dd272fc0d931bc7173fd061577ecc324c77281876029f6b3e3965"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-118",
+   "short": "KRS ch. 118",
+   "title": "Kentucky Revised Statutes, Chapter 118: Conduct Of Elections",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37589",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 135,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37589",
+     "sha256": "6376e1867d429912d266a7b699bb6ac41d033c76bf800095311a6c9551fe9a57"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-119",
+   "short": "KRS ch. 119",
+   "title": "Kentucky Revised Statutes, Chapter 119: Election Offenses And Prosecutions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37600",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 82,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37600",
+     "sha256": "e0d7696f2abac929c1267fa0f5aa6db33da27feb7495ebbc093085e0ca90117f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-120",
+   "short": "KRS ch. 120",
+   "title": "Kentucky Revised Statutes, Chapter 120: Election Contests",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37601",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 44,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37601",
+     "sha256": "f4d5fedaaf85a6533bb73b6e2fa9a9a89abe37492e558581b381404b19799b42"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-121",
+   "short": "KRS ch. 121",
+   "title": "Kentucky Revised Statutes, Chapter 121: Campaign Finance Regulation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37608",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 41,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37608",
+     "sha256": "d5b9c7c59d2d9eab2da07bddeaedd69ae73e47797591d168bf69d204c2c17adc"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-131",
+   "short": "KRS ch. 131",
+   "title": "Kentucky Revised Statutes, Chapter 131: Department Of Revenue",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37623",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 114,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37623",
+     "sha256": "c9035e782636e5aa6618fe8684b403b689ffdf572965f61ccbb41c3a56d2fe58"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-132",
+   "short": "KRS ch. 132",
+   "title": "Kentucky Revised Statutes, Chapter 132: Levy And Assessment Of Property Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37635",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 138,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37635",
+     "sha256": "19cf87d09f20445049194fe9147f9ac02756938a693b6c72099f9ef67a6cb65e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-133",
+   "short": "KRS ch. 133",
+   "title": "Kentucky Revised Statutes, Chapter 133: Supervision, Equalization, And Review Of Assessments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37637",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 36,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37637",
+     "sha256": "8f5180fe38f4e2c33172b8fcffb1d59879d89c7a6150a7827f75c84a1b26d120"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-134",
+   "short": "KRS ch. 134",
+   "title": "Kentucky Revised Statutes, Chapter 134: Payment, Collection, And Refund Of Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37639",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 106,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37639",
+     "sha256": "f0079d7439d52bdff6421e34510ab83bb9e1d2b6a9b2f8c273efc591db403b6f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-135",
+   "short": "KRS ch. 135",
+   "title": "Kentucky Revised Statutes, Chapter 135: Collection Of Public Claims By Action",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37642",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37642",
+     "sha256": "35333a774ecc885af7e73f2c5a8aec01a1c45750a22b48742880e08834a82f60"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-136",
+   "short": "KRS ch. 136",
+   "title": "Kentucky Revised Statutes, Chapter 136: Corporation And Utility Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37644",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 132,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37644",
+     "sha256": "bcd149a64e825c0853794f6a24c1d95b8417206dff0e71862dbc609c6cec497a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-138",
+   "short": "KRS ch. 138",
+   "title": "Kentucky Revised Statutes, Chapter 138: Excise Taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37651",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 186,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37651",
+     "sha256": "3d71e97b604753eebd6892de1e014c259139fac49accfd20bec24203858eca41"
+    }
+   ]
   }
  ]
 }

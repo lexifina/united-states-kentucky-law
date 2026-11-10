@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 178 chapters (`krs-chapter-*/`), 10393 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 197 chapters (`krs-chapter-*/`), 11945 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -115,11 +115,30 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-099/` | Kentucky Revised Statutes, Chapter 99: Urban Renewal And Redevelopment | 113 | 2026-07-15 |
 | `krs-chapter-099a/` | Kentucky Revised Statutes, Chapter 99A: Neighborhood Redevelopment | 10 | 2010-07-15 |
 | `krs-chapter-100/` | Kentucky Revised Statutes, Chapter 100: Planning And Zoning | 293 | 2026-07-15 |
+| `krs-chapter-102/` | Kentucky Revised Statutes, Chapter 102: Chambers Of Commerce | 9 | 2015-01-01 |
+| `krs-chapter-103/` | Kentucky Revised Statutes, Chapter 103: Revenue Bonds For Miscellaneous City Or County Projects | 52 | 2025-03-27 |
+| `krs-chapter-104/` | Kentucky Revised Statutes, Chapter 104: Flood Control And Water Usage | 76 | 2015-01-01 |
+| `krs-chapter-106/` | Kentucky Revised Statutes, Chapter 106: Acquisition Of Waterworks By Cities And Water Districts | 27 | 2015-01-01 |
+| `krs-chapter-107/` | Kentucky Revised Statutes, Chapter 107: Municipal Improvements -- Alternate Methods | 57 | 2019-06-27 |
+| `krs-chapter-108/` | Kentucky Revised Statutes, Chapter 108: Urban Services Districts -- Ambulance Service Districts | 24 | 2015-01-01 |
+| `krs-chapter-109/` | Kentucky Revised Statutes, Chapter 109: Local Solid Waste Management | 48 | 2026-04-10 |
 | `krs-chapter-116/` | Kentucky Revised Statutes, Chapter 116: Voter Registration | 53 | 2026-07-15 |
+| `krs-chapter-117/` | Kentucky Revised Statutes, Chapter 117: Regulation Of Elections | 225 | 2026-07-15 |
 | `krs-chapter-117a/` | Kentucky Revised Statutes, Chapter 117A: Uniform Military And Overseas Voters Act | 20 | 2024-04-27 |
+| `krs-chapter-118/` | Kentucky Revised Statutes, Chapter 118: Conduct Of Elections | 135 | 2026-07-15 |
 | `krs-chapter-118a/` | Kentucky Revised Statutes, Chapter 118A: Election Of Judges | 23 | 2026-07-15 |
 | `krs-chapter-118b/` | Kentucky Revised Statutes, Chapter 118B: Districts For United States House Of Representatives | 8 | 2022-01-20 |
+| `krs-chapter-119/` | Kentucky Revised Statutes, Chapter 119: Election Offenses And Prosecutions | 82 | 2026-04-14 |
+| `krs-chapter-120/` | Kentucky Revised Statutes, Chapter 120: Election Contests | 44 | 2026-07-15 |
+| `krs-chapter-121/` | Kentucky Revised Statutes, Chapter 121: Campaign Finance Regulation | 41 | 2026-07-15 |
+| `krs-chapter-131/` | Kentucky Revised Statutes, Chapter 131: Department Of Revenue | 114 | 2026-07-15 |
+| `krs-chapter-132/` | Kentucky Revised Statutes, Chapter 132: Levy And Assessment Of Property Taxes | 138 | 2026-07-15 |
+| `krs-chapter-133/` | Kentucky Revised Statutes, Chapter 133: Supervision, Equalization, And Review Of Assessments | 36 | 2026-07-15 |
+| `krs-chapter-134/` | Kentucky Revised Statutes, Chapter 134: Payment, Collection, And Refund Of Taxes | 106 | 2026-07-15 |
+| `krs-chapter-135/` | Kentucky Revised Statutes, Chapter 135: Collection Of Public Claims By Action | 20 | 2010-01-01 |
+| `krs-chapter-136/` | Kentucky Revised Statutes, Chapter 136: Corporation And Utility Taxes | 132 | 2025-06-27 |
 | `krs-chapter-137/` | Kentucky Revised Statutes, Chapter 137: License Taxes | 44 | 2024-07-01 |
+| `krs-chapter-138/` | Kentucky Revised Statutes, Chapter 138: Excise Taxes | 186 | 2026-08-01 |
 | `krs-chapter-141/` | Kentucky Revised Statutes, Chapter 141: Income Taxes | 194 | 2026-07-15 |
 | `krs-chapter-143/` | Kentucky Revised Statutes, Chapter 143: Coal Tax | 19 | 2026-07-15 |
 | `krs-chapter-143a/` | Kentucky Revised Statutes, Chapter 143A: Natural Resources Severance And Processing Taxes | 21 | 2026-07-15 |
