@@ -1,0 +1,61 @@
+# Kentucky Revised Statutes, Chapter 279: Rural Electric And Rural Telephone Cooperative Corporations
+
+KRS ch. 279 · 1 versions, from 2011-01-01 (latest in force: 2011-01-01) · <https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38597>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| KRS 279.010 | [sec-279-010.md](sec-279-010.md) | 0 |  |
+| KRS 279.020 | [sec-279-020.md](sec-279-020.md) | 0 |  |
+| KRS 279.030 | [sec-279-030.md](sec-279-030.md) | 0 |  |
+| KRS 279.040 | [sec-279-040.md](sec-279-040.md) | 0 |  |
+| KRS 279.050 | [sec-279-050.md](sec-279-050.md) | 0 |  |
+| KRS 279.060 | [sec-279-060.md](sec-279-060.md) | 0 |  |
+| KRS 279.070 | [sec-279-070.md](sec-279-070.md) | 0 |  |
+| KRS 279.080 | [sec-279-080.md](sec-279-080.md) | 0 |  |
+| KRS 279.090 | [sec-279-090.md](sec-279-090.md) | 0 |  |
+| KRS 279.095 | [sec-279-095.md](sec-279-095.md) | 0 |  |
+| KRS 279.100 | [sec-279-100.md](sec-279-100.md) | 0 |  |
+| KRS 279.110 | [sec-279-110.md](sec-279-110.md) | 0 |  |
+| KRS 279.120 | [sec-279-120.md](sec-279-120.md) | 0 |  |
+| KRS 279.125 | [sec-279-125.md](sec-279-125.md) | 0 |  |
+| KRS 279.130 | [sec-279-130.md](sec-279-130.md) | 0 |  |
+| KRS 279.140 | [sec-279-140.md](sec-279-140.md) | 0 |  |
+| KRS 279.150 | [sec-279-150.md](sec-279-150.md) | 0 |  |
+| KRS 279.160 | [sec-279-160.md](sec-279-160.md) | 0 |  |
+| KRS 279.170 | [sec-279-170.md](sec-279-170.md) | 0 |  |
+| KRS 279.180 | [sec-279-180.md](sec-279-180.md) | 0 |  |
+| KRS 279.190 | [sec-279-190.md](sec-279-190.md) | 0 |  |
+| KRS 279.200 | [sec-279-200.md](sec-279-200.md) | 0 |  |
+| KRS 279.210 | [sec-279-210.md](sec-279-210.md) | 0 |  |
+| KRS 279.220 | [sec-279-220.md](sec-279-220.md) | 0 |  |
+| KRS 279.310 | [sec-279-310.md](sec-279-310.md) | 0 |  |
+| KRS 279.320 | [sec-279-320.md](sec-279-320.md) | 0 |  |
+| KRS 279.330 | [sec-279-330.md](sec-279-330.md) | 0 |  |
+| KRS 279.340 | [sec-279-340.md](sec-279-340.md) | 0 |  |
+| KRS 279.350 | [sec-279-350.md](sec-279-350.md) | 0 |  |
+| KRS 279.360 | [sec-279-360.md](sec-279-360.md) | 0 |  |
+| KRS 279.370 | [sec-279-370.md](sec-279-370.md) | 0 |  |
+| KRS 279.380 | [sec-279-380.md](sec-279-380.md) | 0 |  |
+| KRS 279.390 | [sec-279-390.md](sec-279-390.md) | 0 |  |
+| KRS 279.400 | [sec-279-400.md](sec-279-400.md) | 0 |  |
+| KRS 279.410 | [sec-279-410.md](sec-279-410.md) | 0 |  |
+| KRS 279.420 | [sec-279-420.md](sec-279-420.md) | 0 |  |
+| KRS 279.430 | [sec-279-430.md](sec-279-430.md) | 0 |  |
+| KRS 279.440 | [sec-279-440.md](sec-279-440.md) | 0 |  |
+| KRS 279.450 | [sec-279-450.md](sec-279-450.md) | 0 |  |
+| KRS 279.460 | [sec-279-460.md](sec-279-460.md) | 0 |  |
+| KRS 279.470 | [sec-279-470.md](sec-279-470.md) | 0 |  |
+| KRS 279.480 | [sec-279-480.md](sec-279-480.md) | 0 |  |
+| KRS 279.490 | [sec-279-490.md](sec-279-490.md) | 0 |  |
+| KRS 279.500 | [sec-279-500.md](sec-279-500.md) | 0 |  |
+| KRS 279.510 | [sec-279-510.md](sec-279-510.md) | 0 |  |
+| KRS 279.520 | [sec-279-520.md](sec-279-520.md) | 0 |  |
+| KRS 279.530 | [sec-279-530.md](sec-279-530.md) | 0 |  |
+| KRS 279.540 | [sec-279-540.md](sec-279-540.md) | 0 |  |
+| KRS 279.550 | [sec-279-550.md](sec-279-550.md) | 0 |  |
+| KRS 279.560 | [sec-279-560.md](sec-279-560.md) | 0 |  |
+| KRS 279.570 | [sec-279-570.md](sec-279-570.md) | 0 |  |
+| KRS 279.580 | [sec-279-580.md](sec-279-580.md) | 0 |  |
+| KRS 279.590 | [sec-279-590.md](sec-279-590.md) | 0 |  |
+| KRS 279.600 | [sec-279-600.md](sec-279-600.md) | 0 |  |
+| KRS 279.990 | [sec-279-990.md](sec-279-990.md) | 0 |  |

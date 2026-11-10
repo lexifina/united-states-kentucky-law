@@ -4522,6 +4522,146 @@
      "sha256": "cf4c35bade265b7b005b01b7884c5881680396178342e5a7b153e6aef3e52158"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-273",
+   "short": "KRS ch. 273",
+   "title": "Kentucky Revised Statutes, Chapter 273: Religious, Charitable, And Educational Societies -- Nonstock, Nonprofit Corporations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38571",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 200,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38571",
+     "sha256": "85ca3565f8d8050dce14fda9ef65790e67889ac55c401ced6ad88ee3b3e809cf"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-273a",
+   "short": "KRS ch. 273A",
+   "title": "Kentucky Revised Statutes, Chapter 273A: Kentucky Uniform Unincorporated Nonprofit Association Act",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=43992",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 33,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=43992",
+     "sha256": "a8881caa0acce2f8440c0200f6e6600187462d84e00efc2a9c664b8329821316"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-274",
+   "short": "KRS ch. 274",
+   "title": "Kentucky Revised Statutes, Chapter 274: Professional Service Corporations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38577",
+   "versions": [
+    {
+     "from": "2011-06-08",
+     "units": 47,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38577",
+     "sha256": "870d2f7b6249fa6bdb70ccd69c4d4ccc81a2ab25533ad0318223c71c2f50c7ac"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-276",
+   "short": "KRS ch. 276",
+   "title": "Kentucky Revised Statutes, Chapter 276: Railroad Commission -- Rates And Service Of Common Carriers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38580",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 55,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38580",
+     "sha256": "c3eff8964c2705c3049b27552604887dcf31a18b13df6959c3cb7c684c861c6e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-277",
+   "short": "KRS ch. 277",
+   "title": "Kentucky Revised Statutes, Chapter 277: Railroads -- Organization And Operating Regulations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38581",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 47,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38581",
+     "sha256": "03e7dede16c6bf4687ca63ee5621f63f3a9e88f603e637b340a5d7e1111625e0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-279",
+   "short": "KRS ch. 279",
+   "title": "Kentucky Revised Statutes, Chapter 279: Rural Electric And Rural Telephone Cooperative Corporations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38597",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 55,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38597",
+     "sha256": "0ff9b2bcf9b9435369dfa67c29514c37ac30e217e8e19b518aef9a576b8a5a52"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-280",
+   "short": "KRS ch. 280",
+   "title": "Kentucky Revised Statutes, Chapter 280: Private Toll Bridges And Ferries",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38601",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38601",
+     "sha256": "2bc040cd3243baf37dad5536af691f9df64750415cf2b633348be7a6cf80335f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-281",
+   "short": "KRS ch. 281",
+   "title": "Kentucky Revised Statutes, Chapter 281: Motor Carriers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38607",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 204,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38607",
+     "sha256": "553e279c47121f4f8b6a85e28fc09af339185be50016e7d3a19446f0ea20a051"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-281a",
+   "short": "KRS ch. 281A",
+   "title": "Kentucky Revised Statutes, Chapter 281A: Commercial Driver'S Licenses",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38619",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 39,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38619",
+     "sha256": "09ebaa50d0073877cc3a12eea7fbcbfd38f6d13acaea6015fbccc0a22bbb9fca"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-286",
+   "short": "KRS ch. 286",
+   "title": "Kentucky Revised Statutes, Chapter 286: Kentucky Financial Services Code",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38622",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 520,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38622",
+     "sha256": "10b317a4694822086c2dc4e102758ae144d5038e5be7c729b30aa3ace92056ff"
+    }
+   ]
   }
  ]
 }

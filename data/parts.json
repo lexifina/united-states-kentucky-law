@@ -352,6 +352,21 @@
     "krs-chapter-272a"
    ],
    "sha256": "8ef29d1aa33df2d3f5948cae02572a7dd342d6003aea0d19029c7e13e2cbbca2"
+  },
+  "85-ky-rest-14.json": {
+   "acts": [
+    "krs-chapter-273",
+    "krs-chapter-273a",
+    "krs-chapter-274",
+    "krs-chapter-276",
+    "krs-chapter-277",
+    "krs-chapter-279",
+    "krs-chapter-280",
+    "krs-chapter-281",
+    "krs-chapter-281a",
+    "krs-chapter-286"
+   ],
+   "sha256": "9329ec1fafd1c0b8723138f7ee9d48f4e7600f83619909a4c419d4951528c467"
   }
  },
  "schema": 1

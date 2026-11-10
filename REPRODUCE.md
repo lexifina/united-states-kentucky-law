@@ -26,6 +26,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -356,12 +357,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-271b` | Kentucky Revised Statutes, Chapter 271B: Business Corporations | 1 | 2017-06-29 to 2017-06-29 |
 | `krs-chapter-272` | Kentucky Revised Statutes, Chapter 272: Cooperative Corporations And Associations | 1 | 2019-06-27 to 2019-06-27 |
 | `krs-chapter-272a` | Kentucky Revised Statutes, Chapter 272A: Kentucky Uniform Limited Cooperative Association Act | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-273` | Kentucky Revised Statutes, Chapter 273: Religious, Charitable, And Educational Societies -- Nonstock, Nonprofit Corporations | 1 | 2026-04-10 to 2026-04-10 |
+| `krs-chapter-273a` | Kentucky Revised Statutes, Chapter 273A: Kentucky Uniform Unincorporated Nonprofit Association Act | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-274` | Kentucky Revised Statutes, Chapter 274: Professional Service Corporations | 1 | 2011-06-08 to 2011-06-08 |
+| `krs-chapter-276` | Kentucky Revised Statutes, Chapter 276: Railroad Commission -- Rates And Service Of Common Carriers | 1 | 2010-07-15 to 2010-07-15 |
+| `krs-chapter-277` | Kentucky Revised Statutes, Chapter 277: Railroads -- Organization And Operating Regulations | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-279` | Kentucky Revised Statutes, Chapter 279: Rural Electric And Rural Telephone Cooperative Corporations | 1 | 2011-01-01 to 2011-01-01 |
+| `krs-chapter-280` | Kentucky Revised Statutes, Chapter 280: Private Toll Bridges And Ferries | 1 | 2000-12-01 to 2000-12-01 |
+| `krs-chapter-281` | Kentucky Revised Statutes, Chapter 281: Motor Carriers | 1 | 2026-08-01 to 2026-08-01 |
+| `krs-chapter-281a` | Kentucky Revised Statutes, Chapter 281A: Commercial Driver'S Licenses | 1 | 2026-04-13 to 2026-04-13 |
+| `krs-chapter-286` | Kentucky Revised Statutes, Chapter 286: Kentucky Financial Services Code | 1 | 2026-07-15 to 2026-07-15 |
 
-The build made 323 commits:
+The build made 333 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 323 | first version of an act |
+| 333 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -369,7 +380,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 323 tags.
+- 333 tags.
 
 ## Dates
 
@@ -381,7 +392,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b1ccf19c8d4ec684c1e0b3ef250a72323b67b8ba01ac0dc94cb6c499d4df140d` (39607948 bytes).
+- Corpus: sha256 `42de2000f7b72115a98caf04511a8797628ba9cf33e24fb4b5360210c4b895d1` (41423065 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
