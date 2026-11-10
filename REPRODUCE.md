@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-06 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -170,12 +171,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-021a` | Kentucky Revised Statutes, Chapter 21A: Supreme Court Of Kentucky | 1 | 2023-06-29 to 2023-06-29 |
 | `krs-chapter-023a` | Kentucky Revised Statutes, Chapter 23A: Circuit Court | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-024a` | Kentucky Revised Statutes, Chapter 24A: District Court | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-026a` | Kentucky Revised Statutes, Chapter 26A: Court Of Justice | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-027a` | Kentucky Revised Statutes, Chapter 27A: Judicial Support Agencies And Personnel | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-031` | Kentucky Revised Statutes, Chapter 31: Department Of Public Advocacy | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-035` | Kentucky Revised Statutes, Chapter 35: Military Justice | 1 | 2016-07-15 to 2016-07-15 |
+| `krs-chapter-036` | Kentucky Revised Statutes, Chapter 36: Department Of Military Affairs | 1 | 2024-04-04 to 2024-04-04 |
+| `krs-chapter-037` | Kentucky Revised Statutes, Chapter 37: Active Militia | 1 | 1984-07-13 to 1984-07-13 |
+| `krs-chapter-038` | Kentucky Revised Statutes, Chapter 38: National Guard | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-039` | Kentucky Revised Statutes, Chapter 39: Disaster And Emergency Services Management | 1 | 1998-07-15 to 1998-07-15 |
+| `krs-chapter-040` | Kentucky Revised Statutes, Chapter 40: Veterans | 1 | 2026-01-01 to 2026-01-01 |
+| `krs-chapter-041` | Kentucky Revised Statutes, Chapter 41: Department Of The Treasury | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-044` | Kentucky Revised Statutes, Chapter 44: Claims Upon The Treasury | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-045` | Kentucky Revised Statutes, Chapter 45: Budget And Financial Administration | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-046` | Kentucky Revised Statutes, Chapter 46: Report And Accounting Of State Funds By Local Officers | 1 | 2010-07-15 to 2010-07-15 |
+| `krs-chapter-047` | Kentucky Revised Statutes, Chapter 47: Appropriations | 1 | 2005-06-20 to 2005-06-20 |
+| `krs-chapter-056` | Kentucky Revised Statutes, Chapter 56: State Lands And Buildings | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-057` | Kentucky Revised Statutes, Chapter 57: Public Printing And Distribution Of Public Documents | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-058` | Kentucky Revised Statutes, Chapter 58: Acquisition And Development Of Public Projects Through Revenue Bonds | 1 | 2021-06-29 to 2021-06-29 |
+| `krs-chapter-063` | Kentucky Revised Statutes, Chapter 63: Resignations, Removals, And Vacancies | 1 | 2024-04-12 to 2024-04-12 |
 
-The build made 148 commits:
+The build made 166 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 148 | first version of an act |
+| 166 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -183,7 +202,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 148 tags.
+- 166 tags.
 
 ## Dates
 
@@ -195,7 +214,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1df5e50b8fab26f1f470eebeffbba4a6e8ee7fb8d71db2a9533c748b5ac9f083` (10739579 bytes).
+- Corpus: sha256 `414cf58f3627d31fb587896f6a1bbee2a27827d71d0257e3afbf5dc258dcebc2` (12289795 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

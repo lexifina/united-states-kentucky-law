@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 126 chapters (`krs-chapter-*/`), 5414 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 144 chapters (`krs-chapter-*/`), 6699 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -39,10 +39,18 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-022a/` | Kentucky Revised Statutes, Chapter 22A: Court Of Appeals | 7 | 2003-06-24 |
 | `krs-chapter-023a/` | Kentucky Revised Statutes, Chapter 23A: Circuit Court | 25 | 2026-07-15 |
 | `krs-chapter-024a/` | Kentucky Revised Statutes, Chapter 24A: District Court | 47 | 2026-07-15 |
+| `krs-chapter-026a/` | Kentucky Revised Statutes, Chapter 26A: Court Of Justice | 30 | 2024-07-15 |
+| `krs-chapter-027a/` | Kentucky Revised Statutes, Chapter 27A: Judicial Support Agencies And Personnel | 49 | 2026-07-15 |
 | `krs-chapter-029a/` | Kentucky Revised Statutes, Chapter 29A: Juries | 35 | 2026-07-15 |
 | `krs-chapter-030a/` | Kentucky Revised Statutes, Chapter 30A: Court Personnel | 38 | 2024-07-15 |
+| `krs-chapter-031/` | Kentucky Revised Statutes, Chapter 31: Department Of Public Advocacy | 44 | 2026-07-15 |
 | `krs-chapter-031a/` | Kentucky Revised Statutes, Chapter 31A: Master Commissioners And Receivers | 7 | 2005-03-20 |
 | `krs-chapter-032/` | Kentucky Revised Statutes, Chapter 32: Financing Of Unified State Court System | 11 | 2007-06-26 |
+| `krs-chapter-035/` | Kentucky Revised Statutes, Chapter 35: Military Justice | 212 | 2016-07-15 |
+| `krs-chapter-036/` | Kentucky Revised Statutes, Chapter 36: Department Of Military Affairs | 73 | 2024-04-04 |
+| `krs-chapter-037/` | Kentucky Revised Statutes, Chapter 37: Active Militia | 34 | 1984-07-13 |
+| `krs-chapter-038/` | Kentucky Revised Statutes, Chapter 38: National Guard | 56 | 2021-06-29 |
+| `krs-chapter-039/` | Kentucky Revised Statutes, Chapter 39: Disaster And Emergency Services Management | 114 | 1998-07-15 |
 | `krs-chapter-039a/` | Kentucky Revised Statutes, Chapter 39A: Statewide Emergency Management Programs | 52 | 2026-07-15 |
 | `krs-chapter-039b/` | Kentucky Revised Statutes, Chapter 39B: Local Emergency Management Programs | 13 | 2014-07-15 |
 | `krs-chapter-039c/` | Kentucky Revised Statutes, Chapter 39C: State Aid To Local Emergency Management Programs | 12 | 2002-07-15 |
@@ -50,10 +58,20 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-039e/` | Kentucky Revised Statutes, Chapter 39E: Implementation Of Federal Hazardous Materials Programs | 25 | 2021-06-29 |
 | `krs-chapter-039f/` | Kentucky Revised Statutes, Chapter 39F: Local Rescue Programs -- State And Local Search And Rescue Programs | 24 | 2026-07-15 |
 | `krs-chapter-039g/` | Kentucky Revised Statutes, Chapter 39G: Kentucky Office Of Homeland Security | 5 | 2019-06-27 |
+| `krs-chapter-040/` | Kentucky Revised Statutes, Chapter 40: Veterans | 66 | 2026-01-01 |
+| `krs-chapter-041/` | Kentucky Revised Statutes, Chapter 41: Department Of The Treasury | 68 | 2026-07-15 |
 | `krs-chapter-043/` | Kentucky Revised Statutes, Chapter 43: Auditor Of Public Accounts | 17 | 2026-07-15 |
+| `krs-chapter-044/` | Kentucky Revised Statutes, Chapter 44: Claims Upon The Treasury | 39 | 2026-07-15 |
+| `krs-chapter-045/` | Kentucky Revised Statutes, Chapter 45: Budget And Financial Administration | 161 | 2026-07-15 |
 | `krs-chapter-045a/` | Kentucky Revised Statutes, Chapter 45A: Kentucky Model Procurement Code | 197 | 2026-07-15 |
+| `krs-chapter-046/` | Kentucky Revised Statutes, Chapter 46: Report And Accounting Of State Funds By Local Officers | 9 | 2010-07-15 |
+| `krs-chapter-047/` | Kentucky Revised Statutes, Chapter 47: Appropriations | 16 | 2005-06-20 |
 | `krs-chapter-048/` | Kentucky Revised Statutes, Chapter 48: Budget | 54 | 2026-07-15 |
 | `krs-chapter-049/` | Kentucky Revised Statutes, Chapter 49: Office Of Claims And Appeals | 50 | 2024-07-15 |
+| `krs-chapter-056/` | Kentucky Revised Statutes, Chapter 56: State Lands And Buildings | 166 | 2026-07-15 |
+| `krs-chapter-057/` | Kentucky Revised Statutes, Chapter 57: Public Printing And Distribution Of Public Documents | 59 | 2026-07-15 |
+| `krs-chapter-058/` | Kentucky Revised Statutes, Chapter 58: Acquisition And Development Of Public Projects Through Revenue Bonds | 63 | 2021-06-29 |
+| `krs-chapter-063/` | Kentucky Revised Statutes, Chapter 63: Resignations, Removals, And Vacancies | 26 | 2024-04-12 |
 | `krs-chapter-065a/` | Kentucky Revised Statutes, Chapter 65A: Special Purpose Governmental Entities | 11 | 2025-06-27 |
 | `krs-chapter-067c/` | Kentucky Revised Statutes, Chapter 67C: Restructure Of Local Government In County Containing City Of First Class | 57 | 2026-07-15 |
 | `krs-chapter-071/` | Kentucky Revised Statutes, Chapter 71: Jailer | 14 | 2020-07-15 |

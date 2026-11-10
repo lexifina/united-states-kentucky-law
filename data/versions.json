@@ -2072,6 +2072,258 @@
      "sha256": "5075f418c2fe875d0e4c2815e36f1c28cda93e97d0c9c3c4e6dcd57e3fe660be"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-026a",
+   "short": "KRS ch. 26A",
+   "title": "Kentucky Revised Statutes, Chapter 26A: Court Of Justice",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37158",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 30,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37158",
+     "sha256": "a5fdeef80e573965cee9704d09dd0e3585df0354139a50a3be615321f7da477c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-027a",
+   "short": "KRS ch. 27A",
+   "title": "Kentucky Revised Statutes, Chapter 27A: Judicial Support Agencies And Personnel",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37165",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 49,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37165",
+     "sha256": "e640197d22829fd499b4948e5546082389ae9d56bb8240839e305d3f0b4e5b88"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-031",
+   "short": "KRS ch. 31",
+   "title": "Kentucky Revised Statutes, Chapter 31: Department Of Public Advocacy",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37178",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 44,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37178",
+     "sha256": "48eff161f5ca96934103898c6f760d00665cb42aa5928fe2601a5c4db2e4deda"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-035",
+   "short": "KRS ch. 35",
+   "title": "Kentucky Revised Statutes, Chapter 35: Military Justice",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37186",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 212,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37186",
+     "sha256": "97c601b11738442f814ed4e7fa80685de5fee7bb7e924dc96b25f842839e667a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-036",
+   "short": "KRS ch. 36",
+   "title": "Kentucky Revised Statutes, Chapter 36: Department Of Military Affairs",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37187",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 73,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37187",
+     "sha256": "2ad859199ff93cfda4fb6b8f38a28f17563e345b8ca2d12be1887d4e3e5386f6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-037",
+   "short": "KRS ch. 37",
+   "title": "Kentucky Revised Statutes, Chapter 37: Active Militia",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37193",
+   "versions": [
+    {
+     "from": "1984-07-13",
+     "units": 34,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37193",
+     "sha256": "72ac132030f080488e46c96969bcafb6146f932894ef66e81c4675c70d563366"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-038",
+   "short": "KRS ch. 38",
+   "title": "Kentucky Revised Statutes, Chapter 38: National Guard",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37194",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 56,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37194",
+     "sha256": "bf96b6ee204bedd924310c5610be997a0c17607eb98c8dcab5d7996e8e9e4cd4"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-039",
+   "short": "KRS ch. 39",
+   "title": "Kentucky Revised Statutes, Chapter 39: Disaster And Emergency Services Management",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37195",
+   "versions": [
+    {
+     "from": "1998-07-15",
+     "units": 114,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37195",
+     "sha256": "566773a3355b90f5e281fe52334f71d8532e477a7c0db4bf0d12d87cf8f78033"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-040",
+   "short": "KRS ch. 40",
+   "title": "Kentucky Revised Statutes, Chapter 40: Veterans",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37209",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 66,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37209",
+     "sha256": "70d955bd59326b9e6ff4deb9963220010689a69518ac3fcaadc099c62ce48a9e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-041",
+   "short": "KRS ch. 41",
+   "title": "Kentucky Revised Statutes, Chapter 41: Department Of The Treasury",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37222",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 68,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37222",
+     "sha256": "8ab4bb8572690f85b6b9ac01dace452719e263bb6fbfc13915e16fbd46bfcea0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-044",
+   "short": "KRS ch. 44",
+   "title": "Kentucky Revised Statutes, Chapter 44: Claims Upon The Treasury",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37239",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 39,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37239",
+     "sha256": "f6f95fd7f526766b4a40d15b7aca503e69c0b7c2b6ffd1b21875df810ac636ac"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-045",
+   "short": "KRS ch. 45",
+   "title": "Kentucky Revised Statutes, Chapter 45: Budget And Financial Administration",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37242",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 161,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37242",
+     "sha256": "470a4f268b2a53628140f8c0cf155a984332d0eaf113877e7300700a78bf6f0e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-046",
+   "short": "KRS ch. 46",
+   "title": "Kentucky Revised Statutes, Chapter 46: Report And Accounting Of State Funds By Local Officers",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37260",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37260",
+     "sha256": "569064ced70b04764c20567d596d3c84d30dcb798d9d30763785aba511183aeb"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-047",
+   "short": "KRS ch. 47",
+   "title": "Kentucky Revised Statutes, Chapter 47: Appropriations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37261",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 16,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37261",
+     "sha256": "af35a1ad1955e64041ecbac00ac8bf0310dfdf30314c816f621765002ab61b7f"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-056",
+   "short": "KRS ch. 56",
+   "title": "Kentucky Revised Statutes, Chapter 56: State Lands And Buildings",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37271",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 166,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37271",
+     "sha256": "99c3b3b2fa4db714479e2da6ab9680370a3f040eb29eca88b821b1f986283089"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-057",
+   "short": "KRS ch. 57",
+   "title": "Kentucky Revised Statutes, Chapter 57: Public Printing And Distribution Of Public Documents",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37285",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 59,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37285",
+     "sha256": "f8b7c920db46c0c0cb818b620738c987cd9b5ecbbd77f2bdc684daaa23de9571"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-058",
+   "short": "KRS ch. 58",
+   "title": "Kentucky Revised Statutes, Chapter 58: Acquisition And Development Of Public Projects Through Revenue Bonds",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37286",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 63,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37286",
+     "sha256": "0a18611ce4b42ed2201e4bd5ec2cd88815c1493fdac606bc05ead7ce7429ad14"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-063",
+   "short": "KRS ch. 63",
+   "title": "Kentucky Revised Statutes, Chapter 63: Resignations, Removals, And Vacancies",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37313",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 26,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37313",
+     "sha256": "f346f802c68c3f100bcea0f016675940e43b90085962c1f4f522d3ac3a1dd3e3"
+    }
+   ]
   }
  ]
 }
