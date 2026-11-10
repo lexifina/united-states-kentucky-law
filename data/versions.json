@@ -5180,6 +5180,328 @@
      "sha256": "0afcffc3f6766ad630e407ad193c4b4ded9d11940a28eac26a0dde43be9431e6"
     }
    ]
+  },
+  {
+   "slug": "krs-chapter-329",
+   "short": "KRS ch. 329",
+   "title": "Kentucky Revised Statutes, Chapter 329: Detection Of Deception Examiners",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38865",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 20,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38865",
+     "sha256": "418bdb2cc8cb8fa3434db31c4740c6e1f3d75c03ae66ff9bc189e7512183a983"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-329a",
+   "short": "KRS ch. 329A",
+   "title": "Kentucky Revised Statutes, Chapter 329A: Private Investigators",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38867",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 18,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38867",
+     "sha256": "eb75a3447d56baa0eedc94922f60e8b2f1a4a232163ec1372409c8e4515782de"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-330",
+   "short": "KRS ch. 330",
+   "title": "Kentucky Revised Statutes, Chapter 330: Auctioneers And Auction House Operators",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38868",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 31,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38868",
+     "sha256": "700f26141f3e37859d01541e1611c4df80415fc96e641827c6e1862e2b220733"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-332",
+   "short": "KRS ch. 332",
+   "title": "Kentucky Revised Statutes, Chapter 332: Driver Training Schools And Instructors",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38870",
+   "versions": [
+    {
+     "from": "2012-07-12",
+     "units": 24,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38870",
+     "sha256": "7551f2e4733812e7029a3978f169a7053735b6391b5e43f7a654946526a55b8b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-333",
+   "short": "KRS ch. 333",
+   "title": "Kentucky Revised Statutes, Chapter 333: Medical Laboratories",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38871",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 28,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38871",
+     "sha256": "abb06d009c7bf914fd45e92e064e0e79c5a5a902f5b5bee76ad9749c49502735"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-334",
+   "short": "KRS ch. 334",
+   "title": "Kentucky Revised Statutes, Chapter 334: Specialists In Hearing Instruments",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38872",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 23,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38872",
+     "sha256": "554ce5ddc97d8ce569a188d9a01bf10615c4f6abe141c431467d6bb32e135b60"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-334a",
+   "short": "KRS ch. 334A",
+   "title": "Kentucky Revised Statutes, Chapter 334A: Speech-Language Pathologists And Audiologists",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38873",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 36,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38873",
+     "sha256": "8acc935b8673f8e5c62016319a200581cbc4dc0215be6d58d250373b335f946d"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-335",
+   "short": "KRS ch. 335",
+   "title": "Kentucky Revised Statutes, Chapter 335: Social Workers And Professional Counselors",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38874",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 69,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38874",
+     "sha256": "3b530add7808d470be996502a321c3b608520f3af955e2ed0866511f9825f95c"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-335b",
+   "short": "KRS ch. 335B",
+   "title": "Kentucky Revised Statutes, Chapter 335B: Licensing And Public Employment Qualifications",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38881",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 14,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38881",
+     "sha256": "45b5d25e303256f442ecf8b900e142ef9c5c4f5aee3bc319b772e4dbbe7c988e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-336",
+   "short": "KRS ch. 336",
+   "title": "Kentucky Revised Statutes, Chapter 336: Labor And Employment",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38883",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 75,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38883",
+     "sha256": "8bd1a6642d50fa28b712ad3bf2bae27c5a2eba6145a469252468953e3eca7832"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-337",
+   "short": "KRS ch. 337",
+   "title": "Kentucky Revised Statutes, Chapter 337: Wages And Hours",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38890",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 70,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38890",
+     "sha256": "a8d43b06f78c90a97958b87030d286981fd9e8af9649308a07b16209d5dfe862"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-338",
+   "short": "KRS ch. 338",
+   "title": "Kentucky Revised Statutes, Chapter 338: Occupational Safety And Health Of Employees",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38899",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 48,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38899",
+     "sha256": "f53e823ea33ccadc8dfb61b7617c272d24d82efa28d4571d02734a45db1a19b6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-339",
+   "short": "KRS ch. 339",
+   "title": "Kentucky Revised Statutes, Chapter 339: Child Labor",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38900",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 51,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38900",
+     "sha256": "fe857126ad0b6cdf19a6d093f73b89e07e069c960926c0dfd66117699ec36b8a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-341",
+   "short": "KRS ch. 341",
+   "title": "Kentucky Revised Statutes, Chapter 341: Unemployment Compensation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38902",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 145,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38902",
+     "sha256": "32cb0d65ad5fa35a832cef31b7713c03524a197d39531f1d580de0b0c199bf7a"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-342",
+   "short": "KRS ch. 342",
+   "title": "Kentucky Revised Statutes, Chapter 342: Workers' Compensation",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38914",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 239,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38914",
+     "sha256": "3debb1852eb067eff28c3d6111d954be21982f129dcdad77aff79aed873cd2e0"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-343",
+   "short": "KRS ch. 343",
+   "title": "Kentucky Revised Statutes, Chapter 343: Apprenticeship",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38919",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 9,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38919",
+     "sha256": "89aa62a757ce570a5f769b7eb0b5d0e71d678533849d6c818a58cda7ee11ce9e"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-344",
+   "short": "KRS ch. 344",
+   "title": "Kentucky Revised Statutes, Chapter 344: Civil Rights",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38920",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 79,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38920",
+     "sha256": "dddb159a5ded9bba84b08b45f3d606df2f2ded235aa82556612d83d40d7101d6"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-345",
+   "short": "KRS ch. 345",
+   "title": "Kentucky Revised Statutes, Chapter 345: Collective Bargaining For Firefighters",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38925",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 13,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38925",
+     "sha256": "b89448b8cd9b60f1757b8ceaef6c18924020cda9240776e4a869c198cd9507ad"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-347",
+   "short": "KRS ch. 347",
+   "title": "Kentucky Revised Statutes, Chapter 347: Persons With Developmental Disabilities",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38927",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 6,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38927",
+     "sha256": "807f7064cf9a28e36b8ca6267f2e30ddd60f428ace634cfa4bd3cb4316900f2b"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-349",
+   "short": "KRS ch. 349",
+   "title": "Kentucky Revised Statutes, Chapter 349: Coalbed Methane Development",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38930",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 32,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38930",
+     "sha256": "15fe0e86dfb2e3cfc18ed71a797807e9a9560e5b7d40f0864c4cce571266e464"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-350",
+   "short": "KRS ch. 350",
+   "title": "Kentucky Revised Statutes, Chapter 350: Surface Coal Mining",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38931",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 139,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38931",
+     "sha256": "43485a949ddb5b9ba4dac254156ecca9c2e526e814fa7922d4b1c038e51ef188"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-352",
+   "short": "KRS ch. 352",
+   "title": "Kentucky Revised Statutes, Chapter 352: Mining Regulations",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38943",
+   "versions": [
+    {
+     "from": "2020-07-15",
+     "units": 81,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38943",
+     "sha256": "8425502e1435b809124e0e92d222e5862604cabc3d54709a5a32bba03c797c32"
+    }
+   ]
+  },
+  {
+   "slug": "krs-chapter-353",
+   "short": "KRS ch. 353",
+   "title": "Kentucky Revised Statutes, Chapter 353: Mineral Conservation And Development",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38944",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 160,
+     "source_url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38944",
+     "sha256": "db4a0ecf77e7cf88513516e7bb62d4f97bb88563aa82a50febe5ffb7c0ef0b74"
+    }
+   ]
   }
  ]
 }

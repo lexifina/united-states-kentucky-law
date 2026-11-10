@@ -7,7 +7,7 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 **Current coverage**
 
 - Constitution of Kentucky (1891): 22 folders (`constitution-*/`), one per topical group of sections, 277 sections.
-- Kentucky Revised Statutes: 348 chapters (`krs-chapter-*/`), 29192 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
+- Kentucky Revised Statutes: 371 chapters (`krs-chapter-*/`), 30602 sections, one folder per chapter and one file per section; official subchapters, subtitles and articles are read into their chapter's folder.
 
 **Source.** The [Kentucky Revised Statutes](https://apps.legislature.ky.gov/law/statutes/) and the [Constitution of Kentucky](https://apps.legislature.ky.gov/law/constitution), published by the Kentucky Legislative Research Commission, one PDF per section. English. Each section's own "Effective", "History" and "Note" lines are kept.
 
@@ -324,6 +324,29 @@ The law of Kentucky as a git history: one file per provision, with `git blame` a
 | `krs-chapter-325/` | Kentucky Revised Statutes, Chapter 325: Public Accountants | 56 | 2026-07-15 |
 | `krs-chapter-326/` | Kentucky Revised Statutes, Chapter 326: Ophthalmic Dispensers | 14 | 2024-07-15 |
 | `krs-chapter-327/` | Kentucky Revised Statutes, Chapter 327: Physical Therapists | 20 | 2026-07-15 |
+| `krs-chapter-329/` | Kentucky Revised Statutes, Chapter 329: Detection Of Deception Examiners | 20 | 2017-06-29 |
+| `krs-chapter-329a/` | Kentucky Revised Statutes, Chapter 329A: Private Investigators | 18 | 2017-06-29 |
+| `krs-chapter-330/` | Kentucky Revised Statutes, Chapter 330: Auctioneers And Auction House Operators | 31 | 2025-06-27 |
+| `krs-chapter-332/` | Kentucky Revised Statutes, Chapter 332: Driver Training Schools And Instructors | 24 | 2012-07-12 |
+| `krs-chapter-333/` | Kentucky Revised Statutes, Chapter 333: Medical Laboratories | 28 | 2022-04-12 |
+| `krs-chapter-334/` | Kentucky Revised Statutes, Chapter 334: Specialists In Hearing Instruments | 23 | 2023-06-29 |
+| `krs-chapter-334a/` | Kentucky Revised Statutes, Chapter 334A: Speech-Language Pathologists And Audiologists | 36 | 2026-07-15 |
+| `krs-chapter-335/` | Kentucky Revised Statutes, Chapter 335: Social Workers And Professional Counselors | 69 | 2026-07-15 |
+| `krs-chapter-335b/` | Kentucky Revised Statutes, Chapter 335B: Licensing And Public Employment Qualifications | 14 | 2026-07-15 |
+| `krs-chapter-336/` | Kentucky Revised Statutes, Chapter 336: Labor And Employment | 75 | 2023-06-29 |
+| `krs-chapter-337/` | Kentucky Revised Statutes, Chapter 337: Wages And Hours | 70 | 2026-04-10 |
+| `krs-chapter-338/` | Kentucky Revised Statutes, Chapter 338: Occupational Safety And Health Of Employees | 48 | 2025-06-27 |
+| `krs-chapter-339/` | Kentucky Revised Statutes, Chapter 339: Child Labor | 51 | 2024-07-15 |
+| `krs-chapter-341/` | Kentucky Revised Statutes, Chapter 341: Unemployment Compensation | 145 | 2026-07-15 |
+| `krs-chapter-342/` | Kentucky Revised Statutes, Chapter 342: Workers' Compensation | 239 | 2026-07-15 |
+| `krs-chapter-343/` | Kentucky Revised Statutes, Chapter 343: Apprenticeship | 9 | 2022-07-01 |
+| `krs-chapter-344/` | Kentucky Revised Statutes, Chapter 344: Civil Rights | 79 | 2023-06-29 |
+| `krs-chapter-345/` | Kentucky Revised Statutes, Chapter 345: Collective Bargaining For Firefighters | 13 | 2022-07-01 |
+| `krs-chapter-347/` | Kentucky Revised Statutes, Chapter 347: Persons With Developmental Disabilities | 6 | 2022-07-01 |
+| `krs-chapter-349/` | Kentucky Revised Statutes, Chapter 349: Coalbed Methane Development | 32 | 2017-06-29 |
+| `krs-chapter-350/` | Kentucky Revised Statutes, Chapter 350: Surface Coal Mining | 139 | 2026-07-15 |
+| `krs-chapter-352/` | Kentucky Revised Statutes, Chapter 352: Mining Regulations | 81 | 2020-07-15 |
+| `krs-chapter-353/` | Kentucky Revised Statutes, Chapter 353: Mineral Conservation And Development | 160 | 2026-07-15 |
 | `krs-chapter-381/` | Kentucky Revised Statutes, Chapter 381: Title To Property And Restrictions On Use, Ownership, And Alienation | 207 | 2026-10-29 |
 | `krs-chapter-382/` | Kentucky Revised Statutes, Chapter 382: Conveyances And Encumbrances | 99 | 2026-10-29 |
 | `krs-chapter-500/` | Kentucky Revised Statutes, Chapter 500: General Provisions | 16 | 2026-10-29 |

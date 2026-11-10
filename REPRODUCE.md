@@ -30,6 +30,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 | Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
+| Kentucky Revised Statutes, Legislative Research Commission | <https://apps.legislature.ky.gov/law/statutes/> | 2026-11-10 | Statute text carries no copyright (Georgia v. Public.Resource.Org, 2020). The site states no restriction on reuse of the statutes. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -407,12 +408,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `krs-chapter-325` | Kentucky Revised Statutes, Chapter 325: Public Accountants | 1 | 2026-07-15 to 2026-07-15 |
 | `krs-chapter-326` | Kentucky Revised Statutes, Chapter 326: Ophthalmic Dispensers | 1 | 2024-07-15 to 2024-07-15 |
 | `krs-chapter-327` | Kentucky Revised Statutes, Chapter 327: Physical Therapists | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-329` | Kentucky Revised Statutes, Chapter 329: Detection Of Deception Examiners | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-329a` | Kentucky Revised Statutes, Chapter 329A: Private Investigators | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-330` | Kentucky Revised Statutes, Chapter 330: Auctioneers And Auction House Operators | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-332` | Kentucky Revised Statutes, Chapter 332: Driver Training Schools And Instructors | 1 | 2012-07-12 to 2012-07-12 |
+| `krs-chapter-333` | Kentucky Revised Statutes, Chapter 333: Medical Laboratories | 1 | 2022-04-12 to 2022-04-12 |
+| `krs-chapter-334` | Kentucky Revised Statutes, Chapter 334: Specialists In Hearing Instruments | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-334a` | Kentucky Revised Statutes, Chapter 334A: Speech-Language Pathologists And Audiologists | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-335` | Kentucky Revised Statutes, Chapter 335: Social Workers And Professional Counselors | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-335b` | Kentucky Revised Statutes, Chapter 335B: Licensing And Public Employment Qualifications | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-336` | Kentucky Revised Statutes, Chapter 336: Labor And Employment | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-337` | Kentucky Revised Statutes, Chapter 337: Wages And Hours | 1 | 2026-04-10 to 2026-04-10 |
+| `krs-chapter-338` | Kentucky Revised Statutes, Chapter 338: Occupational Safety And Health Of Employees | 1 | 2025-06-27 to 2025-06-27 |
+| `krs-chapter-339` | Kentucky Revised Statutes, Chapter 339: Child Labor | 1 | 2024-07-15 to 2024-07-15 |
+| `krs-chapter-341` | Kentucky Revised Statutes, Chapter 341: Unemployment Compensation | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-342` | Kentucky Revised Statutes, Chapter 342: Workers' Compensation | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-343` | Kentucky Revised Statutes, Chapter 343: Apprenticeship | 1 | 2022-07-01 to 2022-07-01 |
+| `krs-chapter-344` | Kentucky Revised Statutes, Chapter 344: Civil Rights | 1 | 2023-06-29 to 2023-06-29 |
+| `krs-chapter-345` | Kentucky Revised Statutes, Chapter 345: Collective Bargaining For Firefighters | 1 | 2022-07-01 to 2022-07-01 |
+| `krs-chapter-347` | Kentucky Revised Statutes, Chapter 347: Persons With Developmental Disabilities | 1 | 2022-07-01 to 2022-07-01 |
+| `krs-chapter-349` | Kentucky Revised Statutes, Chapter 349: Coalbed Methane Development | 1 | 2017-06-29 to 2017-06-29 |
+| `krs-chapter-350` | Kentucky Revised Statutes, Chapter 350: Surface Coal Mining | 1 | 2026-07-15 to 2026-07-15 |
+| `krs-chapter-352` | Kentucky Revised Statutes, Chapter 352: Mining Regulations | 1 | 2020-07-15 to 2020-07-15 |
+| `krs-chapter-353` | Kentucky Revised Statutes, Chapter 353: Mineral Conservation And Development | 1 | 2026-07-15 to 2026-07-15 |
 
-The build made 370 commits:
+The build made 393 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 370 | first version of an act |
+| 393 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -420,7 +444,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 370 tags.
+- 393 tags.
 
 ## Dates
 
@@ -432,7 +456,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b2101317f6a83de9aa574613475ec2ba80ae48a9856fea6bf2d0e245e7b0cb6b` (49714960 bytes).
+- Corpus: sha256 `9d6f2080917d82518bda0138463ff2ce2dc27389d379b474bd566875cd0813f1` (52795097 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

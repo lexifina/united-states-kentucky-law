@@ -419,6 +419,34 @@
     "krs-chapter-327"
    ],
    "sha256": "0ca4b9aecb3eaaef3ddf5a8ee402be3e0c5f50100234ca3ce060afbf4547383d"
+  },
+  "85-ky-rest-18.json": {
+   "acts": [
+    "krs-chapter-329",
+    "krs-chapter-329a",
+    "krs-chapter-330",
+    "krs-chapter-332",
+    "krs-chapter-333",
+    "krs-chapter-334",
+    "krs-chapter-334a",
+    "krs-chapter-335",
+    "krs-chapter-335b",
+    "krs-chapter-336",
+    "krs-chapter-337",
+    "krs-chapter-338",
+    "krs-chapter-339",
+    "krs-chapter-341",
+    "krs-chapter-342",
+    "krs-chapter-343",
+    "krs-chapter-344",
+    "krs-chapter-345",
+    "krs-chapter-347",
+    "krs-chapter-349",
+    "krs-chapter-350",
+    "krs-chapter-352",
+    "krs-chapter-353"
+   ],
+   "sha256": "2ea88d6b4463f06e3a1ca07255a69aad015e4be33554b473831678d420b0fa30"
   }
  },
  "schema": 1
